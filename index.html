@@ -1,1 +1,217 @@
-hello world
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<link rel="stylesheet" href="stylesheets/butterfly.css">
+<style type="text/css">
+
+@font-face { font-family: digital-7; src: url('digital-7 (mono).ttf'); } 
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#abffff+1,49c0f0+100 */
+body{
+
+	background: #a90329;
+background: -moz-radial-gradient(center, ellipse cover, hsl(346,96%,34%) 0%, hsl(346,97%,29%) 44%, hsl(346,100%,22%) 100%);
+background: -webkit-radial-gradient(center, ellipse cover, hsl(346,96%,34%) 0%,hsl(346,97%,29%) 44%,hsl(346,100%,22%) 100%);
+background: radial-gradient(ellipse at center, hsl(346,96%,34%) 0%,hsl(346,97%,29%) 44%,hsl(346,100%,22%) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=1 );
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
+}
+
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+
+#credits{
+  color: rgba(255,255,255,0.2);
+  position: fixed;
+  top: 80%;
+  left: 80%;
+  transform: translate(-20%, -20%);
+}
+
+#time{
+	color: rgba(255,255,255,0.7);
+
+}
+
+#credits{
+  
+  /* bring your own prefixes */
+}
+
+</style>
+	<title></title>
+</head>
+<body>
+	<div id="time" class="centered">
+		12:12
+	</div>
+	<div id="credits"><div id="sign">My 1st AJAX Requests</div><p> <div id="name">Vitali Pom|</div></div>
+<script type="text/javascript">
+	  $("#time").css({"font-family": "digital-7", "font-size": "45vh"});
+	  $("#sign").css({"font-family": "Comic Sans MS"});
+	  $("#name").css({"font-family": "Arial"});
+
+      var start = new Date();
+      $("#time").html(start.getHours() + ":" + start.getMinutes() + ":" + start.getSeconds()).delay(1000);
+  	  func();
+      
+      function func(){
+      	 setTimeout(function(){
+         var start = new Date();
+    	 $("#time").html(pad(start.getHours(),2) + ":" + pad(start.getMinutes(),2) + ":" + pad(start.getSeconds(),2)).delay(1000);
+  	  	  func();
+      },1000); 
+    	
+    	function pad(num, size) {
+   			 var s = num+"";
+   			 while (s.length < size) s = "0" + s;
+   		 return s;
+		}
+      }
+	  
+  	
+</script>
+
+
+<div class="borboletas-1">
+  <div class="borboleta-1">
+    <div class="borboleta-oval-squish-1">
+      <div class="borboleta-oval-1">
+        <div class="borboleta-radial-1">
+          <div class="borboleta-gfx-1">
+            <div class="borboleta-anim-1"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="borboletas-2">
+  <div class="borboleta-2">
+    <div class="borboleta-oval-squish-2">
+      <div class="borboleta-oval-2">
+        <div class="borboleta-radial-2">
+          <div class="borboleta-gfx-2">
+            <div class="borboleta-anim-2"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="borboletas-3">
+  <div class="borboleta-3">
+    <div class="borboleta-oval-squish-3">
+      <div class="borboleta-oval-3">
+        <div class="borboleta-radial-3">
+          <div class="borboleta-gfx-3">
+            <div class="borboleta-anim-3"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="borboletas-4">
+  <div class="borboleta-4">
+    <div class="borboleta-oval-squish-4">
+      <div class="borboleta-oval-4">
+        <div class="borboleta-radial-4">
+          <div class="borboleta-gfx-4">
+            <div class="borboleta-anim-4"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="borboletas-5">
+  <div class="borboleta-5">
+    <div class="borboleta-oval-squish-5">
+      <div class="borboleta-oval-5">
+        <div class="borboleta-radial-5">
+          <div class="borboleta-gfx-5">
+            <div class="borboleta-anim-5"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="borboletas-6">
+  <div class="borboleta-6">
+    <div class="borboleta-oval-squish-6">
+      <div class="borboleta-oval-6">
+        <div class="borboleta-radial-6">
+          <div class="borboleta-gfx-6">
+            <div class="borboleta-anim-6"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="borboletas-7">
+  <div class="borboleta-7">
+    <div class="borboleta-oval-squish-7">
+      <div class="borboleta-oval-7">
+        <div class="borboleta-radial-7">
+          <div class="borboleta-gfx-7">
+            <div class="borboleta-anim-7"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="borboletas-8">
+  <div class="borboleta-8">
+    <div class="borboleta-oval-squish-8">
+      <div class="borboleta-oval-8">
+        <div class="borboleta-radial-8">
+          <div class="borboleta-gfx-8">
+            <div class="borboleta-anim-8"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="borboletas-9">
+  <div class="borboleta-9">
+    <div class="borboleta-oval-squish-9">
+      <div class="borboleta-oval-9">
+        <div class="borboleta-radial-9">
+          <div class="borboleta-gfx-9">
+            <div class="borboleta-anim-9"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<div class="borboletas-10">
+  <div class="borboleta-10">
+    <div class="borboleta-oval-squish-10">
+      <div class="borboleta-oval-10">
+        <div class="borboleta-radial-10">
+          <div class="borboleta-gfx-10">
+            <div class="borboleta-anim-10"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
+<!--vitali.pom-->
