@@ -1,6 +1,6 @@
 #phone { 
     /* The image used */
-    background-image: url("Geirangerfjord_.jpg");
+    background-image: url("img/Geirangerfjord_.jpg");
                                                   
     /* Full height */
                                                   
@@ -21,16 +21,20 @@
     z-index: 1;
     padding: 0 0 0 0;
     margin: 0 0 0 0;
-
+    height: 100vh;
 }
 
 #top_image{
     padding: 0 0 0 0;
     margin: 0 0 0 0;
-    
+    height: 100vh;
+    position: absolute;
+    z-index: 2;
 }
 
 #underline_image{
     padding: 0 0 0 0;
     margin: 0 0 0 0;
+    height: 100vh;
+
 }

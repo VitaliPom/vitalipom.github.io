@@ -1,256 +1,222 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <link rel="stylesheet" type="text/css" href="fullpage.css" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	<script src="jquery.waitforimages.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="text_appearance.css">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+        <script src="js/jquery.waitforimages.min.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="css/fullpage.css" />
+        <link rel="stylesheet" type="text/css" href="css/text_appearance.css">
 
         <link rel="stylesheet" href="stylesheets/butterfly.css">
-        <link rel="stylesheet" href="clock.css">
-        <link rel="stylesheet" href="phone.css">
+        <link rel="stylesheet" href="css/clock.css">
+        <link rel="stylesheet" href="css/phone.css">
+
 
         <style type="text/css">
 
 body, html{
-        margin: 0;
-        overflow-x: hidden;
-        font-size: 0;
+    margin: 0;
+    overflow-x: hidden;
+    font-size: 0;
 }
 
 #fp-nav ul li a span, .fp-slidesNav ul li a span {
     background: white;
 }
-</style>
-	<title>Vitali Pom</title>
-</head>
-<body>
-<div id="fullpage">
-    <div class="section">
-    <div id="clock">
-        <span id="time" class="centered">
-        </span>
-        <div id="credits"><div id="sign">My 1st AJAX Requests</div><p> <div id="name">Vitali Pom|</div></div>
-        <script type="text/javascript">
+        </style>
+        <title>Vitali Pom</title>
+    </head>
+    <body>
+        <div id="fullpage">
+            <div class="section">
+                <div id="clock">
+                    <span id="time" class="centered">
+                    </span>
+                    <div id="credits"><div id="sign">My 1st AJAX Requests</div><p> <div id="name">Vitali Pom|</div></div>
 
-var start = new Date();
-$("#time").html(start.getHours() + ":" + start.getMinutes() + ":" + start.getSeconds()).delay(1000);
-func();
-
-function func(){
-    setTimeout(function(){
-        var start = new Date();
-        $("#time").html(pad(start.getHours(),2) + ":" + pad(start.getMinutes(),2) + ":" + pad(start.getSeconds(),2)).delay(1000);
-        func();
-    },1000); 
-
-    function pad(num, size) {
-        var s = num+"";
-        while (s.length < size) s = "0" + s;
-        return s;
-    }
-}
-
-
-        </script>
-
-
-        <div class="borboletas-1">
-            <div class="borboleta-1">
-                <div class="borboleta-oval-squish-1">
-                    <div class="borboleta-oval-1">
-                        <div class="borboleta-radial-1">
-                            <div class="borboleta-gfx-1">
-                                <div class="borboleta-anim-1"></div>
+                    <div class="borboletas-1">
+                        <div class="borboleta-1">
+                            <div class="borboleta-oval-squish-1">
+                                <div class="borboleta-oval-1">
+                                    <div class="borboleta-radial-1">
+                                        <div class="borboleta-gfx-1">
+                                            <div class="borboleta-anim-1"></div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-        <div class="borboletas-2">
-            <div class="borboleta-2">
-                <div class="borboleta-oval-squish-2">
-                    <div class="borboleta-oval-2">
-                        <div class="borboleta-radial-2">
-                            <div class="borboleta-gfx-2">
-                                <div class="borboleta-anim-2"></div>
+                    <div class="borboletas-2">
+                        <div class="borboleta-2">
+                            <div class="borboleta-oval-squish-2">
+                                <div class="borboleta-oval-2">
+                                    <div class="borboleta-radial-2">
+                                        <div class="borboleta-gfx-2">
+                                            <div class="borboleta-anim-2"></div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
 
-        <div class="borboletas-3">
-            <div class="borboleta-3">
-                <div class="borboleta-oval-squish-3">
-                    <div class="borboleta-oval-3">
-                        <div class="borboleta-radial-3">
-                            <div class="borboleta-gfx-3">
-                                <div class="borboleta-anim-3"></div>
+                    <div class="borboletas-3">
+                        <div class="borboleta-3">
+                            <div class="borboleta-oval-squish-3">
+                                <div class="borboleta-oval-3">
+                                    <div class="borboleta-radial-3">
+                                        <div class="borboleta-gfx-3">
+                                            <div class="borboleta-anim-3"></div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-        <div class="borboletas-4">
-            <div class="borboleta-4">
-                <div class="borboleta-oval-squish-4">
-                    <div class="borboleta-oval-4">
-                        <div class="borboleta-radial-4">
-                            <div class="borboleta-gfx-4">
-                                <div class="borboleta-anim-4"></div>
+                    <div class="borboletas-4">
+                        <div class="borboleta-4">
+                            <div class="borboleta-oval-squish-4">
+                                <div class="borboleta-oval-4">
+                                    <div class="borboleta-radial-4">
+                                        <div class="borboleta-gfx-4">
+                                            <div class="borboleta-anim-4"></div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-        <div class="borboletas-5">
-            <div class="borboleta-5">
-                <div class="borboleta-oval-squish-5">
-                    <div class="borboleta-oval-5">
-                        <div class="borboleta-radial-5">
-                            <div class="borboleta-gfx-5">
-                                <div class="borboleta-anim-5"></div>
+                    <div class="borboletas-5">
+                        <div class="borboleta-5">
+                            <div class="borboleta-oval-squish-5">
+                                <div class="borboleta-oval-5">
+                                    <div class="borboleta-radial-5">
+                                        <div class="borboleta-gfx-5">
+                                            <div class="borboleta-anim-5"></div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-        <div class="borboletas-6">
-            <div class="borboleta-6">
-                <div class="borboleta-oval-squish-6">
-                    <div class="borboleta-oval-6">
-                        <div class="borboleta-radial-6">
-                            <div class="borboleta-gfx-6">
-                                <div class="borboleta-anim-6"></div>
+                    <div class="borboletas-6">
+                        <div class="borboleta-6">
+                            <div class="borboleta-oval-squish-6">
+                                <div class="borboleta-oval-6">
+                                    <div class="borboleta-radial-6">
+                                        <div class="borboleta-gfx-6">
+                                            <div class="borboleta-anim-6"></div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-        <div class="borboletas-7">
-            <div class="borboleta-7">
-                <div class="borboleta-oval-squish-7">
-                    <div class="borboleta-oval-7">
-                        <div class="borboleta-radial-7">
-                            <div class="borboleta-gfx-7">
-                                <div class="borboleta-anim-7"></div>
+                    <div class="borboletas-7">
+                        <div class="borboleta-7">
+                            <div class="borboleta-oval-squish-7">
+                                <div class="borboleta-oval-7">
+                                    <div class="borboleta-radial-7">
+                                        <div class="borboleta-gfx-7">
+                                            <div class="borboleta-anim-7"></div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-        <div class="borboletas-8">
-            <div class="borboleta-8">
-                <div class="borboleta-oval-squish-8">
-                    <div class="borboleta-oval-8">
-                        <div class="borboleta-radial-8">
-                            <div class="borboleta-gfx-8">
-                                <div class="borboleta-anim-8"></div>
+                    <div class="borboletas-8">
+                        <div class="borboleta-8">
+                            <div class="borboleta-oval-squish-8">
+                                <div class="borboleta-oval-8">
+                                    <div class="borboleta-radial-8">
+                                        <div class="borboleta-gfx-8">
+                                            <div class="borboleta-anim-8"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="borboletas-9">
+                            <div class="borboleta-9">
+                                <div class="borboleta-oval-squish-9">
+                                    <div class="borboleta-oval-9">
+                                        <div class="borboleta-radial-9">
+                                            <div class="borboleta-gfx-9">
+                                                <div class="borboleta-anim-9"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="borboletas-9">
-                <div class="borboleta-9">
-                    <div class="borboleta-oval-squish-9">
-                        <div class="borboleta-oval-9">
-                            <div class="borboleta-radial-9">
-                                <div class="borboleta-gfx-9">
-                                    <div class="borboleta-anim-9"></div>
+                    <div class="borboletas-10">
+                        <div class="borboleta-10">
+                            <div class="borboleta-oval-squish-10">
+                                <div class="borboleta-oval-10">
+                                    <div class="borboleta-radial-10">
+                                        <div class="borboleta-gfx-10">
+                                            <div class="borboleta-anim-10"></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="borboletas-10">
-            <div class="borboleta-10">
-                <div class="borboleta-oval-squish-10">
-                    <div class="borboleta-oval-10">
-                        <div class="borboleta-radial-10">
-                            <div class="borboleta-gfx-10">
-                                <div class="borboleta-anim-10"></div>
+            <div class="section">
+                <div id="phone">
+                    <div class="container-fluid" >
+                        <div class="row">
+                            <div class="col-1 col-sm-1 col-md-7 col-lg-7 col-xl-7" >		      
                             </div>
+                                <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5" >  
+
+                                    <div id="phone_container" class="phone_class">
+                                        <div id="phone_image"><img src="img/white_clipboard.png" id="underline_image" /></div>
+                                        <img src="img/bbk-phone-model.png" id="top_image" class="phone_class" />
+                                    </div>
+
+                                </div>
                         </div>
+
                     </div>
+
+
                 </div>
             </div>
         </div>
-    </div>
-    </div>
-    <div class="section">
-    <div id="phone">
- 	<div class="container-fluid" >
-  		<div class="row">
-  		    <div class="col-1 col-sm-1 col-md-7 col-lg-7 col-xl-7" >		      
-  		    </div>
-  		    <div class="col-5 col-sm-5 col-md-5 col-lg-5 col-xl-5" >  
-  
-  	    		<div id="phone_container" class="phone_class">
-                            <div id="phone_image"><img src="white_clipboard.png" id="underline_image" style="height:100vh;" /></div>
-                            <img src="bbk-phone-model.png" id="top_image" class="phone_class" style=";height:100vh;position:absolute;z-index:2" />
-  	    		</div>
-  
-  		    </div>
-  		  </div>
-  
-  	</div>
-  
-  <script src="text_appearance.js"></script>
-  
-  <script type="text/javascript">
-  	$('#phone')
-  	  .css('background-image','url(Geirangerfjord_.jpg)')
-  	  .waitForImages(function() {
-  
-  	    var offset_top_image = $('#top_image').offset().top;
-  	    //$('#top_image').offset({top: 0});
-  	    //$('#top_image').css({marginTop: '-120%'});
-  
-  	    $('#top_image').css({top: $('#underline_image').position().top});
-  	    $('#underline_image').css({top: $('#underline_image').position().top});
-  	     // This *does* work
-  
-  	    showTextLine();
-  	}, $.noop, true);
-  	
-  </script>
+        
+        <script src="js/clock.js"></script>
+        <script src="js/text_appearance.js"></script>
+        <script src="js/main_phone.js"></script>
 
-    </div>
-</div>
-</div>
-<script type="text/javascript" src="fullpage.extensions.min.js"></script>
-<script type="text/javascript">
+        <script type="text/javascript" src="js/fullpage.extensions.min.js"></script>
+        <script type="text/javascript">
 
-$(document).ready(function() {
-	$('#fullpage').fullpage({
-		//options here
-		autoScrolling:true,
-		scrollHorizontally: true,
-	        navigation: true,
-                navigationTooltips: ['clock', 'chat'],
-                lazyLoading: false,
-        });
+            $(document).ready(function() {
+                $('#fullpage').fullpage({
+                    //options here
+                    autoScrolling:true,
+                    scrollHorizontally: true,
+                    navigation: true,
+                    navigationTooltips: ['clock', 'chat'],
+                    lazyLoading: false,
+                });
 
-	//methods
-	$.fn.fullpage.setAllowScrolling(true);
-});
+                //methods
+                $.fn.fullpage.setAllowScrolling(true);
+            });
 
-</script>
+        </script>
 
-</body>
+    </body>
 </html>
 <!--vitali.pom-->
