@@ -19,5 +19,18 @@
     display: inline-block;
     position: absolute;
     z-index: 1;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
 
+}
+
+#top_image{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    
+}
+
+#underline_image{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
 }
