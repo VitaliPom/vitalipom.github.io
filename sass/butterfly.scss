@@ -1,6 +1,5 @@
 @import "compass/css3";
 
-
 html, body {margin: 0; height: 100%; overflow: hidden}
 
 $colors: #b004f9, #6547ff, #eeaa11, #a4c885, #4892dd, #546c85, #fc72b0, #fca1ac, #fdd5d4, #0c6c6e;
@@ -8,30 +7,30 @@ $colors: #b004f9, #6547ff, #eeaa11, #a4c885, #4892dd, #546c85, #fc72b0, #fca1ac,
 @for $i from 1 to 11{ 
 @include keyframes(borboletas-pos-loop-#{$i}){
 	
-	0%   {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	11%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	22%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	33%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	44%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	55%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	66%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	77%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	88%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	100% {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	0%   {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	11%  {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	22%  {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	33%  {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	44%  {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	55%  {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	66%  {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	77%  {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	88%  {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	100% {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
 }
 
 @include keyframes(borboletas-pos-loop-#{$i}){
 	
-	0%   {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	11%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	22%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	33%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	44%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	55%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	66%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	77%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	88%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
-	100% {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	0%   {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	11%  {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	22%  {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	33%  {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	44%  {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	55%  {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	66%  {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	77%  {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	88%  {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
+	100% {@include transform(translate((random(100)+vw),-(random(100)+vh) ));}
 }
 
 .borboletas-#{$i}{

@@ -1,336 +1,341 @@
-/* line 4, ../sass/butterfly.scss */
+/* line 3, ../sass/butterfly.scss */
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
 
 @-moz-keyframes borboletas-pos-loop-1 {
   0% {
-    -moz-transform: translate(1086px, -144px);
-    transform: translate(1086px, -144px);
+    -moz-transform: translate(50vw, -95vh);
+    transform: translate(50vw, -95vh);
   }
   11% {
-    -moz-transform: translate(1919px, -263px);
-    transform: translate(1919px, -263px);
+    -moz-transform: translate(53vw, -1vh);
+    transform: translate(53vw, -1vh);
   }
   22% {
-    -moz-transform: translate(1569px, -645px);
-    transform: translate(1569px, -645px);
+    -moz-transform: translate(47vw, -79vh);
+    transform: translate(47vw, -79vh);
   }
   33% {
-    -moz-transform: translate(1483px, -979px);
-    transform: translate(1483px, -979px);
+    -moz-transform: translate(46vw, -82vh);
+    transform: translate(46vw, -82vh);
   }
   44% {
-    -moz-transform: translate(127px, -350px);
-    transform: translate(127px, -350px);
+    -moz-transform: translate(9vw, -60vh);
+    transform: translate(9vw, -60vh);
   }
   55% {
-    -moz-transform: translate(1751px, -961px);
-    transform: translate(1751px, -961px);
+    -moz-transform: translate(27vw, -88vh);
+    transform: translate(27vw, -88vh);
   }
   66% {
-    -moz-transform: translate(245px, -296px);
-    transform: translate(245px, -296px);
+    -moz-transform: translate(62vw, -59vh);
+    transform: translate(62vw, -59vh);
   }
   77% {
-    -moz-transform: translate(1070px, -806px);
-    transform: translate(1070px, -806px);
+    -moz-transform: translate(90vw, -12vh);
+    transform: translate(90vw, -12vh);
   }
   88% {
-    -moz-transform: translate(1722px, -822px);
-    transform: translate(1722px, -822px);
+    -moz-transform: translate(21vw, -7vh);
+    transform: translate(21vw, -7vh);
   }
   100% {
-    -moz-transform: translate(161px, -957px);
-    transform: translate(161px, -957px);
+    -moz-transform: translate(53vw, -11vh);
+    transform: translate(53vw, -11vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-1 {
   0% {
-    -webkit-transform: translate(1134px, -174px);
-    transform: translate(1134px, -174px);
+    -webkit-transform: translate(36vw, -6vh);
+    transform: translate(36vw, -6vh);
   }
   11% {
-    -webkit-transform: translate(1136px, -101px);
-    transform: translate(1136px, -101px);
+    -webkit-transform: translate(37vw, -88vh);
+    transform: translate(37vw, -88vh);
   }
   22% {
-    -webkit-transform: translate(31px, -420px);
-    transform: translate(31px, -420px);
+    -webkit-transform: translate(35vw, -99vh);
+    transform: translate(35vw, -99vh);
   }
   33% {
-    -webkit-transform: translate(82px, -87px);
-    transform: translate(82px, -87px);
+    -webkit-transform: translate(19vw, -61vh);
+    transform: translate(19vw, -61vh);
   }
   44% {
-    -webkit-transform: translate(1197px, -875px);
-    transform: translate(1197px, -875px);
+    -webkit-transform: translate(94vw, -67vh);
+    transform: translate(94vw, -67vh);
   }
   55% {
-    -webkit-transform: translate(1068px, -465px);
-    transform: translate(1068px, -465px);
+    -webkit-transform: translate(28vw, -84vh);
+    transform: translate(28vw, -84vh);
   }
   66% {
-    -webkit-transform: translate(1423px, -515px);
-    transform: translate(1423px, -515px);
+    -webkit-transform: translate(57vw, -22vh);
+    transform: translate(57vw, -22vh);
   }
   77% {
-    -webkit-transform: translate(1144px, -922px);
-    transform: translate(1144px, -922px);
+    -webkit-transform: translate(67vw, -74vh);
+    transform: translate(67vw, -74vh);
   }
   88% {
-    -webkit-transform: translate(1241px, -86px);
-    transform: translate(1241px, -86px);
+    -webkit-transform: translate(93vw, -52vh);
+    transform: translate(93vw, -52vh);
   }
   100% {
-    -webkit-transform: translate(1535px, -34px);
-    transform: translate(1535px, -34px);
+    -webkit-transform: translate(22vw, -53vh);
+    transform: translate(22vw, -53vh);
   }
 }
 @keyframes borboletas-pos-loop-1 {
   0% {
-    -moz-transform: translate(1084px, -5px);
-    -ms-transform: translate(1084px, -5px);
-    -webkit-transform: translate(1084px, -5px);
-    transform: translate(1084px, -5px);
+    -moz-transform: translate(100vw, -34vh);
+    -ms-transform: translate(100vw, -34vh);
+    -webkit-transform: translate(100vw, -34vh);
+    transform: translate(100vw, -34vh);
   }
   11% {
-    -moz-transform: translate(1796px, -217px);
-    -ms-transform: translate(1796px, -217px);
-    -webkit-transform: translate(1796px, -217px);
-    transform: translate(1796px, -217px);
+    -moz-transform: translate(92vw, -61vh);
+    -ms-transform: translate(92vw, -61vh);
+    -webkit-transform: translate(92vw, -61vh);
+    transform: translate(92vw, -61vh);
   }
   22% {
-    -moz-transform: translate(787px, -286px);
-    -ms-transform: translate(787px, -286px);
-    -webkit-transform: translate(787px, -286px);
-    transform: translate(787px, -286px);
+    -moz-transform: translate(70vw, -1vh);
+    -ms-transform: translate(70vw, -1vh);
+    -webkit-transform: translate(70vw, -1vh);
+    transform: translate(70vw, -1vh);
   }
   33% {
-    -moz-transform: translate(1185px, -790px);
-    -ms-transform: translate(1185px, -790px);
-    -webkit-transform: translate(1185px, -790px);
-    transform: translate(1185px, -790px);
+    -moz-transform: translate(48vw, -1vh);
+    -ms-transform: translate(48vw, -1vh);
+    -webkit-transform: translate(48vw, -1vh);
+    transform: translate(48vw, -1vh);
   }
   44% {
-    -moz-transform: translate(391px, -1034px);
-    -ms-transform: translate(391px, -1034px);
-    -webkit-transform: translate(391px, -1034px);
-    transform: translate(391px, -1034px);
+    -moz-transform: translate(88vw, -59vh);
+    -ms-transform: translate(88vw, -59vh);
+    -webkit-transform: translate(88vw, -59vh);
+    transform: translate(88vw, -59vh);
   }
   55% {
-    -moz-transform: translate(411px, -16px);
-    -ms-transform: translate(411px, -16px);
-    -webkit-transform: translate(411px, -16px);
-    transform: translate(411px, -16px);
+    -moz-transform: translate(13vw, -20vh);
+    -ms-transform: translate(13vw, -20vh);
+    -webkit-transform: translate(13vw, -20vh);
+    transform: translate(13vw, -20vh);
   }
   66% {
-    -moz-transform: translate(1049px, -616px);
-    -ms-transform: translate(1049px, -616px);
-    -webkit-transform: translate(1049px, -616px);
-    transform: translate(1049px, -616px);
+    -moz-transform: translate(33vw, -72vh);
+    -ms-transform: translate(33vw, -72vh);
+    -webkit-transform: translate(33vw, -72vh);
+    transform: translate(33vw, -72vh);
   }
   77% {
-    -moz-transform: translate(1851px, -491px);
-    -ms-transform: translate(1851px, -491px);
-    -webkit-transform: translate(1851px, -491px);
-    transform: translate(1851px, -491px);
+    -moz-transform: translate(37vw, -53vh);
+    -ms-transform: translate(37vw, -53vh);
+    -webkit-transform: translate(37vw, -53vh);
+    transform: translate(37vw, -53vh);
   }
   88% {
-    -moz-transform: translate(903px, -97px);
-    -ms-transform: translate(903px, -97px);
-    -webkit-transform: translate(903px, -97px);
-    transform: translate(903px, -97px);
+    -moz-transform: translate(50vw, -11vh);
+    -ms-transform: translate(50vw, -11vh);
+    -webkit-transform: translate(50vw, -11vh);
+    transform: translate(50vw, -11vh);
   }
   100% {
-    -moz-transform: translate(207px, -928px);
-    -ms-transform: translate(207px, -928px);
-    -webkit-transform: translate(207px, -928px);
-    transform: translate(207px, -928px);
+    -moz-transform: translate(28vw, -12vh);
+    -ms-transform: translate(28vw, -12vh);
+    -webkit-transform: translate(28vw, -12vh);
+    transform: translate(28vw, -12vh);
   }
 }
 @-moz-keyframes borboletas-pos-loop-1 {
   0% {
-    -moz-transform: translate(1298px, -494px);
-    transform: translate(1298px, -494px);
+    -moz-transform: translate(39vw, -25vh);
+    transform: translate(39vw, -25vh);
   }
   11% {
-    -moz-transform: translate(1664px, -789px);
-    transform: translate(1664px, -789px);
+    -moz-transform: translate(78vw, -58vh);
+    transform: translate(78vw, -58vh);
   }
   22% {
-    -moz-transform: translate(646px, -128px);
-    transform: translate(646px, -128px);
+    -moz-transform: translate(49vw, -84vh);
+    transform: translate(49vw, -84vh);
   }
   33% {
-    -moz-transform: translate(876px, -319px);
-    transform: translate(876px, -319px);
+    -moz-transform: translate(8vw, -21vh);
+    transform: translate(8vw, -21vh);
   }
   44% {
-    -moz-transform: translate(1215px, -1060px);
-    transform: translate(1215px, -1060px);
+    -moz-transform: translate(100vw, -69vh);
+    transform: translate(100vw, -69vh);
   }
   55% {
-    -moz-transform: translate(1820px, -506px);
-    transform: translate(1820px, -506px);
+    -moz-transform: translate(78vw, -14vh);
+    transform: translate(78vw, -14vh);
   }
   66% {
-    -moz-transform: translate(366px, -62px);
-    transform: translate(366px, -62px);
+    -moz-transform: translate(19vw, -3vh);
+    transform: translate(19vw, -3vh);
   }
   77% {
-    -moz-transform: translate(497px, -215px);
-    transform: translate(497px, -215px);
+    -moz-transform: translate(72vw, -77vh);
+    transform: translate(72vw, -77vh);
   }
   88% {
-    -moz-transform: translate(48px, -940px);
-    transform: translate(48px, -940px);
+    -moz-transform: translate(9vw, -55vh);
+    transform: translate(9vw, -55vh);
   }
   100% {
-    -moz-transform: translate(935px, -86px);
-    transform: translate(935px, -86px);
+    -moz-transform: translate(96vw, -7vh);
+    transform: translate(96vw, -7vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-1 {
   0% {
-    -webkit-transform: translate(298px, -234px);
-    transform: translate(298px, -234px);
+    -webkit-transform: translate(76vw, -13vh);
+    transform: translate(76vw, -13vh);
   }
   11% {
-    -webkit-transform: translate(354px, -327px);
-    transform: translate(354px, -327px);
+    -webkit-transform: translate(84vw, -96vh);
+    transform: translate(84vw, -96vh);
   }
   22% {
-    -webkit-transform: translate(858px, -70px);
-    transform: translate(858px, -70px);
+    -webkit-transform: translate(66vw, -67vh);
+    transform: translate(66vw, -67vh);
   }
   33% {
-    -webkit-transform: translate(233px, -814px);
-    transform: translate(233px, -814px);
+    -webkit-transform: translate(27vw, -83vh);
+    transform: translate(27vw, -83vh);
   }
   44% {
-    -webkit-transform: translate(1436px, -867px);
-    transform: translate(1436px, -867px);
+    -webkit-transform: translate(7vw, -72vh);
+    transform: translate(7vw, -72vh);
   }
   55% {
-    -webkit-transform: translate(361px, -929px);
-    transform: translate(361px, -929px);
+    -webkit-transform: translate(39vw, -65vh);
+    transform: translate(39vw, -65vh);
   }
   66% {
-    -webkit-transform: translate(1270px, -346px);
-    transform: translate(1270px, -346px);
+    -webkit-transform: translate(1vw, -19vh);
+    transform: translate(1vw, -19vh);
   }
   77% {
-    -webkit-transform: translate(439px, -964px);
-    transform: translate(439px, -964px);
+    -webkit-transform: translate(100vw, -66vh);
+    transform: translate(100vw, -66vh);
   }
   88% {
-    -webkit-transform: translate(1130px, -136px);
-    transform: translate(1130px, -136px);
+    -webkit-transform: translate(1vw, -26vh);
+    transform: translate(1vw, -26vh);
   }
   100% {
-    -webkit-transform: translate(1269px, -1016px);
-    transform: translate(1269px, -1016px);
+    -webkit-transform: translate(1vw, -67vh);
+    transform: translate(1vw, -67vh);
   }
 }
 @keyframes borboletas-pos-loop-1 {
   0% {
-    -moz-transform: translate(1420px, -403px);
-    -ms-transform: translate(1420px, -403px);
-    -webkit-transform: translate(1420px, -403px);
-    transform: translate(1420px, -403px);
+    -moz-transform: translate(90vw, -10vh);
+    -ms-transform: translate(90vw, -10vh);
+    -webkit-transform: translate(90vw, -10vh);
+    transform: translate(90vw, -10vh);
   }
   11% {
-    -moz-transform: translate(570px, -210px);
-    -ms-transform: translate(570px, -210px);
-    -webkit-transform: translate(570px, -210px);
-    transform: translate(570px, -210px);
+    -moz-transform: translate(57vw, -88vh);
+    -ms-transform: translate(57vw, -88vh);
+    -webkit-transform: translate(57vw, -88vh);
+    transform: translate(57vw, -88vh);
   }
   22% {
-    -moz-transform: translate(55px, -446px);
-    -ms-transform: translate(55px, -446px);
-    -webkit-transform: translate(55px, -446px);
-    transform: translate(55px, -446px);
+    -moz-transform: translate(100vw, -52vh);
+    -ms-transform: translate(100vw, -52vh);
+    -webkit-transform: translate(100vw, -52vh);
+    transform: translate(100vw, -52vh);
   }
   33% {
-    -moz-transform: translate(1148px, -704px);
-    -ms-transform: translate(1148px, -704px);
-    -webkit-transform: translate(1148px, -704px);
-    transform: translate(1148px, -704px);
+    -moz-transform: translate(98vw, -83vh);
+    -ms-transform: translate(98vw, -83vh);
+    -webkit-transform: translate(98vw, -83vh);
+    transform: translate(98vw, -83vh);
   }
   44% {
-    -moz-transform: translate(1700px, -266px);
-    -ms-transform: translate(1700px, -266px);
-    -webkit-transform: translate(1700px, -266px);
-    transform: translate(1700px, -266px);
+    -moz-transform: translate(65vw, -72vh);
+    -ms-transform: translate(65vw, -72vh);
+    -webkit-transform: translate(65vw, -72vh);
+    transform: translate(65vw, -72vh);
   }
   55% {
-    -moz-transform: translate(193px, -319px);
-    -ms-transform: translate(193px, -319px);
-    -webkit-transform: translate(193px, -319px);
-    transform: translate(193px, -319px);
+    -moz-transform: translate(19vw, -88vh);
+    -ms-transform: translate(19vw, -88vh);
+    -webkit-transform: translate(19vw, -88vh);
+    transform: translate(19vw, -88vh);
   }
   66% {
-    -moz-transform: translate(377px, -261px);
-    -ms-transform: translate(377px, -261px);
-    -webkit-transform: translate(377px, -261px);
-    transform: translate(377px, -261px);
+    -moz-transform: translate(23vw, -29vh);
+    -ms-transform: translate(23vw, -29vh);
+    -webkit-transform: translate(23vw, -29vh);
+    transform: translate(23vw, -29vh);
   }
   77% {
-    -moz-transform: translate(189px, -356px);
-    -ms-transform: translate(189px, -356px);
-    -webkit-transform: translate(189px, -356px);
-    transform: translate(189px, -356px);
+    -moz-transform: translate(69vw, -24vh);
+    -ms-transform: translate(69vw, -24vh);
+    -webkit-transform: translate(69vw, -24vh);
+    transform: translate(69vw, -24vh);
   }
   88% {
-    -moz-transform: translate(603px, -187px);
-    -ms-transform: translate(603px, -187px);
-    -webkit-transform: translate(603px, -187px);
-    transform: translate(603px, -187px);
+    -moz-transform: translate(76vw, -25vh);
+    -ms-transform: translate(76vw, -25vh);
+    -webkit-transform: translate(76vw, -25vh);
+    transform: translate(76vw, -25vh);
   }
   100% {
-    -moz-transform: translate(1412px, -51px);
-    -ms-transform: translate(1412px, -51px);
-    -webkit-transform: translate(1412px, -51px);
-    transform: translate(1412px, -51px);
+    -moz-transform: translate(93vw, -10vh);
+    -ms-transform: translate(93vw, -10vh);
+    -webkit-transform: translate(93vw, -10vh);
+    transform: translate(93vw, -10vh);
   }
 }
-/* line 37, ../sass/butterfly.scss */
+/* line 36, ../sass/butterfly.scss */
 .borboletas-1 {
   position: absolute;
   left: 0px;
   bottom: 0px;
-  -moz-animation: borboletas-pos-loop-1 36s ease-in-out infinite alternate-reverse;
-  -webkit-animation: borboletas-pos-loop-1 36s ease-in-out infinite alternate-reverse;
-  animation: borboletas-pos-loop-1 36s ease-in-out infinite alternate-reverse;
+  -moz-animation: borboletas-pos-loop-1 30s ease-in-out infinite alternate-reverse;
+  -webkit-animation: borboletas-pos-loop-1 30s ease-in-out infinite alternate-reverse;
+  animation: borboletas-pos-loop-1 30s ease-in-out infinite alternate-reverse;
 }
 
-/* line 49, ../sass/butterfly.scss */
+/* line 48, ../sass/butterfly.scss */
 .borboleta-1 {
   -moz-animation: borboleta-radial-loop-1 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-1 1.2s linear infinite;
   animation: borboleta-radial-loop-1 1.2s linear infinite;
 }
 
-/* line 52, ../sass/butterfly.scss */
+/* line 51, ../sass/butterfly.scss */
 .borboleta-1 {
   -moz-animation: borboleta-radial-loop-1 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-1 1.5s linear infinite;
   animation: borboleta-radial-loop-1 1.5s linear infinite;
 }
 
-/* line 55, ../sass/butterfly.scss */
+/* line 54, ../sass/butterfly.scss */
 .borboleta-1 {
   -moz-animation: borboleta-radial-loop-1 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-1 1.2s linear infinite;
   animation: borboleta-radial-loop-1 1.2s linear infinite;
 }
 
-/* line 58, ../sass/butterfly.scss */
+/* line 57, ../sass/butterfly.scss */
 .borboleta-1 {
   -moz-animation: borboleta-radial-loop-1 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-1 1.5s linear infinite;
   animation: borboleta-radial-loop-1 1.5s linear infinite;
 }
 
-/* line 65, ../sass/butterfly.scss */
+/* line 64, ../sass/butterfly.scss */
 .borboleta-gfx-1 {
   position: absolute;
   top: 0;
@@ -339,7 +344,7 @@
   height: 40px;
 }
 
-/* line 73, ../sass/butterfly.scss */
+/* line 72, ../sass/butterfly.scss */
 .borboleta-gfx-1 {
   position: absolute;
   top: 0;
@@ -348,28 +353,28 @@
   height: 40px;
 }
 
-/* line 82, ../sass/butterfly.scss */
+/* line 81, ../sass/butterfly.scss */
 .borboleta-1 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 85, ../sass/butterfly.scss */
+/* line 84, ../sass/butterfly.scss */
 .borboleta-1 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 88, ../sass/butterfly.scss */
+/* line 87, ../sass/butterfly.scss */
 .borboleta-1 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   animation: borboleta-gfx-upright-loop 1.5s linear infinite;
 }
 
-/* line 91, ../sass/butterfly.scss */
+/* line 90, ../sass/butterfly.scss */
 .borboleta-1 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
@@ -444,7 +449,7 @@
     transform: scale(0.7, -1) rotate(-40deg);
   }
 }
-/* line 105, ../sass/butterfly.scss */
+/* line 104, ../sass/butterfly.scss */
 .borboleta-anim-1 {
   background: radial-gradient(closest-side at 50% 50%, #b004f9 50%, rgba(255, 255, 255, 0) 50%), radial-gradient(closest-side at 50% 50%, #b004f9 50%, rgba(255, 255, 255, 0) 50%);
   background-repeat: no-repeat;
@@ -459,335 +464,335 @@
 
 @-moz-keyframes borboletas-pos-loop-2 {
   0% {
-    -moz-transform: translate(1577px, -647px);
-    transform: translate(1577px, -647px);
+    -moz-transform: translate(50vw, -74vh);
+    transform: translate(50vw, -74vh);
   }
   11% {
-    -moz-transform: translate(966px, -276px);
-    transform: translate(966px, -276px);
+    -moz-transform: translate(79vw, -9vh);
+    transform: translate(79vw, -9vh);
   }
   22% {
-    -moz-transform: translate(127px, -156px);
-    transform: translate(127px, -156px);
+    -moz-transform: translate(61vw, -26vh);
+    transform: translate(61vw, -26vh);
   }
   33% {
-    -moz-transform: translate(1131px, -145px);
-    transform: translate(1131px, -145px);
+    -moz-transform: translate(85vw, -16vh);
+    transform: translate(85vw, -16vh);
   }
   44% {
-    -moz-transform: translate(939px, -177px);
-    transform: translate(939px, -177px);
+    -moz-transform: translate(62vw, -33vh);
+    transform: translate(62vw, -33vh);
   }
   55% {
-    -moz-transform: translate(688px, -328px);
-    transform: translate(688px, -328px);
+    -moz-transform: translate(82vw, -77vh);
+    transform: translate(82vw, -77vh);
   }
   66% {
-    -moz-transform: translate(1137px, -557px);
-    transform: translate(1137px, -557px);
+    -moz-transform: translate(66vw, -95vh);
+    transform: translate(66vw, -95vh);
   }
   77% {
-    -moz-transform: translate(534px, -603px);
-    transform: translate(534px, -603px);
+    -moz-transform: translate(42vw, -98vh);
+    transform: translate(42vw, -98vh);
   }
   88% {
-    -moz-transform: translate(1014px, -639px);
-    transform: translate(1014px, -639px);
+    -moz-transform: translate(45vw, -12vh);
+    transform: translate(45vw, -12vh);
   }
   100% {
-    -moz-transform: translate(399px, -335px);
-    transform: translate(399px, -335px);
+    -moz-transform: translate(6vw, -15vh);
+    transform: translate(6vw, -15vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-2 {
   0% {
-    -webkit-transform: translate(1424px, -460px);
-    transform: translate(1424px, -460px);
+    -webkit-transform: translate(43vw, -54vh);
+    transform: translate(43vw, -54vh);
   }
   11% {
-    -webkit-transform: translate(25px, -455px);
-    transform: translate(25px, -455px);
+    -webkit-transform: translate(12vw, -3vh);
+    transform: translate(12vw, -3vh);
   }
   22% {
-    -webkit-transform: translate(847px, -1049px);
-    transform: translate(847px, -1049px);
+    -webkit-transform: translate(36vw, -83vh);
+    transform: translate(36vw, -83vh);
   }
   33% {
-    -webkit-transform: translate(1670px, -307px);
-    transform: translate(1670px, -307px);
+    -webkit-transform: translate(67vw, -48vh);
+    transform: translate(67vw, -48vh);
   }
   44% {
-    -webkit-transform: translate(1082px, -1028px);
-    transform: translate(1082px, -1028px);
+    -webkit-transform: translate(40vw, -5vh);
+    transform: translate(40vw, -5vh);
   }
   55% {
-    -webkit-transform: translate(1134px, -323px);
-    transform: translate(1134px, -323px);
+    -webkit-transform: translate(53vw, -90vh);
+    transform: translate(53vw, -90vh);
   }
   66% {
-    -webkit-transform: translate(1088px, -883px);
-    transform: translate(1088px, -883px);
+    -webkit-transform: translate(60vw, -3vh);
+    transform: translate(60vw, -3vh);
   }
   77% {
-    -webkit-transform: translate(948px, -273px);
-    transform: translate(948px, -273px);
+    -webkit-transform: translate(8vw, -12vh);
+    transform: translate(8vw, -12vh);
   }
   88% {
-    -webkit-transform: translate(1428px, -888px);
-    transform: translate(1428px, -888px);
+    -webkit-transform: translate(78vw, -85vh);
+    transform: translate(78vw, -85vh);
   }
   100% {
-    -webkit-transform: translate(963px, -1005px);
-    transform: translate(963px, -1005px);
+    -webkit-transform: translate(28vw, -2vh);
+    transform: translate(28vw, -2vh);
   }
 }
 @keyframes borboletas-pos-loop-2 {
   0% {
-    -moz-transform: translate(1057px, -365px);
-    -ms-transform: translate(1057px, -365px);
-    -webkit-transform: translate(1057px, -365px);
-    transform: translate(1057px, -365px);
+    -moz-transform: translate(88vw, -24vh);
+    -ms-transform: translate(88vw, -24vh);
+    -webkit-transform: translate(88vw, -24vh);
+    transform: translate(88vw, -24vh);
   }
   11% {
-    -moz-transform: translate(713px, -629px);
-    -ms-transform: translate(713px, -629px);
-    -webkit-transform: translate(713px, -629px);
-    transform: translate(713px, -629px);
+    -moz-transform: translate(85vw, -2vh);
+    -ms-transform: translate(85vw, -2vh);
+    -webkit-transform: translate(85vw, -2vh);
+    transform: translate(85vw, -2vh);
   }
   22% {
-    -moz-transform: translate(1354px, -664px);
-    -ms-transform: translate(1354px, -664px);
-    -webkit-transform: translate(1354px, -664px);
-    transform: translate(1354px, -664px);
+    -moz-transform: translate(41vw, -31vh);
+    -ms-transform: translate(41vw, -31vh);
+    -webkit-transform: translate(41vw, -31vh);
+    transform: translate(41vw, -31vh);
   }
   33% {
-    -moz-transform: translate(630px, -1080px);
-    -ms-transform: translate(630px, -1080px);
-    -webkit-transform: translate(630px, -1080px);
-    transform: translate(630px, -1080px);
+    -moz-transform: translate(33vw, -21vh);
+    -ms-transform: translate(33vw, -21vh);
+    -webkit-transform: translate(33vw, -21vh);
+    transform: translate(33vw, -21vh);
   }
   44% {
-    -moz-transform: translate(740px, -641px);
-    -ms-transform: translate(740px, -641px);
-    -webkit-transform: translate(740px, -641px);
-    transform: translate(740px, -641px);
+    -moz-transform: translate(81vw, -99vh);
+    -ms-transform: translate(81vw, -99vh);
+    -webkit-transform: translate(81vw, -99vh);
+    transform: translate(81vw, -99vh);
   }
   55% {
-    -moz-transform: translate(512px, -105px);
-    -ms-transform: translate(512px, -105px);
-    -webkit-transform: translate(512px, -105px);
-    transform: translate(512px, -105px);
+    -moz-transform: translate(58vw, -36vh);
+    -ms-transform: translate(58vw, -36vh);
+    -webkit-transform: translate(58vw, -36vh);
+    transform: translate(58vw, -36vh);
   }
   66% {
-    -moz-transform: translate(827px, -16px);
-    -ms-transform: translate(827px, -16px);
-    -webkit-transform: translate(827px, -16px);
-    transform: translate(827px, -16px);
+    -moz-transform: translate(35vw, -53vh);
+    -ms-transform: translate(35vw, -53vh);
+    -webkit-transform: translate(35vw, -53vh);
+    transform: translate(35vw, -53vh);
   }
   77% {
-    -moz-transform: translate(1577px, -902px);
-    -ms-transform: translate(1577px, -902px);
-    -webkit-transform: translate(1577px, -902px);
-    transform: translate(1577px, -902px);
+    -moz-transform: translate(43vw, -77vh);
+    -ms-transform: translate(43vw, -77vh);
+    -webkit-transform: translate(43vw, -77vh);
+    transform: translate(43vw, -77vh);
   }
   88% {
-    -moz-transform: translate(221px, -5px);
-    -ms-transform: translate(221px, -5px);
-    -webkit-transform: translate(221px, -5px);
-    transform: translate(221px, -5px);
+    -moz-transform: translate(27vw, -69vh);
+    -ms-transform: translate(27vw, -69vh);
+    -webkit-transform: translate(27vw, -69vh);
+    transform: translate(27vw, -69vh);
   }
   100% {
-    -moz-transform: translate(1680px, -954px);
-    -ms-transform: translate(1680px, -954px);
-    -webkit-transform: translate(1680px, -954px);
-    transform: translate(1680px, -954px);
+    -moz-transform: translate(77vw, -34vh);
+    -ms-transform: translate(77vw, -34vh);
+    -webkit-transform: translate(77vw, -34vh);
+    transform: translate(77vw, -34vh);
   }
 }
 @-moz-keyframes borboletas-pos-loop-2 {
   0% {
-    -moz-transform: translate(1607px, -305px);
-    transform: translate(1607px, -305px);
+    -moz-transform: translate(19vw, -13vh);
+    transform: translate(19vw, -13vh);
   }
   11% {
-    -moz-transform: translate(1052px, -337px);
-    transform: translate(1052px, -337px);
+    -moz-transform: translate(87vw, -24vh);
+    transform: translate(87vw, -24vh);
   }
   22% {
-    -moz-transform: translate(726px, -417px);
-    transform: translate(726px, -417px);
+    -moz-transform: translate(51vw, -6vh);
+    transform: translate(51vw, -6vh);
   }
   33% {
-    -moz-transform: translate(1560px, -709px);
-    transform: translate(1560px, -709px);
+    -moz-transform: translate(65vw, -96vh);
+    transform: translate(65vw, -96vh);
   }
   44% {
-    -moz-transform: translate(56px, -56px);
-    transform: translate(56px, -56px);
+    -moz-transform: translate(75vw, -99vh);
+    transform: translate(75vw, -99vh);
   }
   55% {
-    -moz-transform: translate(1557px, -878px);
-    transform: translate(1557px, -878px);
+    -moz-transform: translate(83vw, -27vh);
+    transform: translate(83vw, -27vh);
   }
   66% {
-    -moz-transform: translate(1247px, -221px);
-    transform: translate(1247px, -221px);
+    -moz-transform: translate(59vw, -67vh);
+    transform: translate(59vw, -67vh);
   }
   77% {
-    -moz-transform: translate(1710px, -444px);
-    transform: translate(1710px, -444px);
+    -moz-transform: translate(87vw, -94vh);
+    transform: translate(87vw, -94vh);
   }
   88% {
-    -moz-transform: translate(1698px, -163px);
-    transform: translate(1698px, -163px);
+    -moz-transform: translate(63vw, -5vh);
+    transform: translate(63vw, -5vh);
   }
   100% {
-    -moz-transform: translate(1788px, -21px);
-    transform: translate(1788px, -21px);
+    -moz-transform: translate(11vw, -56vh);
+    transform: translate(11vw, -56vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-2 {
   0% {
-    -webkit-transform: translate(398px, -999px);
-    transform: translate(398px, -999px);
+    -webkit-transform: translate(6vw, -51vh);
+    transform: translate(6vw, -51vh);
   }
   11% {
-    -webkit-transform: translate(352px, -52px);
-    transform: translate(352px, -52px);
+    -webkit-transform: translate(98vw, -48vh);
+    transform: translate(98vw, -48vh);
   }
   22% {
-    -webkit-transform: translate(1028px, -178px);
-    transform: translate(1028px, -178px);
+    -webkit-transform: translate(61vw, -80vh);
+    transform: translate(61vw, -80vh);
   }
   33% {
-    -webkit-transform: translate(589px, -683px);
-    transform: translate(589px, -683px);
+    -webkit-transform: translate(96vw, -35vh);
+    transform: translate(96vw, -35vh);
   }
   44% {
-    -webkit-transform: translate(1660px, -766px);
-    transform: translate(1660px, -766px);
+    -webkit-transform: translate(70vw, -95vh);
+    transform: translate(70vw, -95vh);
   }
   55% {
-    -webkit-transform: translate(779px, -772px);
-    transform: translate(779px, -772px);
+    -webkit-transform: translate(57vw, -38vh);
+    transform: translate(57vw, -38vh);
   }
   66% {
-    -webkit-transform: translate(663px, -425px);
-    transform: translate(663px, -425px);
+    -webkit-transform: translate(64vw, -42vh);
+    transform: translate(64vw, -42vh);
   }
   77% {
-    -webkit-transform: translate(1301px, -6px);
-    transform: translate(1301px, -6px);
+    -webkit-transform: translate(9vw, -71vh);
+    transform: translate(9vw, -71vh);
   }
   88% {
-    -webkit-transform: translate(1525px, -974px);
-    transform: translate(1525px, -974px);
+    -webkit-transform: translate(40vw, -84vh);
+    transform: translate(40vw, -84vh);
   }
   100% {
-    -webkit-transform: translate(565px, -449px);
-    transform: translate(565px, -449px);
+    -webkit-transform: translate(78vw, -64vh);
+    transform: translate(78vw, -64vh);
   }
 }
 @keyframes borboletas-pos-loop-2 {
   0% {
-    -moz-transform: translate(635px, -215px);
-    -ms-transform: translate(635px, -215px);
-    -webkit-transform: translate(635px, -215px);
-    transform: translate(635px, -215px);
+    -moz-transform: translate(48vw, -81vh);
+    -ms-transform: translate(48vw, -81vh);
+    -webkit-transform: translate(48vw, -81vh);
+    transform: translate(48vw, -81vh);
   }
   11% {
-    -moz-transform: translate(255px, -556px);
-    -ms-transform: translate(255px, -556px);
-    -webkit-transform: translate(255px, -556px);
-    transform: translate(255px, -556px);
+    -moz-transform: translate(77vw, -37vh);
+    -ms-transform: translate(77vw, -37vh);
+    -webkit-transform: translate(77vw, -37vh);
+    transform: translate(77vw, -37vh);
   }
   22% {
-    -moz-transform: translate(1082px, -947px);
-    -ms-transform: translate(1082px, -947px);
-    -webkit-transform: translate(1082px, -947px);
-    transform: translate(1082px, -947px);
+    -moz-transform: translate(54vw, -92vh);
+    -ms-transform: translate(54vw, -92vh);
+    -webkit-transform: translate(54vw, -92vh);
+    transform: translate(54vw, -92vh);
   }
   33% {
-    -moz-transform: translate(1358px, -653px);
-    -ms-transform: translate(1358px, -653px);
-    -webkit-transform: translate(1358px, -653px);
-    transform: translate(1358px, -653px);
+    -moz-transform: translate(78vw, -12vh);
+    -ms-transform: translate(78vw, -12vh);
+    -webkit-transform: translate(78vw, -12vh);
+    transform: translate(78vw, -12vh);
   }
   44% {
-    -moz-transform: translate(802px, -366px);
-    -ms-transform: translate(802px, -366px);
-    -webkit-transform: translate(802px, -366px);
-    transform: translate(802px, -366px);
+    -moz-transform: translate(52vw, -84vh);
+    -ms-transform: translate(52vw, -84vh);
+    -webkit-transform: translate(52vw, -84vh);
+    transform: translate(52vw, -84vh);
   }
   55% {
-    -moz-transform: translate(1805px, -1080px);
-    -ms-transform: translate(1805px, -1080px);
-    -webkit-transform: translate(1805px, -1080px);
-    transform: translate(1805px, -1080px);
+    -moz-transform: translate(15vw, -35vh);
+    -ms-transform: translate(15vw, -35vh);
+    -webkit-transform: translate(15vw, -35vh);
+    transform: translate(15vw, -35vh);
   }
   66% {
-    -moz-transform: translate(1894px, -345px);
-    -ms-transform: translate(1894px, -345px);
-    -webkit-transform: translate(1894px, -345px);
-    transform: translate(1894px, -345px);
+    -moz-transform: translate(19vw, -63vh);
+    -ms-transform: translate(19vw, -63vh);
+    -webkit-transform: translate(19vw, -63vh);
+    transform: translate(19vw, -63vh);
   }
   77% {
-    -moz-transform: translate(1030px, -607px);
-    -ms-transform: translate(1030px, -607px);
-    -webkit-transform: translate(1030px, -607px);
-    transform: translate(1030px, -607px);
+    -moz-transform: translate(76vw, -17vh);
+    -ms-transform: translate(76vw, -17vh);
+    -webkit-transform: translate(76vw, -17vh);
+    transform: translate(76vw, -17vh);
   }
   88% {
-    -moz-transform: translate(54px, -498px);
-    -ms-transform: translate(54px, -498px);
-    -webkit-transform: translate(54px, -498px);
-    transform: translate(54px, -498px);
+    -moz-transform: translate(68vw, -79vh);
+    -ms-transform: translate(68vw, -79vh);
+    -webkit-transform: translate(68vw, -79vh);
+    transform: translate(68vw, -79vh);
   }
   100% {
-    -moz-transform: translate(1376px, -129px);
-    -ms-transform: translate(1376px, -129px);
-    -webkit-transform: translate(1376px, -129px);
-    transform: translate(1376px, -129px);
+    -moz-transform: translate(83vw, -37vh);
+    -ms-transform: translate(83vw, -37vh);
+    -webkit-transform: translate(83vw, -37vh);
+    transform: translate(83vw, -37vh);
   }
 }
-/* line 37, ../sass/butterfly.scss */
+/* line 36, ../sass/butterfly.scss */
 .borboletas-2 {
   position: absolute;
   left: 0px;
   bottom: 0px;
-  -moz-animation: borboletas-pos-loop-2 33s ease-in-out infinite alternate-reverse;
-  -webkit-animation: borboletas-pos-loop-2 33s ease-in-out infinite alternate-reverse;
-  animation: borboletas-pos-loop-2 33s ease-in-out infinite alternate-reverse;
+  -moz-animation: borboletas-pos-loop-2 28s ease-in-out infinite alternate-reverse;
+  -webkit-animation: borboletas-pos-loop-2 28s ease-in-out infinite alternate-reverse;
+  animation: borboletas-pos-loop-2 28s ease-in-out infinite alternate-reverse;
 }
 
-/* line 49, ../sass/butterfly.scss */
+/* line 48, ../sass/butterfly.scss */
 .borboleta-2 {
   -moz-animation: borboleta-radial-loop-2 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-2 1.2s linear infinite;
   animation: borboleta-radial-loop-2 1.2s linear infinite;
 }
 
-/* line 52, ../sass/butterfly.scss */
+/* line 51, ../sass/butterfly.scss */
 .borboleta-2 {
   -moz-animation: borboleta-radial-loop-2 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-2 1.5s linear infinite;
   animation: borboleta-radial-loop-2 1.5s linear infinite;
 }
 
-/* line 55, ../sass/butterfly.scss */
+/* line 54, ../sass/butterfly.scss */
 .borboleta-2 {
   -moz-animation: borboleta-radial-loop-2 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-2 1.2s linear infinite;
   animation: borboleta-radial-loop-2 1.2s linear infinite;
 }
 
-/* line 58, ../sass/butterfly.scss */
+/* line 57, ../sass/butterfly.scss */
 .borboleta-2 {
   -moz-animation: borboleta-radial-loop-2 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-2 1.5s linear infinite;
   animation: borboleta-radial-loop-2 1.5s linear infinite;
 }
 
-/* line 65, ../sass/butterfly.scss */
+/* line 64, ../sass/butterfly.scss */
 .borboleta-gfx-2 {
   position: absolute;
   top: 0;
@@ -796,7 +801,7 @@
   height: 40px;
 }
 
-/* line 73, ../sass/butterfly.scss */
+/* line 72, ../sass/butterfly.scss */
 .borboleta-gfx-2 {
   position: absolute;
   top: 0;
@@ -805,28 +810,28 @@
   height: 40px;
 }
 
-/* line 82, ../sass/butterfly.scss */
+/* line 81, ../sass/butterfly.scss */
 .borboleta-2 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 85, ../sass/butterfly.scss */
+/* line 84, ../sass/butterfly.scss */
 .borboleta-2 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 88, ../sass/butterfly.scss */
+/* line 87, ../sass/butterfly.scss */
 .borboleta-2 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   animation: borboleta-gfx-upright-loop 1.5s linear infinite;
 }
 
-/* line 91, ../sass/butterfly.scss */
+/* line 90, ../sass/butterfly.scss */
 .borboleta-2 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
@@ -901,7 +906,7 @@
     transform: scale(0.7, -1) rotate(-40deg);
   }
 }
-/* line 105, ../sass/butterfly.scss */
+/* line 104, ../sass/butterfly.scss */
 .borboleta-anim-2 {
   background: radial-gradient(closest-side at 50% 50%, #6547ff 50%, rgba(255, 255, 255, 0) 50%), radial-gradient(closest-side at 50% 50%, #6547ff 50%, rgba(255, 255, 255, 0) 50%);
   background-repeat: no-repeat;
@@ -916,335 +921,335 @@
 
 @-moz-keyframes borboletas-pos-loop-3 {
   0% {
-    -moz-transform: translate(206px, -467px);
-    transform: translate(206px, -467px);
+    -moz-transform: translate(83vw, -24vh);
+    transform: translate(83vw, -24vh);
   }
   11% {
-    -moz-transform: translate(47px, -158px);
-    transform: translate(47px, -158px);
+    -moz-transform: translate(17vw, -33vh);
+    transform: translate(17vw, -33vh);
   }
   22% {
-    -moz-transform: translate(1711px, -473px);
-    transform: translate(1711px, -473px);
+    -moz-transform: translate(44vw, -93vh);
+    transform: translate(44vw, -93vh);
   }
   33% {
-    -moz-transform: translate(165px, -1049px);
-    transform: translate(165px, -1049px);
+    -moz-transform: translate(44vw, -91vh);
+    transform: translate(44vw, -91vh);
   }
   44% {
-    -moz-transform: translate(1901px, -67px);
-    transform: translate(1901px, -67px);
+    -moz-transform: translate(62vw, -22vh);
+    transform: translate(62vw, -22vh);
   }
   55% {
-    -moz-transform: translate(514px, -325px);
-    transform: translate(514px, -325px);
+    -moz-transform: translate(82vw, -52vh);
+    transform: translate(82vw, -52vh);
   }
   66% {
-    -moz-transform: translate(579px, -403px);
-    transform: translate(579px, -403px);
+    -moz-transform: translate(69vw, -66vh);
+    transform: translate(69vw, -66vh);
   }
   77% {
-    -moz-transform: translate(1549px, -1026px);
-    transform: translate(1549px, -1026px);
+    -moz-transform: translate(77vw, -1vh);
+    transform: translate(77vw, -1vh);
   }
   88% {
-    -moz-transform: translate(34px, -562px);
-    transform: translate(34px, -562px);
+    -moz-transform: translate(46vw, -23vh);
+    transform: translate(46vw, -23vh);
   }
   100% {
-    -moz-transform: translate(1868px, -733px);
-    transform: translate(1868px, -733px);
+    -moz-transform: translate(88vw, -32vh);
+    transform: translate(88vw, -32vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-3 {
   0% {
-    -webkit-transform: translate(358px, -554px);
-    transform: translate(358px, -554px);
+    -webkit-transform: translate(1vw, -45vh);
+    transform: translate(1vw, -45vh);
   }
   11% {
-    -webkit-transform: translate(101px, -996px);
-    transform: translate(101px, -996px);
+    -webkit-transform: translate(50vw, -56vh);
+    transform: translate(50vw, -56vh);
   }
   22% {
-    -webkit-transform: translate(45px, -693px);
-    transform: translate(45px, -693px);
+    -webkit-transform: translate(59vw, -36vh);
+    transform: translate(59vw, -36vh);
   }
   33% {
-    -webkit-transform: translate(1436px, -285px);
-    transform: translate(1436px, -285px);
+    -webkit-transform: translate(82vw, -30vh);
+    transform: translate(82vw, -30vh);
   }
   44% {
-    -webkit-transform: translate(1390px, -58px);
-    transform: translate(1390px, -58px);
+    -webkit-transform: translate(74vw, -100vh);
+    transform: translate(74vw, -100vh);
   }
   55% {
-    -webkit-transform: translate(1242px, -531px);
-    transform: translate(1242px, -531px);
+    -webkit-transform: translate(15vw, -99vh);
+    transform: translate(15vw, -99vh);
   }
   66% {
-    -webkit-transform: translate(148px, -506px);
-    transform: translate(148px, -506px);
+    -webkit-transform: translate(38vw, -21vh);
+    transform: translate(38vw, -21vh);
   }
   77% {
-    -webkit-transform: translate(622px, -237px);
-    transform: translate(622px, -237px);
+    -webkit-transform: translate(65vw, -96vh);
+    transform: translate(65vw, -96vh);
   }
   88% {
-    -webkit-transform: translate(1601px, -856px);
-    transform: translate(1601px, -856px);
+    -webkit-transform: translate(2vw, -40vh);
+    transform: translate(2vw, -40vh);
   }
   100% {
-    -webkit-transform: translate(324px, -1040px);
-    transform: translate(324px, -1040px);
+    -webkit-transform: translate(41vw, -58vh);
+    transform: translate(41vw, -58vh);
   }
 }
 @keyframes borboletas-pos-loop-3 {
   0% {
-    -moz-transform: translate(372px, -909px);
-    -ms-transform: translate(372px, -909px);
-    -webkit-transform: translate(372px, -909px);
-    transform: translate(372px, -909px);
+    -moz-transform: translate(23vw, -87vh);
+    -ms-transform: translate(23vw, -87vh);
+    -webkit-transform: translate(23vw, -87vh);
+    transform: translate(23vw, -87vh);
   }
   11% {
-    -moz-transform: translate(162px, -624px);
-    -ms-transform: translate(162px, -624px);
-    -webkit-transform: translate(162px, -624px);
-    transform: translate(162px, -624px);
+    -moz-transform: translate(14vw, -36vh);
+    -ms-transform: translate(14vw, -36vh);
+    -webkit-transform: translate(14vw, -36vh);
+    transform: translate(14vw, -36vh);
   }
   22% {
-    -moz-transform: translate(1892px, -1022px);
-    -ms-transform: translate(1892px, -1022px);
-    -webkit-transform: translate(1892px, -1022px);
-    transform: translate(1892px, -1022px);
+    -moz-transform: translate(81vw, -84vh);
+    -ms-transform: translate(81vw, -84vh);
+    -webkit-transform: translate(81vw, -84vh);
+    transform: translate(81vw, -84vh);
   }
   33% {
-    -moz-transform: translate(291px, -46px);
-    -ms-transform: translate(291px, -46px);
-    -webkit-transform: translate(291px, -46px);
-    transform: translate(291px, -46px);
+    -moz-transform: translate(12vw, -89vh);
+    -ms-transform: translate(12vw, -89vh);
+    -webkit-transform: translate(12vw, -89vh);
+    transform: translate(12vw, -89vh);
   }
   44% {
-    -moz-transform: translate(127px, -581px);
-    -ms-transform: translate(127px, -581px);
-    -webkit-transform: translate(127px, -581px);
-    transform: translate(127px, -581px);
+    -moz-transform: translate(17vw, -57vh);
+    -ms-transform: translate(17vw, -57vh);
+    -webkit-transform: translate(17vw, -57vh);
+    transform: translate(17vw, -57vh);
   }
   55% {
-    -moz-transform: translate(1553px, -942px);
-    -ms-transform: translate(1553px, -942px);
-    -webkit-transform: translate(1553px, -942px);
-    transform: translate(1553px, -942px);
+    -moz-transform: translate(70vw, -70vh);
+    -ms-transform: translate(70vw, -70vh);
+    -webkit-transform: translate(70vw, -70vh);
+    transform: translate(70vw, -70vh);
   }
   66% {
-    -moz-transform: translate(753px, -463px);
-    -ms-transform: translate(753px, -463px);
-    -webkit-transform: translate(753px, -463px);
-    transform: translate(753px, -463px);
+    -moz-transform: translate(79vw, -77vh);
+    -ms-transform: translate(79vw, -77vh);
+    -webkit-transform: translate(79vw, -77vh);
+    transform: translate(79vw, -77vh);
   }
   77% {
-    -moz-transform: translate(1660px, -316px);
-    -ms-transform: translate(1660px, -316px);
-    -webkit-transform: translate(1660px, -316px);
-    transform: translate(1660px, -316px);
+    -moz-transform: translate(82vw, -84vh);
+    -ms-transform: translate(82vw, -84vh);
+    -webkit-transform: translate(82vw, -84vh);
+    transform: translate(82vw, -84vh);
   }
   88% {
-    -moz-transform: translate(1217px, -1000px);
-    -ms-transform: translate(1217px, -1000px);
-    -webkit-transform: translate(1217px, -1000px);
-    transform: translate(1217px, -1000px);
+    -moz-transform: translate(76vw, -61vh);
+    -ms-transform: translate(76vw, -61vh);
+    -webkit-transform: translate(76vw, -61vh);
+    transform: translate(76vw, -61vh);
   }
   100% {
-    -moz-transform: translate(929px, -141px);
-    -ms-transform: translate(929px, -141px);
-    -webkit-transform: translate(929px, -141px);
-    transform: translate(929px, -141px);
+    -moz-transform: translate(72vw, -73vh);
+    -ms-transform: translate(72vw, -73vh);
+    -webkit-transform: translate(72vw, -73vh);
+    transform: translate(72vw, -73vh);
   }
 }
 @-moz-keyframes borboletas-pos-loop-3 {
   0% {
-    -moz-transform: translate(1625px, -297px);
-    transform: translate(1625px, -297px);
+    -moz-transform: translate(97vw, -16vh);
+    transform: translate(97vw, -16vh);
   }
   11% {
-    -moz-transform: translate(1627px, -336px);
-    transform: translate(1627px, -336px);
+    -moz-transform: translate(14vw, -100vh);
+    transform: translate(14vw, -100vh);
   }
   22% {
-    -moz-transform: translate(1617px, -111px);
-    transform: translate(1617px, -111px);
+    -moz-transform: translate(39vw, -70vh);
+    transform: translate(39vw, -70vh);
   }
   33% {
-    -moz-transform: translate(1242px, -92px);
-    transform: translate(1242px, -92px);
+    -moz-transform: translate(6vw, -13vh);
+    transform: translate(6vw, -13vh);
   }
   44% {
-    -moz-transform: translate(385px, -411px);
-    transform: translate(385px, -411px);
+    -moz-transform: translate(67vw, -52vh);
+    transform: translate(67vw, -52vh);
   }
   55% {
-    -moz-transform: translate(103px, -62px);
-    transform: translate(103px, -62px);
+    -moz-transform: translate(73vw, -64vh);
+    transform: translate(73vw, -64vh);
   }
   66% {
-    -moz-transform: translate(1750px, -420px);
-    transform: translate(1750px, -420px);
+    -moz-transform: translate(92vw, -74vh);
+    transform: translate(92vw, -74vh);
   }
   77% {
-    -moz-transform: translate(525px, -495px);
-    transform: translate(525px, -495px);
+    -moz-transform: translate(72vw, -92vh);
+    transform: translate(72vw, -92vh);
   }
   88% {
-    -moz-transform: translate(1326px, -487px);
-    transform: translate(1326px, -487px);
+    -moz-transform: translate(50vw, -23vh);
+    transform: translate(50vw, -23vh);
   }
   100% {
-    -moz-transform: translate(381px, -251px);
-    transform: translate(381px, -251px);
+    -moz-transform: translate(38vw, -92vh);
+    transform: translate(38vw, -92vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-3 {
   0% {
-    -webkit-transform: translate(367px, -235px);
-    transform: translate(367px, -235px);
+    -webkit-transform: translate(49vw, -4vh);
+    transform: translate(49vw, -4vh);
   }
   11% {
-    -webkit-transform: translate(704px, -528px);
-    transform: translate(704px, -528px);
+    -webkit-transform: translate(8vw, -78vh);
+    transform: translate(8vw, -78vh);
   }
   22% {
-    -webkit-transform: translate(1013px, -903px);
-    transform: translate(1013px, -903px);
+    -webkit-transform: translate(51vw, -63vh);
+    transform: translate(51vw, -63vh);
   }
   33% {
-    -webkit-transform: translate(201px, -932px);
-    transform: translate(201px, -932px);
+    -webkit-transform: translate(9vw, -84vh);
+    transform: translate(9vw, -84vh);
   }
   44% {
-    -webkit-transform: translate(288px, -668px);
-    transform: translate(288px, -668px);
+    -webkit-transform: translate(4vw, -3vh);
+    transform: translate(4vw, -3vh);
   }
   55% {
-    -webkit-transform: translate(924px, -612px);
-    transform: translate(924px, -612px);
+    -webkit-transform: translate(23vw, -19vh);
+    transform: translate(23vw, -19vh);
   }
   66% {
-    -webkit-transform: translate(29px, -207px);
-    transform: translate(29px, -207px);
+    -webkit-transform: translate(18vw, -11vh);
+    transform: translate(18vw, -11vh);
   }
   77% {
-    -webkit-transform: translate(884px, -1067px);
-    transform: translate(884px, -1067px);
+    -webkit-transform: translate(39vw, -40vh);
+    transform: translate(39vw, -40vh);
   }
   88% {
-    -webkit-transform: translate(278px, -213px);
-    transform: translate(278px, -213px);
+    -webkit-transform: translate(67vw, -51vh);
+    transform: translate(67vw, -51vh);
   }
   100% {
-    -webkit-transform: translate(1015px, -40px);
-    transform: translate(1015px, -40px);
+    -webkit-transform: translate(65vw, -98vh);
+    transform: translate(65vw, -98vh);
   }
 }
 @keyframes borboletas-pos-loop-3 {
   0% {
-    -moz-transform: translate(205px, -592px);
-    -ms-transform: translate(205px, -592px);
-    -webkit-transform: translate(205px, -592px);
-    transform: translate(205px, -592px);
+    -moz-transform: translate(13vw, -10vh);
+    -ms-transform: translate(13vw, -10vh);
+    -webkit-transform: translate(13vw, -10vh);
+    transform: translate(13vw, -10vh);
   }
   11% {
-    -moz-transform: translate(1241px, -646px);
-    -ms-transform: translate(1241px, -646px);
-    -webkit-transform: translate(1241px, -646px);
-    transform: translate(1241px, -646px);
+    -moz-transform: translate(14vw, -68vh);
+    -ms-transform: translate(14vw, -68vh);
+    -webkit-transform: translate(14vw, -68vh);
+    transform: translate(14vw, -68vh);
   }
   22% {
-    -moz-transform: translate(580px, -760px);
-    -ms-transform: translate(580px, -760px);
-    -webkit-transform: translate(580px, -760px);
-    transform: translate(580px, -760px);
+    -moz-transform: translate(48vw, -17vh);
+    -ms-transform: translate(48vw, -17vh);
+    -webkit-transform: translate(48vw, -17vh);
+    transform: translate(48vw, -17vh);
   }
   33% {
-    -moz-transform: translate(1230px, -293px);
-    -ms-transform: translate(1230px, -293px);
-    -webkit-transform: translate(1230px, -293px);
-    transform: translate(1230px, -293px);
+    -moz-transform: translate(32vw, -30vh);
+    -ms-transform: translate(32vw, -30vh);
+    -webkit-transform: translate(32vw, -30vh);
+    transform: translate(32vw, -30vh);
   }
   44% {
-    -moz-transform: translate(237px, -944px);
-    -ms-transform: translate(237px, -944px);
-    -webkit-transform: translate(237px, -944px);
-    transform: translate(237px, -944px);
+    -moz-transform: translate(30vw, -25vh);
+    -ms-transform: translate(30vw, -25vh);
+    -webkit-transform: translate(30vw, -25vh);
+    transform: translate(30vw, -25vh);
   }
   55% {
-    -moz-transform: translate(694px, -997px);
-    -ms-transform: translate(694px, -997px);
-    -webkit-transform: translate(694px, -997px);
-    transform: translate(694px, -997px);
+    -moz-transform: translate(12vw, -53vh);
+    -ms-transform: translate(12vw, -53vh);
+    -webkit-transform: translate(12vw, -53vh);
+    transform: translate(12vw, -53vh);
   }
   66% {
-    -moz-transform: translate(1290px, -930px);
-    -ms-transform: translate(1290px, -930px);
-    -webkit-transform: translate(1290px, -930px);
-    transform: translate(1290px, -930px);
+    -moz-transform: translate(99vw, -27vh);
+    -ms-transform: translate(99vw, -27vh);
+    -webkit-transform: translate(99vw, -27vh);
+    transform: translate(99vw, -27vh);
   }
   77% {
-    -moz-transform: translate(681px, -840px);
-    -ms-transform: translate(681px, -840px);
-    -webkit-transform: translate(681px, -840px);
-    transform: translate(681px, -840px);
+    -moz-transform: translate(40vw, -49vh);
+    -ms-transform: translate(40vw, -49vh);
+    -webkit-transform: translate(40vw, -49vh);
+    transform: translate(40vw, -49vh);
   }
   88% {
-    -moz-transform: translate(159px, -237px);
-    -ms-transform: translate(159px, -237px);
-    -webkit-transform: translate(159px, -237px);
-    transform: translate(159px, -237px);
+    -moz-transform: translate(5vw, -73vh);
+    -ms-transform: translate(5vw, -73vh);
+    -webkit-transform: translate(5vw, -73vh);
+    transform: translate(5vw, -73vh);
   }
   100% {
-    -moz-transform: translate(941px, -1044px);
-    -ms-transform: translate(941px, -1044px);
-    -webkit-transform: translate(941px, -1044px);
-    transform: translate(941px, -1044px);
+    -moz-transform: translate(93vw, -90vh);
+    -ms-transform: translate(93vw, -90vh);
+    -webkit-transform: translate(93vw, -90vh);
+    transform: translate(93vw, -90vh);
   }
 }
-/* line 37, ../sass/butterfly.scss */
+/* line 36, ../sass/butterfly.scss */
 .borboletas-3 {
   position: absolute;
   left: 0px;
   bottom: 0px;
-  -moz-animation: borboletas-pos-loop-3 28s ease-in-out infinite alternate-reverse;
-  -webkit-animation: borboletas-pos-loop-3 28s ease-in-out infinite alternate-reverse;
-  animation: borboletas-pos-loop-3 28s ease-in-out infinite alternate-reverse;
+  -moz-animation: borboletas-pos-loop-3 30s ease-in-out infinite alternate-reverse;
+  -webkit-animation: borboletas-pos-loop-3 30s ease-in-out infinite alternate-reverse;
+  animation: borboletas-pos-loop-3 30s ease-in-out infinite alternate-reverse;
 }
 
-/* line 49, ../sass/butterfly.scss */
+/* line 48, ../sass/butterfly.scss */
 .borboleta-3 {
   -moz-animation: borboleta-radial-loop-3 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-3 1.2s linear infinite;
   animation: borboleta-radial-loop-3 1.2s linear infinite;
 }
 
-/* line 52, ../sass/butterfly.scss */
+/* line 51, ../sass/butterfly.scss */
 .borboleta-3 {
   -moz-animation: borboleta-radial-loop-3 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-3 1.5s linear infinite;
   animation: borboleta-radial-loop-3 1.5s linear infinite;
 }
 
-/* line 55, ../sass/butterfly.scss */
+/* line 54, ../sass/butterfly.scss */
 .borboleta-3 {
   -moz-animation: borboleta-radial-loop-3 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-3 1.2s linear infinite;
   animation: borboleta-radial-loop-3 1.2s linear infinite;
 }
 
-/* line 58, ../sass/butterfly.scss */
+/* line 57, ../sass/butterfly.scss */
 .borboleta-3 {
   -moz-animation: borboleta-radial-loop-3 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-3 1.5s linear infinite;
   animation: borboleta-radial-loop-3 1.5s linear infinite;
 }
 
-/* line 65, ../sass/butterfly.scss */
+/* line 64, ../sass/butterfly.scss */
 .borboleta-gfx-3 {
   position: absolute;
   top: 0;
@@ -1253,7 +1258,7 @@
   height: 40px;
 }
 
-/* line 73, ../sass/butterfly.scss */
+/* line 72, ../sass/butterfly.scss */
 .borboleta-gfx-3 {
   position: absolute;
   top: 0;
@@ -1262,28 +1267,28 @@
   height: 40px;
 }
 
-/* line 82, ../sass/butterfly.scss */
+/* line 81, ../sass/butterfly.scss */
 .borboleta-3 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 85, ../sass/butterfly.scss */
+/* line 84, ../sass/butterfly.scss */
 .borboleta-3 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 88, ../sass/butterfly.scss */
+/* line 87, ../sass/butterfly.scss */
 .borboleta-3 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   animation: borboleta-gfx-upright-loop 1.5s linear infinite;
 }
 
-/* line 91, ../sass/butterfly.scss */
+/* line 90, ../sass/butterfly.scss */
 .borboleta-3 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
@@ -1358,7 +1363,7 @@
     transform: scale(0.7, -1) rotate(-40deg);
   }
 }
-/* line 105, ../sass/butterfly.scss */
+/* line 104, ../sass/butterfly.scss */
 .borboleta-anim-3 {
   background: radial-gradient(closest-side at 50% 50%, #eeaa11 50%, rgba(255, 255, 255, 0) 50%), radial-gradient(closest-side at 50% 50%, #eeaa11 50%, rgba(255, 255, 255, 0) 50%);
   background-repeat: no-repeat;
@@ -1373,335 +1378,335 @@
 
 @-moz-keyframes borboletas-pos-loop-4 {
   0% {
-    -moz-transform: translate(1251px, -462px);
-    transform: translate(1251px, -462px);
+    -moz-transform: translate(48vw, -64vh);
+    transform: translate(48vw, -64vh);
   }
   11% {
-    -moz-transform: translate(941px, -654px);
-    transform: translate(941px, -654px);
+    -moz-transform: translate(91vw, -98vh);
+    transform: translate(91vw, -98vh);
   }
   22% {
-    -moz-transform: translate(1348px, -284px);
-    transform: translate(1348px, -284px);
+    -moz-transform: translate(67vw, -37vh);
+    transform: translate(67vw, -37vh);
   }
   33% {
-    -moz-transform: translate(980px, -555px);
-    transform: translate(980px, -555px);
+    -moz-transform: translate(56vw, -52vh);
+    transform: translate(56vw, -52vh);
   }
   44% {
-    -moz-transform: translate(1366px, -1029px);
-    transform: translate(1366px, -1029px);
+    -moz-transform: translate(69vw, -63vh);
+    transform: translate(69vw, -63vh);
   }
   55% {
-    -moz-transform: translate(1591px, -119px);
-    transform: translate(1591px, -119px);
+    -moz-transform: translate(85vw, -62vh);
+    transform: translate(85vw, -62vh);
   }
   66% {
-    -moz-transform: translate(413px, -979px);
-    transform: translate(413px, -979px);
+    -moz-transform: translate(98vw, -4vh);
+    transform: translate(98vw, -4vh);
   }
   77% {
-    -moz-transform: translate(1079px, -839px);
-    transform: translate(1079px, -839px);
+    -moz-transform: translate(96vw, -55vh);
+    transform: translate(96vw, -55vh);
   }
   88% {
-    -moz-transform: translate(1641px, -423px);
-    transform: translate(1641px, -423px);
+    -moz-transform: translate(70vw, -21vh);
+    transform: translate(70vw, -21vh);
   }
   100% {
-    -moz-transform: translate(99px, -15px);
-    transform: translate(99px, -15px);
+    -moz-transform: translate(31vw, -65vh);
+    transform: translate(31vw, -65vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-4 {
   0% {
-    -webkit-transform: translate(77px, -1080px);
-    transform: translate(77px, -1080px);
+    -webkit-transform: translate(46vw, -40vh);
+    transform: translate(46vw, -40vh);
   }
   11% {
-    -webkit-transform: translate(1121px, -527px);
-    transform: translate(1121px, -527px);
+    -webkit-transform: translate(69vw, -2vh);
+    transform: translate(69vw, -2vh);
   }
   22% {
-    -webkit-transform: translate(569px, -778px);
-    transform: translate(569px, -778px);
+    -webkit-transform: translate(1vw, -56vh);
+    transform: translate(1vw, -56vh);
   }
   33% {
-    -webkit-transform: translate(1130px, -1026px);
-    transform: translate(1130px, -1026px);
+    -webkit-transform: translate(54vw, -58vh);
+    transform: translate(54vw, -58vh);
   }
   44% {
-    -webkit-transform: translate(67px, -638px);
-    transform: translate(67px, -638px);
+    -webkit-transform: translate(65vw, -58vh);
+    transform: translate(65vw, -58vh);
   }
   55% {
-    -webkit-transform: translate(1795px, -949px);
-    transform: translate(1795px, -949px);
+    -webkit-transform: translate(17vw, -93vh);
+    transform: translate(17vw, -93vh);
   }
   66% {
-    -webkit-transform: translate(454px, -169px);
-    transform: translate(454px, -169px);
+    -webkit-transform: translate(77vw, -20vh);
+    transform: translate(77vw, -20vh);
   }
   77% {
-    -webkit-transform: translate(819px, -29px);
-    transform: translate(819px, -29px);
+    -webkit-transform: translate(48vw, -3vh);
+    transform: translate(48vw, -3vh);
   }
   88% {
-    -webkit-transform: translate(128px, -335px);
-    transform: translate(128px, -335px);
+    -webkit-transform: translate(15vw, -83vh);
+    transform: translate(15vw, -83vh);
   }
   100% {
-    -webkit-transform: translate(1441px, -852px);
-    transform: translate(1441px, -852px);
+    -webkit-transform: translate(56vw, -51vh);
+    transform: translate(56vw, -51vh);
   }
 }
 @keyframes borboletas-pos-loop-4 {
   0% {
-    -moz-transform: translate(1586px, -816px);
-    -ms-transform: translate(1586px, -816px);
-    -webkit-transform: translate(1586px, -816px);
-    transform: translate(1586px, -816px);
+    -moz-transform: translate(80vw, -44vh);
+    -ms-transform: translate(80vw, -44vh);
+    -webkit-transform: translate(80vw, -44vh);
+    transform: translate(80vw, -44vh);
   }
   11% {
-    -moz-transform: translate(1577px, -879px);
-    -ms-transform: translate(1577px, -879px);
-    -webkit-transform: translate(1577px, -879px);
-    transform: translate(1577px, -879px);
+    -moz-transform: translate(74vw, -53vh);
+    -ms-transform: translate(74vw, -53vh);
+    -webkit-transform: translate(74vw, -53vh);
+    transform: translate(74vw, -53vh);
   }
   22% {
-    -moz-transform: translate(680px, -577px);
-    -ms-transform: translate(680px, -577px);
-    -webkit-transform: translate(680px, -577px);
-    transform: translate(680px, -577px);
+    -moz-transform: translate(82vw, -74vh);
+    -ms-transform: translate(82vw, -74vh);
+    -webkit-transform: translate(82vw, -74vh);
+    transform: translate(82vw, -74vh);
   }
   33% {
-    -moz-transform: translate(1295px, -358px);
-    -ms-transform: translate(1295px, -358px);
-    -webkit-transform: translate(1295px, -358px);
-    transform: translate(1295px, -358px);
+    -moz-transform: translate(1vw, -51vh);
+    -ms-transform: translate(1vw, -51vh);
+    -webkit-transform: translate(1vw, -51vh);
+    transform: translate(1vw, -51vh);
   }
   44% {
-    -moz-transform: translate(894px, -1010px);
-    -ms-transform: translate(894px, -1010px);
-    -webkit-transform: translate(894px, -1010px);
-    transform: translate(894px, -1010px);
+    -moz-transform: translate(36vw, -56vh);
+    -ms-transform: translate(36vw, -56vh);
+    -webkit-transform: translate(36vw, -56vh);
+    transform: translate(36vw, -56vh);
   }
   55% {
-    -moz-transform: translate(32px, -71px);
-    -ms-transform: translate(32px, -71px);
-    -webkit-transform: translate(32px, -71px);
-    transform: translate(32px, -71px);
+    -moz-transform: translate(58vw, -84vh);
+    -ms-transform: translate(58vw, -84vh);
+    -webkit-transform: translate(58vw, -84vh);
+    transform: translate(58vw, -84vh);
   }
   66% {
-    -moz-transform: translate(1139px, -54px);
-    -ms-transform: translate(1139px, -54px);
-    -webkit-transform: translate(1139px, -54px);
-    transform: translate(1139px, -54px);
+    -moz-transform: translate(14vw, -73vh);
+    -ms-transform: translate(14vw, -73vh);
+    -webkit-transform: translate(14vw, -73vh);
+    transform: translate(14vw, -73vh);
   }
   77% {
-    -moz-transform: translate(941px, -930px);
-    -ms-transform: translate(941px, -930px);
-    -webkit-transform: translate(941px, -930px);
-    transform: translate(941px, -930px);
+    -moz-transform: translate(2vw, -85vh);
+    -ms-transform: translate(2vw, -85vh);
+    -webkit-transform: translate(2vw, -85vh);
+    transform: translate(2vw, -85vh);
   }
   88% {
-    -moz-transform: translate(298px, -955px);
-    -ms-transform: translate(298px, -955px);
-    -webkit-transform: translate(298px, -955px);
-    transform: translate(298px, -955px);
+    -moz-transform: translate(6vw, -60vh);
+    -ms-transform: translate(6vw, -60vh);
+    -webkit-transform: translate(6vw, -60vh);
+    transform: translate(6vw, -60vh);
   }
   100% {
-    -moz-transform: translate(1196px, -755px);
-    -ms-transform: translate(1196px, -755px);
-    -webkit-transform: translate(1196px, -755px);
-    transform: translate(1196px, -755px);
+    -moz-transform: translate(71vw, -36vh);
+    -ms-transform: translate(71vw, -36vh);
+    -webkit-transform: translate(71vw, -36vh);
+    transform: translate(71vw, -36vh);
   }
 }
 @-moz-keyframes borboletas-pos-loop-4 {
   0% {
-    -moz-transform: translate(1218px, -15px);
-    transform: translate(1218px, -15px);
+    -moz-transform: translate(13vw, -15vh);
+    transform: translate(13vw, -15vh);
   }
   11% {
-    -moz-transform: translate(1378px, -635px);
-    transform: translate(1378px, -635px);
+    -moz-transform: translate(61vw, -18vh);
+    transform: translate(61vw, -18vh);
   }
   22% {
-    -moz-transform: translate(80px, -817px);
-    transform: translate(80px, -817px);
+    -moz-transform: translate(26vw, -10vh);
+    transform: translate(26vw, -10vh);
   }
   33% {
-    -moz-transform: translate(1005px, -993px);
-    transform: translate(1005px, -993px);
+    -moz-transform: translate(87vw, -20vh);
+    transform: translate(87vw, -20vh);
   }
   44% {
-    -moz-transform: translate(1170px, -327px);
-    transform: translate(1170px, -327px);
+    -moz-transform: translate(13vw, -63vh);
+    transform: translate(13vw, -63vh);
   }
   55% {
-    -moz-transform: translate(1246px, -92px);
-    transform: translate(1246px, -92px);
+    -moz-transform: translate(72vw, -87vh);
+    transform: translate(72vw, -87vh);
   }
   66% {
-    -moz-transform: translate(1756px, -581px);
-    transform: translate(1756px, -581px);
+    -moz-transform: translate(10vw, -97vh);
+    transform: translate(10vw, -97vh);
   }
   77% {
-    -moz-transform: translate(1660px, -244px);
-    transform: translate(1660px, -244px);
+    -moz-transform: translate(13vw, -74vh);
+    transform: translate(13vw, -74vh);
   }
   88% {
-    -moz-transform: translate(755px, -249px);
-    transform: translate(755px, -249px);
+    -moz-transform: translate(53vw, -75vh);
+    transform: translate(53vw, -75vh);
   }
   100% {
-    -moz-transform: translate(290px, -1064px);
-    transform: translate(290px, -1064px);
+    -moz-transform: translate(51vw, -84vh);
+    transform: translate(51vw, -84vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-4 {
   0% {
-    -webkit-transform: translate(917px, -483px);
-    transform: translate(917px, -483px);
+    -webkit-transform: translate(58vw, -96vh);
+    transform: translate(58vw, -96vh);
   }
   11% {
-    -webkit-transform: translate(1624px, -231px);
-    transform: translate(1624px, -231px);
+    -webkit-transform: translate(16vw, -28vh);
+    transform: translate(16vw, -28vh);
   }
   22% {
-    -webkit-transform: translate(1585px, -524px);
-    transform: translate(1585px, -524px);
+    -webkit-transform: translate(66vw, -68vh);
+    transform: translate(66vw, -68vh);
   }
   33% {
-    -webkit-transform: translate(782px, -501px);
-    transform: translate(782px, -501px);
+    -webkit-transform: translate(5vw, -88vh);
+    transform: translate(5vw, -88vh);
   }
   44% {
-    -webkit-transform: translate(639px, -748px);
-    transform: translate(639px, -748px);
+    -webkit-transform: translate(25vw, -84vh);
+    transform: translate(25vw, -84vh);
   }
   55% {
-    -webkit-transform: translate(454px, -300px);
-    transform: translate(454px, -300px);
+    -webkit-transform: translate(22vw, -42vh);
+    transform: translate(22vw, -42vh);
   }
   66% {
-    -webkit-transform: translate(317px, -690px);
-    transform: translate(317px, -690px);
+    -webkit-transform: translate(32vw, -55vh);
+    transform: translate(32vw, -55vh);
   }
   77% {
-    -webkit-transform: translate(1346px, -190px);
-    transform: translate(1346px, -190px);
+    -webkit-transform: translate(31vw, -48vh);
+    transform: translate(31vw, -48vh);
   }
   88% {
-    -webkit-transform: translate(40px, -597px);
-    transform: translate(40px, -597px);
+    -webkit-transform: translate(79vw, -16vh);
+    transform: translate(79vw, -16vh);
   }
   100% {
-    -webkit-transform: translate(1551px, -208px);
-    transform: translate(1551px, -208px);
+    -webkit-transform: translate(59vw, -80vh);
+    transform: translate(59vw, -80vh);
   }
 }
 @keyframes borboletas-pos-loop-4 {
   0% {
-    -moz-transform: translate(818px, -947px);
-    -ms-transform: translate(818px, -947px);
-    -webkit-transform: translate(818px, -947px);
-    transform: translate(818px, -947px);
+    -moz-transform: translate(90vw, -56vh);
+    -ms-transform: translate(90vw, -56vh);
+    -webkit-transform: translate(90vw, -56vh);
+    transform: translate(90vw, -56vh);
   }
   11% {
-    -moz-transform: translate(1084px, -49px);
-    -ms-transform: translate(1084px, -49px);
-    -webkit-transform: translate(1084px, -49px);
-    transform: translate(1084px, -49px);
+    -moz-transform: translate(42vw, -32vh);
+    -ms-transform: translate(42vw, -32vh);
+    -webkit-transform: translate(42vw, -32vh);
+    transform: translate(42vw, -32vh);
   }
   22% {
-    -moz-transform: translate(397px, -1016px);
-    -ms-transform: translate(397px, -1016px);
-    -webkit-transform: translate(397px, -1016px);
-    transform: translate(397px, -1016px);
+    -moz-transform: translate(9vw, -70vh);
+    -ms-transform: translate(9vw, -70vh);
+    -webkit-transform: translate(9vw, -70vh);
+    transform: translate(9vw, -70vh);
   }
   33% {
-    -moz-transform: translate(1263px, -877px);
-    -ms-transform: translate(1263px, -877px);
-    -webkit-transform: translate(1263px, -877px);
-    transform: translate(1263px, -877px);
+    -moz-transform: translate(9vw, -61vh);
+    -ms-transform: translate(9vw, -61vh);
+    -webkit-transform: translate(9vw, -61vh);
+    transform: translate(9vw, -61vh);
   }
   44% {
-    -moz-transform: translate(124px, -772px);
-    -ms-transform: translate(124px, -772px);
-    -webkit-transform: translate(124px, -772px);
-    transform: translate(124px, -772px);
+    -moz-transform: translate(74vw, -1vh);
+    -ms-transform: translate(74vw, -1vh);
+    -webkit-transform: translate(74vw, -1vh);
+    transform: translate(74vw, -1vh);
   }
   55% {
-    -moz-transform: translate(1421px, -538px);
-    -ms-transform: translate(1421px, -538px);
-    -webkit-transform: translate(1421px, -538px);
-    transform: translate(1421px, -538px);
+    -moz-transform: translate(75vw, -1vh);
+    -ms-transform: translate(75vw, -1vh);
+    -webkit-transform: translate(75vw, -1vh);
+    transform: translate(75vw, -1vh);
   }
   66% {
-    -moz-transform: translate(1375px, -349px);
-    -ms-transform: translate(1375px, -349px);
-    -webkit-transform: translate(1375px, -349px);
-    transform: translate(1375px, -349px);
+    -moz-transform: translate(72vw, -25vh);
+    -ms-transform: translate(72vw, -25vh);
+    -webkit-transform: translate(72vw, -25vh);
+    transform: translate(72vw, -25vh);
   }
   77% {
-    -moz-transform: translate(800px, -876px);
-    -ms-transform: translate(800px, -876px);
-    -webkit-transform: translate(800px, -876px);
-    transform: translate(800px, -876px);
+    -moz-transform: translate(95vw, -44vh);
+    -ms-transform: translate(95vw, -44vh);
+    -webkit-transform: translate(95vw, -44vh);
+    transform: translate(95vw, -44vh);
   }
   88% {
-    -moz-transform: translate(469px, -947px);
-    -ms-transform: translate(469px, -947px);
-    -webkit-transform: translate(469px, -947px);
-    transform: translate(469px, -947px);
+    -moz-transform: translate(5vw, -72vh);
+    -ms-transform: translate(5vw, -72vh);
+    -webkit-transform: translate(5vw, -72vh);
+    transform: translate(5vw, -72vh);
   }
   100% {
-    -moz-transform: translate(265px, -758px);
-    -ms-transform: translate(265px, -758px);
-    -webkit-transform: translate(265px, -758px);
-    transform: translate(265px, -758px);
+    -moz-transform: translate(35vw, -35vh);
+    -ms-transform: translate(35vw, -35vh);
+    -webkit-transform: translate(35vw, -35vh);
+    transform: translate(35vw, -35vh);
   }
 }
-/* line 37, ../sass/butterfly.scss */
+/* line 36, ../sass/butterfly.scss */
 .borboletas-4 {
   position: absolute;
   left: 0px;
   bottom: 0px;
-  -moz-animation: borboletas-pos-loop-4 38s ease-in-out infinite alternate-reverse;
-  -webkit-animation: borboletas-pos-loop-4 38s ease-in-out infinite alternate-reverse;
-  animation: borboletas-pos-loop-4 38s ease-in-out infinite alternate-reverse;
+  -moz-animation: borboletas-pos-loop-4 36s ease-in-out infinite alternate-reverse;
+  -webkit-animation: borboletas-pos-loop-4 36s ease-in-out infinite alternate-reverse;
+  animation: borboletas-pos-loop-4 36s ease-in-out infinite alternate-reverse;
 }
 
-/* line 49, ../sass/butterfly.scss */
+/* line 48, ../sass/butterfly.scss */
 .borboleta-4 {
   -moz-animation: borboleta-radial-loop-4 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-4 1.2s linear infinite;
   animation: borboleta-radial-loop-4 1.2s linear infinite;
 }
 
-/* line 52, ../sass/butterfly.scss */
+/* line 51, ../sass/butterfly.scss */
 .borboleta-4 {
   -moz-animation: borboleta-radial-loop-4 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-4 1.5s linear infinite;
   animation: borboleta-radial-loop-4 1.5s linear infinite;
 }
 
-/* line 55, ../sass/butterfly.scss */
+/* line 54, ../sass/butterfly.scss */
 .borboleta-4 {
   -moz-animation: borboleta-radial-loop-4 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-4 1.2s linear infinite;
   animation: borboleta-radial-loop-4 1.2s linear infinite;
 }
 
-/* line 58, ../sass/butterfly.scss */
+/* line 57, ../sass/butterfly.scss */
 .borboleta-4 {
   -moz-animation: borboleta-radial-loop-4 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-4 1.5s linear infinite;
   animation: borboleta-radial-loop-4 1.5s linear infinite;
 }
 
-/* line 65, ../sass/butterfly.scss */
+/* line 64, ../sass/butterfly.scss */
 .borboleta-gfx-4 {
   position: absolute;
   top: 0;
@@ -1710,7 +1715,7 @@
   height: 40px;
 }
 
-/* line 73, ../sass/butterfly.scss */
+/* line 72, ../sass/butterfly.scss */
 .borboleta-gfx-4 {
   position: absolute;
   top: 0;
@@ -1719,28 +1724,28 @@
   height: 40px;
 }
 
-/* line 82, ../sass/butterfly.scss */
+/* line 81, ../sass/butterfly.scss */
 .borboleta-4 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 85, ../sass/butterfly.scss */
+/* line 84, ../sass/butterfly.scss */
 .borboleta-4 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 88, ../sass/butterfly.scss */
+/* line 87, ../sass/butterfly.scss */
 .borboleta-4 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   animation: borboleta-gfx-upright-loop 1.5s linear infinite;
 }
 
-/* line 91, ../sass/butterfly.scss */
+/* line 90, ../sass/butterfly.scss */
 .borboleta-4 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
@@ -1815,7 +1820,7 @@
     transform: scale(0.7, -1) rotate(-40deg);
   }
 }
-/* line 105, ../sass/butterfly.scss */
+/* line 104, ../sass/butterfly.scss */
 .borboleta-anim-4 {
   background: radial-gradient(closest-side at 50% 50%, #a4c885 50%, rgba(255, 255, 255, 0) 50%), radial-gradient(closest-side at 50% 50%, #a4c885 50%, rgba(255, 255, 255, 0) 50%);
   background-repeat: no-repeat;
@@ -1830,335 +1835,335 @@
 
 @-moz-keyframes borboletas-pos-loop-5 {
   0% {
-    -moz-transform: translate(714px, -471px);
-    transform: translate(714px, -471px);
+    -moz-transform: translate(6vw, -84vh);
+    transform: translate(6vw, -84vh);
   }
   11% {
-    -moz-transform: translate(1539px, -719px);
-    transform: translate(1539px, -719px);
+    -moz-transform: translate(98vw, -95vh);
+    transform: translate(98vw, -95vh);
   }
   22% {
-    -moz-transform: translate(1096px, -63px);
-    transform: translate(1096px, -63px);
+    -moz-transform: translate(95vw, -46vh);
+    transform: translate(95vw, -46vh);
   }
   33% {
-    -moz-transform: translate(423px, -587px);
-    transform: translate(423px, -587px);
+    -moz-transform: translate(76vw, -96vh);
+    transform: translate(76vw, -96vh);
   }
   44% {
-    -moz-transform: translate(1702px, -657px);
-    transform: translate(1702px, -657px);
+    -moz-transform: translate(10vw, -86vh);
+    transform: translate(10vw, -86vh);
   }
   55% {
-    -moz-transform: translate(144px, -563px);
-    transform: translate(144px, -563px);
+    -moz-transform: translate(75vw, -17vh);
+    transform: translate(75vw, -17vh);
   }
   66% {
-    -moz-transform: translate(727px, -352px);
-    transform: translate(727px, -352px);
+    -moz-transform: translate(30vw, -40vh);
+    transform: translate(30vw, -40vh);
   }
   77% {
-    -moz-transform: translate(1074px, -376px);
-    transform: translate(1074px, -376px);
+    -moz-transform: translate(12vw, -61vh);
+    transform: translate(12vw, -61vh);
   }
   88% {
-    -moz-transform: translate(1647px, -329px);
-    transform: translate(1647px, -329px);
+    -moz-transform: translate(25vw, -3vh);
+    transform: translate(25vw, -3vh);
   }
   100% {
-    -moz-transform: translate(1044px, -219px);
-    transform: translate(1044px, -219px);
+    -moz-transform: translate(42vw, -80vh);
+    transform: translate(42vw, -80vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-5 {
   0% {
-    -webkit-transform: translate(1497px, -850px);
-    transform: translate(1497px, -850px);
+    -webkit-transform: translate(3vw, -74vh);
+    transform: translate(3vw, -74vh);
   }
   11% {
-    -webkit-transform: translate(1448px, -864px);
-    transform: translate(1448px, -864px);
+    -webkit-transform: translate(76vw, -47vh);
+    transform: translate(76vw, -47vh);
   }
   22% {
-    -webkit-transform: translate(1177px, -1033px);
-    transform: translate(1177px, -1033px);
+    -webkit-transform: translate(56vw, -4vh);
+    transform: translate(56vw, -4vh);
   }
   33% {
-    -webkit-transform: translate(1760px, -349px);
-    transform: translate(1760px, -349px);
+    -webkit-transform: translate(47vw, -44vh);
+    transform: translate(47vw, -44vh);
   }
   44% {
-    -webkit-transform: translate(1820px, -401px);
-    transform: translate(1820px, -401px);
+    -webkit-transform: translate(31vw, -12vh);
+    transform: translate(31vw, -12vh);
   }
   55% {
-    -webkit-transform: translate(516px, -50px);
-    transform: translate(516px, -50px);
+    -webkit-transform: translate(89vw, -42vh);
+    transform: translate(89vw, -42vh);
   }
   66% {
-    -webkit-transform: translate(1784px, -258px);
-    transform: translate(1784px, -258px);
+    -webkit-transform: translate(18vw, -89vh);
+    transform: translate(18vw, -89vh);
   }
   77% {
-    -webkit-transform: translate(1220px, -868px);
-    transform: translate(1220px, -868px);
+    -webkit-transform: translate(69vw, -81vh);
+    transform: translate(69vw, -81vh);
   }
   88% {
-    -webkit-transform: translate(506px, -553px);
-    transform: translate(506px, -553px);
+    -webkit-transform: translate(52vw, -23vh);
+    transform: translate(52vw, -23vh);
   }
   100% {
-    -webkit-transform: translate(1370px, -378px);
-    transform: translate(1370px, -378px);
+    -webkit-transform: translate(48vw, -77vh);
+    transform: translate(48vw, -77vh);
   }
 }
 @keyframes borboletas-pos-loop-5 {
   0% {
-    -moz-transform: translate(851px, -233px);
-    -ms-transform: translate(851px, -233px);
-    -webkit-transform: translate(851px, -233px);
-    transform: translate(851px, -233px);
+    -moz-transform: translate(94vw, -24vh);
+    -ms-transform: translate(94vw, -24vh);
+    -webkit-transform: translate(94vw, -24vh);
+    transform: translate(94vw, -24vh);
   }
   11% {
-    -moz-transform: translate(1903px, -652px);
-    -ms-transform: translate(1903px, -652px);
-    -webkit-transform: translate(1903px, -652px);
-    transform: translate(1903px, -652px);
+    -moz-transform: translate(21vw, -74vh);
+    -ms-transform: translate(21vw, -74vh);
+    -webkit-transform: translate(21vw, -74vh);
+    transform: translate(21vw, -74vh);
   }
   22% {
-    -moz-transform: translate(767px, -972px);
-    -ms-transform: translate(767px, -972px);
-    -webkit-transform: translate(767px, -972px);
-    transform: translate(767px, -972px);
+    -moz-transform: translate(73vw, -28vh);
+    -ms-transform: translate(73vw, -28vh);
+    -webkit-transform: translate(73vw, -28vh);
+    transform: translate(73vw, -28vh);
   }
   33% {
-    -moz-transform: translate(1347px, -705px);
-    -ms-transform: translate(1347px, -705px);
-    -webkit-transform: translate(1347px, -705px);
-    transform: translate(1347px, -705px);
+    -moz-transform: translate(53vw, -41vh);
+    -ms-transform: translate(53vw, -41vh);
+    -webkit-transform: translate(53vw, -41vh);
+    transform: translate(53vw, -41vh);
   }
   44% {
-    -moz-transform: translate(898px, -623px);
-    -ms-transform: translate(898px, -623px);
-    -webkit-transform: translate(898px, -623px);
-    transform: translate(898px, -623px);
+    -moz-transform: translate(20vw, -13vh);
+    -ms-transform: translate(20vw, -13vh);
+    -webkit-transform: translate(20vw, -13vh);
+    transform: translate(20vw, -13vh);
   }
   55% {
-    -moz-transform: translate(1487px, -425px);
-    -ms-transform: translate(1487px, -425px);
-    -webkit-transform: translate(1487px, -425px);
-    transform: translate(1487px, -425px);
+    -moz-transform: translate(62vw, -29vh);
+    -ms-transform: translate(62vw, -29vh);
+    -webkit-transform: translate(62vw, -29vh);
+    transform: translate(62vw, -29vh);
   }
   66% {
-    -moz-transform: translate(1578px, -424px);
-    -ms-transform: translate(1578px, -424px);
-    -webkit-transform: translate(1578px, -424px);
-    transform: translate(1578px, -424px);
+    -moz-transform: translate(92vw, -27vh);
+    -ms-transform: translate(92vw, -27vh);
+    -webkit-transform: translate(92vw, -27vh);
+    transform: translate(92vw, -27vh);
   }
   77% {
-    -moz-transform: translate(883px, -322px);
-    -ms-transform: translate(883px, -322px);
-    -webkit-transform: translate(883px, -322px);
-    transform: translate(883px, -322px);
+    -moz-transform: translate(16vw, -84vh);
+    -ms-transform: translate(16vw, -84vh);
+    -webkit-transform: translate(16vw, -84vh);
+    transform: translate(16vw, -84vh);
   }
   88% {
-    -moz-transform: translate(426px, -1009px);
-    -ms-transform: translate(426px, -1009px);
-    -webkit-transform: translate(426px, -1009px);
-    transform: translate(426px, -1009px);
+    -moz-transform: translate(29vw, -3vh);
+    -ms-transform: translate(29vw, -3vh);
+    -webkit-transform: translate(29vw, -3vh);
+    transform: translate(29vw, -3vh);
   }
   100% {
-    -moz-transform: translate(1670px, -762px);
-    -ms-transform: translate(1670px, -762px);
-    -webkit-transform: translate(1670px, -762px);
-    transform: translate(1670px, -762px);
+    -moz-transform: translate(25vw, -38vh);
+    -ms-transform: translate(25vw, -38vh);
+    -webkit-transform: translate(25vw, -38vh);
+    transform: translate(25vw, -38vh);
   }
 }
 @-moz-keyframes borboletas-pos-loop-5 {
   0% {
-    -moz-transform: translate(1430px, -332px);
-    transform: translate(1430px, -332px);
+    -moz-transform: translate(83vw, -47vh);
+    transform: translate(83vw, -47vh);
   }
   11% {
-    -moz-transform: translate(389px, -457px);
-    transform: translate(389px, -457px);
+    -moz-transform: translate(1vw, -55vh);
+    transform: translate(1vw, -55vh);
   }
   22% {
-    -moz-transform: translate(520px, -189px);
-    transform: translate(520px, -189px);
+    -moz-transform: translate(70vw, -30vh);
+    transform: translate(70vw, -30vh);
   }
   33% {
-    -moz-transform: translate(1286px, -572px);
-    transform: translate(1286px, -572px);
+    -moz-transform: translate(52vw, -28vh);
+    transform: translate(52vw, -28vh);
   }
   44% {
-    -moz-transform: translate(323px, -525px);
-    transform: translate(323px, -525px);
+    -moz-transform: translate(5vw, -34vh);
+    transform: translate(5vw, -34vh);
   }
   55% {
-    -moz-transform: translate(1292px, -992px);
-    transform: translate(1292px, -992px);
+    -moz-transform: translate(70vw, -93vh);
+    transform: translate(70vw, -93vh);
   }
   66% {
-    -moz-transform: translate(1363px, -546px);
-    transform: translate(1363px, -546px);
+    -moz-transform: translate(48vw, -84vh);
+    transform: translate(48vw, -84vh);
   }
   77% {
-    -moz-transform: translate(1304px, -841px);
-    transform: translate(1304px, -841px);
+    -moz-transform: translate(84vw, -70vh);
+    transform: translate(84vw, -70vh);
   }
   88% {
-    -moz-transform: translate(289px, -790px);
-    transform: translate(289px, -790px);
+    -moz-transform: translate(4vw, -20vh);
+    transform: translate(4vw, -20vh);
   }
   100% {
-    -moz-transform: translate(1255px, -262px);
-    transform: translate(1255px, -262px);
+    -moz-transform: translate(8vw, -96vh);
+    transform: translate(8vw, -96vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-5 {
   0% {
-    -webkit-transform: translate(1553px, -787px);
-    transform: translate(1553px, -787px);
+    -webkit-transform: translate(56vw, -68vh);
+    transform: translate(56vw, -68vh);
   }
   11% {
-    -webkit-transform: translate(1838px, -50px);
-    transform: translate(1838px, -50px);
+    -webkit-transform: translate(59vw, -61vh);
+    transform: translate(59vw, -61vh);
   }
   22% {
-    -webkit-transform: translate(800px, -127px);
-    transform: translate(800px, -127px);
+    -webkit-transform: translate(28vw, -86vh);
+    transform: translate(28vw, -86vh);
   }
   33% {
-    -webkit-transform: translate(503px, -557px);
-    transform: translate(503px, -557px);
+    -webkit-transform: translate(70vw, -96vh);
+    transform: translate(70vw, -96vh);
   }
   44% {
-    -webkit-transform: translate(890px, -240px);
-    transform: translate(890px, -240px);
+    -webkit-transform: translate(100vw, -26vh);
+    transform: translate(100vw, -26vh);
   }
   55% {
-    -webkit-transform: translate(428px, -54px);
-    transform: translate(428px, -54px);
+    -webkit-transform: translate(70vw, -96vh);
+    transform: translate(70vw, -96vh);
   }
   66% {
-    -webkit-transform: translate(149px, -1072px);
-    transform: translate(149px, -1072px);
+    -webkit-transform: translate(15vw, -1vh);
+    transform: translate(15vw, -1vh);
   }
   77% {
-    -webkit-transform: translate(1401px, -1002px);
-    transform: translate(1401px, -1002px);
+    -webkit-transform: translate(56vw, -46vh);
+    transform: translate(56vw, -46vh);
   }
   88% {
-    -webkit-transform: translate(23px, -227px);
-    transform: translate(23px, -227px);
+    -webkit-transform: translate(90vw, -11vh);
+    transform: translate(90vw, -11vh);
   }
   100% {
-    -webkit-transform: translate(1841px, -427px);
-    transform: translate(1841px, -427px);
+    -webkit-transform: translate(56vw, -57vh);
+    transform: translate(56vw, -57vh);
   }
 }
 @keyframes borboletas-pos-loop-5 {
   0% {
-    -moz-transform: translate(318px, -1064px);
-    -ms-transform: translate(318px, -1064px);
-    -webkit-transform: translate(318px, -1064px);
-    transform: translate(318px, -1064px);
+    -moz-transform: translate(82vw, -97vh);
+    -ms-transform: translate(82vw, -97vh);
+    -webkit-transform: translate(82vw, -97vh);
+    transform: translate(82vw, -97vh);
   }
   11% {
-    -moz-transform: translate(1302px, -551px);
-    -ms-transform: translate(1302px, -551px);
-    -webkit-transform: translate(1302px, -551px);
-    transform: translate(1302px, -551px);
+    -moz-transform: translate(86vw, -17vh);
+    -ms-transform: translate(86vw, -17vh);
+    -webkit-transform: translate(86vw, -17vh);
+    transform: translate(86vw, -17vh);
   }
   22% {
-    -moz-transform: translate(1818px, -367px);
-    -ms-transform: translate(1818px, -367px);
-    -webkit-transform: translate(1818px, -367px);
-    transform: translate(1818px, -367px);
+    -moz-transform: translate(86vw, -14vh);
+    -ms-transform: translate(86vw, -14vh);
+    -webkit-transform: translate(86vw, -14vh);
+    transform: translate(86vw, -14vh);
   }
   33% {
-    -moz-transform: translate(438px, -48px);
-    -ms-transform: translate(438px, -48px);
-    -webkit-transform: translate(438px, -48px);
-    transform: translate(438px, -48px);
+    -moz-transform: translate(65vw, -59vh);
+    -ms-transform: translate(65vw, -59vh);
+    -webkit-transform: translate(65vw, -59vh);
+    transform: translate(65vw, -59vh);
   }
   44% {
-    -moz-transform: translate(890px, -348px);
-    -ms-transform: translate(890px, -348px);
-    -webkit-transform: translate(890px, -348px);
-    transform: translate(890px, -348px);
+    -moz-transform: translate(8vw, -12vh);
+    -ms-transform: translate(8vw, -12vh);
+    -webkit-transform: translate(8vw, -12vh);
+    transform: translate(8vw, -12vh);
   }
   55% {
-    -moz-transform: translate(1825px, -983px);
-    -ms-transform: translate(1825px, -983px);
-    -webkit-transform: translate(1825px, -983px);
-    transform: translate(1825px, -983px);
+    -moz-transform: translate(28vw, -33vh);
+    -ms-transform: translate(28vw, -33vh);
+    -webkit-transform: translate(28vw, -33vh);
+    transform: translate(28vw, -33vh);
   }
   66% {
-    -moz-transform: translate(310px, -573px);
-    -ms-transform: translate(310px, -573px);
-    -webkit-transform: translate(310px, -573px);
-    transform: translate(310px, -573px);
+    -moz-transform: translate(99vw, -72vh);
+    -ms-transform: translate(99vw, -72vh);
+    -webkit-transform: translate(99vw, -72vh);
+    transform: translate(99vw, -72vh);
   }
   77% {
-    -moz-transform: translate(541px, -1042px);
-    -ms-transform: translate(541px, -1042px);
-    -webkit-transform: translate(541px, -1042px);
-    transform: translate(541px, -1042px);
+    -moz-transform: translate(51vw, -95vh);
+    -ms-transform: translate(51vw, -95vh);
+    -webkit-transform: translate(51vw, -95vh);
+    transform: translate(51vw, -95vh);
   }
   88% {
-    -moz-transform: translate(1360px, -159px);
-    -ms-transform: translate(1360px, -159px);
-    -webkit-transform: translate(1360px, -159px);
-    transform: translate(1360px, -159px);
+    -moz-transform: translate(63vw, -94vh);
+    -ms-transform: translate(63vw, -94vh);
+    -webkit-transform: translate(63vw, -94vh);
+    transform: translate(63vw, -94vh);
   }
   100% {
-    -moz-transform: translate(1826px, -443px);
-    -ms-transform: translate(1826px, -443px);
-    -webkit-transform: translate(1826px, -443px);
-    transform: translate(1826px, -443px);
+    -moz-transform: translate(100vw, -36vh);
+    -ms-transform: translate(100vw, -36vh);
+    -webkit-transform: translate(100vw, -36vh);
+    transform: translate(100vw, -36vh);
   }
 }
-/* line 37, ../sass/butterfly.scss */
+/* line 36, ../sass/butterfly.scss */
 .borboletas-5 {
   position: absolute;
   left: 0px;
   bottom: 0px;
-  -moz-animation: borboletas-pos-loop-5 31s ease-in-out infinite alternate-reverse;
-  -webkit-animation: borboletas-pos-loop-5 31s ease-in-out infinite alternate-reverse;
-  animation: borboletas-pos-loop-5 31s ease-in-out infinite alternate-reverse;
+  -moz-animation: borboletas-pos-loop-5 27s ease-in-out infinite alternate-reverse;
+  -webkit-animation: borboletas-pos-loop-5 27s ease-in-out infinite alternate-reverse;
+  animation: borboletas-pos-loop-5 27s ease-in-out infinite alternate-reverse;
 }
 
-/* line 49, ../sass/butterfly.scss */
+/* line 48, ../sass/butterfly.scss */
 .borboleta-5 {
   -moz-animation: borboleta-radial-loop-5 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-5 1.2s linear infinite;
   animation: borboleta-radial-loop-5 1.2s linear infinite;
 }
 
-/* line 52, ../sass/butterfly.scss */
+/* line 51, ../sass/butterfly.scss */
 .borboleta-5 {
   -moz-animation: borboleta-radial-loop-5 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-5 1.5s linear infinite;
   animation: borboleta-radial-loop-5 1.5s linear infinite;
 }
 
-/* line 55, ../sass/butterfly.scss */
+/* line 54, ../sass/butterfly.scss */
 .borboleta-5 {
   -moz-animation: borboleta-radial-loop-5 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-5 1.2s linear infinite;
   animation: borboleta-radial-loop-5 1.2s linear infinite;
 }
 
-/* line 58, ../sass/butterfly.scss */
+/* line 57, ../sass/butterfly.scss */
 .borboleta-5 {
   -moz-animation: borboleta-radial-loop-5 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-5 1.5s linear infinite;
   animation: borboleta-radial-loop-5 1.5s linear infinite;
 }
 
-/* line 65, ../sass/butterfly.scss */
+/* line 64, ../sass/butterfly.scss */
 .borboleta-gfx-5 {
   position: absolute;
   top: 0;
@@ -2167,7 +2172,7 @@
   height: 40px;
 }
 
-/* line 73, ../sass/butterfly.scss */
+/* line 72, ../sass/butterfly.scss */
 .borboleta-gfx-5 {
   position: absolute;
   top: 0;
@@ -2176,28 +2181,28 @@
   height: 40px;
 }
 
-/* line 82, ../sass/butterfly.scss */
+/* line 81, ../sass/butterfly.scss */
 .borboleta-5 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 85, ../sass/butterfly.scss */
+/* line 84, ../sass/butterfly.scss */
 .borboleta-5 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 88, ../sass/butterfly.scss */
+/* line 87, ../sass/butterfly.scss */
 .borboleta-5 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   animation: borboleta-gfx-upright-loop 1.5s linear infinite;
 }
 
-/* line 91, ../sass/butterfly.scss */
+/* line 90, ../sass/butterfly.scss */
 .borboleta-5 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
@@ -2272,7 +2277,7 @@
     transform: scale(0.7, -1) rotate(-40deg);
   }
 }
-/* line 105, ../sass/butterfly.scss */
+/* line 104, ../sass/butterfly.scss */
 .borboleta-anim-5 {
   background: radial-gradient(closest-side at 50% 50%, #4892dd 50%, rgba(255, 255, 255, 0) 50%), radial-gradient(closest-side at 50% 50%, #4892dd 50%, rgba(255, 255, 255, 0) 50%);
   background-repeat: no-repeat;
@@ -2287,335 +2292,335 @@
 
 @-moz-keyframes borboletas-pos-loop-6 {
   0% {
-    -moz-transform: translate(37px, -826px);
-    transform: translate(37px, -826px);
+    -moz-transform: translate(92vw, -30vh);
+    transform: translate(92vw, -30vh);
   }
   11% {
-    -moz-transform: translate(758px, -525px);
-    transform: translate(758px, -525px);
+    -moz-transform: translate(45vw, -34vh);
+    transform: translate(45vw, -34vh);
   }
   22% {
-    -moz-transform: translate(849px, -812px);
-    transform: translate(849px, -812px);
+    -moz-transform: translate(81vw, -20vh);
+    transform: translate(81vw, -20vh);
   }
   33% {
-    -moz-transform: translate(139px, -592px);
-    transform: translate(139px, -592px);
+    -moz-transform: translate(8vw, -32vh);
+    transform: translate(8vw, -32vh);
   }
   44% {
-    -moz-transform: translate(279px, -991px);
-    transform: translate(279px, -991px);
+    -moz-transform: translate(53vw, -80vh);
+    transform: translate(53vw, -80vh);
   }
   55% {
-    -moz-transform: translate(1406px, -514px);
-    transform: translate(1406px, -514px);
+    -moz-transform: translate(6vw, -87vh);
+    transform: translate(6vw, -87vh);
   }
   66% {
-    -moz-transform: translate(1449px, -37px);
-    transform: translate(1449px, -37px);
+    -moz-transform: translate(62vw, -8vh);
+    transform: translate(62vw, -8vh);
   }
   77% {
-    -moz-transform: translate(967px, -176px);
-    transform: translate(967px, -176px);
+    -moz-transform: translate(52vw, -36vh);
+    transform: translate(52vw, -36vh);
   }
   88% {
-    -moz-transform: translate(1863px, -684px);
-    transform: translate(1863px, -684px);
+    -moz-transform: translate(92vw, -83vh);
+    transform: translate(92vw, -83vh);
   }
   100% {
-    -moz-transform: translate(227px, -395px);
-    transform: translate(227px, -395px);
+    -moz-transform: translate(99vw, -29vh);
+    transform: translate(99vw, -29vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-6 {
   0% {
-    -webkit-transform: translate(1597px, -265px);
-    transform: translate(1597px, -265px);
+    -webkit-transform: translate(89vw, -93vh);
+    transform: translate(89vw, -93vh);
   }
   11% {
-    -webkit-transform: translate(180px, -116px);
-    transform: translate(180px, -116px);
+    -webkit-transform: translate(26vw, -16vh);
+    transform: translate(26vw, -16vh);
   }
   22% {
-    -webkit-transform: translate(1314px, -680px);
-    transform: translate(1314px, -680px);
+    -webkit-transform: translate(19vw, -57vh);
+    transform: translate(19vw, -57vh);
   }
   33% {
-    -webkit-transform: translate(256px, -385px);
-    transform: translate(256px, -385px);
+    -webkit-transform: translate(96vw, -31vh);
+    transform: translate(96vw, -31vh);
   }
   44% {
-    -webkit-transform: translate(840px, -697px);
-    transform: translate(840px, -697px);
+    -webkit-transform: translate(76vw, -72vh);
+    transform: translate(76vw, -72vh);
   }
   55% {
-    -webkit-transform: translate(763px, -907px);
-    transform: translate(763px, -907px);
+    -webkit-transform: translate(33vw, -43vh);
+    transform: translate(33vw, -43vh);
   }
   66% {
-    -webkit-transform: translate(1686px, -80px);
-    transform: translate(1686px, -80px);
+    -webkit-transform: translate(60vw, -64vh);
+    transform: translate(60vw, -64vh);
   }
   77% {
-    -webkit-transform: translate(1684px, -467px);
-    transform: translate(1684px, -467px);
+    -webkit-transform: translate(35vw, -42vh);
+    transform: translate(35vw, -42vh);
   }
   88% {
-    -webkit-transform: translate(606px, -74px);
-    transform: translate(606px, -74px);
+    -webkit-transform: translate(84vw, -9vh);
+    transform: translate(84vw, -9vh);
   }
   100% {
-    -webkit-transform: translate(558px, -41px);
-    transform: translate(558px, -41px);
+    -webkit-transform: translate(90vw, -48vh);
+    transform: translate(90vw, -48vh);
   }
 }
 @keyframes borboletas-pos-loop-6 {
   0% {
-    -moz-transform: translate(1735px, -1055px);
-    -ms-transform: translate(1735px, -1055px);
-    -webkit-transform: translate(1735px, -1055px);
-    transform: translate(1735px, -1055px);
+    -moz-transform: translate(91vw, -79vh);
+    -ms-transform: translate(91vw, -79vh);
+    -webkit-transform: translate(91vw, -79vh);
+    transform: translate(91vw, -79vh);
   }
   11% {
-    -moz-transform: translate(754px, -302px);
-    -ms-transform: translate(754px, -302px);
-    -webkit-transform: translate(754px, -302px);
-    transform: translate(754px, -302px);
+    -moz-transform: translate(15vw, -74vh);
+    -ms-transform: translate(15vw, -74vh);
+    -webkit-transform: translate(15vw, -74vh);
+    transform: translate(15vw, -74vh);
   }
   22% {
-    -moz-transform: translate(1774px, -332px);
-    -ms-transform: translate(1774px, -332px);
-    -webkit-transform: translate(1774px, -332px);
-    transform: translate(1774px, -332px);
+    -moz-transform: translate(85vw, -25vh);
+    -ms-transform: translate(85vw, -25vh);
+    -webkit-transform: translate(85vw, -25vh);
+    transform: translate(85vw, -25vh);
   }
   33% {
-    -moz-transform: translate(1258px, -1014px);
-    -ms-transform: translate(1258px, -1014px);
-    -webkit-transform: translate(1258px, -1014px);
-    transform: translate(1258px, -1014px);
+    -moz-transform: translate(29vw, -15vh);
+    -ms-transform: translate(29vw, -15vh);
+    -webkit-transform: translate(29vw, -15vh);
+    transform: translate(29vw, -15vh);
   }
   44% {
-    -moz-transform: translate(1716px, -1074px);
-    -ms-transform: translate(1716px, -1074px);
-    -webkit-transform: translate(1716px, -1074px);
-    transform: translate(1716px, -1074px);
+    -moz-transform: translate(45vw, -40vh);
+    -ms-transform: translate(45vw, -40vh);
+    -webkit-transform: translate(45vw, -40vh);
+    transform: translate(45vw, -40vh);
   }
   55% {
-    -moz-transform: translate(1843px, -1043px);
-    -ms-transform: translate(1843px, -1043px);
-    -webkit-transform: translate(1843px, -1043px);
-    transform: translate(1843px, -1043px);
+    -moz-transform: translate(97vw, -21vh);
+    -ms-transform: translate(97vw, -21vh);
+    -webkit-transform: translate(97vw, -21vh);
+    transform: translate(97vw, -21vh);
   }
   66% {
-    -moz-transform: translate(168px, -955px);
-    -ms-transform: translate(168px, -955px);
-    -webkit-transform: translate(168px, -955px);
-    transform: translate(168px, -955px);
+    -moz-transform: translate(11vw, -46vh);
+    -ms-transform: translate(11vw, -46vh);
+    -webkit-transform: translate(11vw, -46vh);
+    transform: translate(11vw, -46vh);
   }
   77% {
-    -moz-transform: translate(1132px, -447px);
-    -ms-transform: translate(1132px, -447px);
-    -webkit-transform: translate(1132px, -447px);
-    transform: translate(1132px, -447px);
+    -moz-transform: translate(55vw, -78vh);
+    -ms-transform: translate(55vw, -78vh);
+    -webkit-transform: translate(55vw, -78vh);
+    transform: translate(55vw, -78vh);
   }
   88% {
-    -moz-transform: translate(1228px, -62px);
-    -ms-transform: translate(1228px, -62px);
-    -webkit-transform: translate(1228px, -62px);
-    transform: translate(1228px, -62px);
+    -moz-transform: translate(42vw, -24vh);
+    -ms-transform: translate(42vw, -24vh);
+    -webkit-transform: translate(42vw, -24vh);
+    transform: translate(42vw, -24vh);
   }
   100% {
-    -moz-transform: translate(723px, -686px);
-    -ms-transform: translate(723px, -686px);
-    -webkit-transform: translate(723px, -686px);
-    transform: translate(723px, -686px);
+    -moz-transform: translate(18vw, -22vh);
+    -ms-transform: translate(18vw, -22vh);
+    -webkit-transform: translate(18vw, -22vh);
+    transform: translate(18vw, -22vh);
   }
 }
 @-moz-keyframes borboletas-pos-loop-6 {
   0% {
-    -moz-transform: translate(1871px, -169px);
-    transform: translate(1871px, -169px);
+    -moz-transform: translate(18vw, -37vh);
+    transform: translate(18vw, -37vh);
   }
   11% {
-    -moz-transform: translate(424px, -1034px);
-    transform: translate(424px, -1034px);
+    -moz-transform: translate(100vw, -9vh);
+    transform: translate(100vw, -9vh);
   }
   22% {
-    -moz-transform: translate(713px, -394px);
-    transform: translate(713px, -394px);
+    -moz-transform: translate(99vw, -24vh);
+    transform: translate(99vw, -24vh);
   }
   33% {
-    -moz-transform: translate(985px, -313px);
-    transform: translate(985px, -313px);
+    -moz-transform: translate(9vw, -43vh);
+    transform: translate(9vw, -43vh);
   }
   44% {
-    -moz-transform: translate(612px, -671px);
-    transform: translate(612px, -671px);
+    -moz-transform: translate(8vw, -1vh);
+    transform: translate(8vw, -1vh);
   }
   55% {
-    -moz-transform: translate(1744px, -79px);
-    transform: translate(1744px, -79px);
+    -moz-transform: translate(86vw, -78vh);
+    transform: translate(86vw, -78vh);
   }
   66% {
-    -moz-transform: translate(1479px, -1079px);
-    transform: translate(1479px, -1079px);
+    -moz-transform: translate(76vw, -99vh);
+    transform: translate(76vw, -99vh);
   }
   77% {
-    -moz-transform: translate(1076px, -279px);
-    transform: translate(1076px, -279px);
+    -moz-transform: translate(15vw, -1vh);
+    transform: translate(15vw, -1vh);
   }
   88% {
-    -moz-transform: translate(1826px, -586px);
-    transform: translate(1826px, -586px);
+    -moz-transform: translate(51vw, -58vh);
+    transform: translate(51vw, -58vh);
   }
   100% {
-    -moz-transform: translate(197px, -669px);
-    transform: translate(197px, -669px);
+    -moz-transform: translate(79vw, -24vh);
+    transform: translate(79vw, -24vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-6 {
   0% {
-    -webkit-transform: translate(1890px, -421px);
-    transform: translate(1890px, -421px);
+    -webkit-transform: translate(89vw, -78vh);
+    transform: translate(89vw, -78vh);
   }
   11% {
-    -webkit-transform: translate(1565px, -872px);
-    transform: translate(1565px, -872px);
+    -webkit-transform: translate(81vw, -70vh);
+    transform: translate(81vw, -70vh);
   }
   22% {
-    -webkit-transform: translate(623px, -103px);
-    transform: translate(623px, -103px);
+    -webkit-transform: translate(2vw, -32vh);
+    transform: translate(2vw, -32vh);
   }
   33% {
-    -webkit-transform: translate(397px, -795px);
-    transform: translate(397px, -795px);
+    -webkit-transform: translate(86vw, -63vh);
+    transform: translate(86vw, -63vh);
   }
   44% {
-    -webkit-transform: translate(1668px, -141px);
-    transform: translate(1668px, -141px);
+    -webkit-transform: translate(25vw, -28vh);
+    transform: translate(25vw, -28vh);
   }
   55% {
-    -webkit-transform: translate(1409px, -211px);
-    transform: translate(1409px, -211px);
+    -webkit-transform: translate(99vw, -58vh);
+    transform: translate(99vw, -58vh);
   }
   66% {
-    -webkit-transform: translate(1124px, -241px);
-    transform: translate(1124px, -241px);
+    -webkit-transform: translate(33vw, -42vh);
+    transform: translate(33vw, -42vh);
   }
   77% {
-    -webkit-transform: translate(927px, -107px);
-    transform: translate(927px, -107px);
+    -webkit-transform: translate(58vw, -94vh);
+    transform: translate(58vw, -94vh);
   }
   88% {
-    -webkit-transform: translate(1239px, -715px);
-    transform: translate(1239px, -715px);
+    -webkit-transform: translate(8vw, -59vh);
+    transform: translate(8vw, -59vh);
   }
   100% {
-    -webkit-transform: translate(1187px, -306px);
-    transform: translate(1187px, -306px);
+    -webkit-transform: translate(66vw, -14vh);
+    transform: translate(66vw, -14vh);
   }
 }
 @keyframes borboletas-pos-loop-6 {
   0% {
-    -moz-transform: translate(970px, -302px);
-    -ms-transform: translate(970px, -302px);
-    -webkit-transform: translate(970px, -302px);
-    transform: translate(970px, -302px);
+    -moz-transform: translate(57vw, -28vh);
+    -ms-transform: translate(57vw, -28vh);
+    -webkit-transform: translate(57vw, -28vh);
+    transform: translate(57vw, -28vh);
   }
   11% {
-    -moz-transform: translate(807px, -144px);
-    -ms-transform: translate(807px, -144px);
-    -webkit-transform: translate(807px, -144px);
-    transform: translate(807px, -144px);
+    -moz-transform: translate(1vw, -67vh);
+    -ms-transform: translate(1vw, -67vh);
+    -webkit-transform: translate(1vw, -67vh);
+    transform: translate(1vw, -67vh);
   }
   22% {
-    -moz-transform: translate(96px, -408px);
-    -ms-transform: translate(96px, -408px);
-    -webkit-transform: translate(96px, -408px);
-    transform: translate(96px, -408px);
+    -moz-transform: translate(28vw, -73vh);
+    -ms-transform: translate(28vw, -73vh);
+    -webkit-transform: translate(28vw, -73vh);
+    transform: translate(28vw, -73vh);
   }
   33% {
-    -moz-transform: translate(1118px, -237px);
-    -ms-transform: translate(1118px, -237px);
-    -webkit-transform: translate(1118px, -237px);
-    transform: translate(1118px, -237px);
+    -moz-transform: translate(92vw, -14vh);
+    -ms-transform: translate(92vw, -14vh);
+    -webkit-transform: translate(92vw, -14vh);
+    transform: translate(92vw, -14vh);
   }
   44% {
-    -moz-transform: translate(1178px, -810px);
-    -ms-transform: translate(1178px, -810px);
-    -webkit-transform: translate(1178px, -810px);
-    transform: translate(1178px, -810px);
+    -moz-transform: translate(9vw, -28vh);
+    -ms-transform: translate(9vw, -28vh);
+    -webkit-transform: translate(9vw, -28vh);
+    transform: translate(9vw, -28vh);
   }
   55% {
-    -moz-transform: translate(471px, -757px);
-    -ms-transform: translate(471px, -757px);
-    -webkit-transform: translate(471px, -757px);
-    transform: translate(471px, -757px);
+    -moz-transform: translate(70vw, -65vh);
+    -ms-transform: translate(70vw, -65vh);
+    -webkit-transform: translate(70vw, -65vh);
+    transform: translate(70vw, -65vh);
   }
   66% {
-    -moz-transform: translate(1387px, -811px);
-    -ms-transform: translate(1387px, -811px);
-    -webkit-transform: translate(1387px, -811px);
-    transform: translate(1387px, -811px);
+    -moz-transform: translate(36vw, -42vh);
+    -ms-transform: translate(36vw, -42vh);
+    -webkit-transform: translate(36vw, -42vh);
+    transform: translate(36vw, -42vh);
   }
   77% {
-    -moz-transform: translate(1388px, -984px);
-    -ms-transform: translate(1388px, -984px);
-    -webkit-transform: translate(1388px, -984px);
-    transform: translate(1388px, -984px);
+    -moz-transform: translate(22vw, -87vh);
+    -ms-transform: translate(22vw, -87vh);
+    -webkit-transform: translate(22vw, -87vh);
+    transform: translate(22vw, -87vh);
   }
   88% {
-    -moz-transform: translate(302px, -377px);
-    -ms-transform: translate(302px, -377px);
-    -webkit-transform: translate(302px, -377px);
-    transform: translate(302px, -377px);
+    -moz-transform: translate(32vw, -23vh);
+    -ms-transform: translate(32vw, -23vh);
+    -webkit-transform: translate(32vw, -23vh);
+    transform: translate(32vw, -23vh);
   }
   100% {
-    -moz-transform: translate(1073px, -733px);
-    -ms-transform: translate(1073px, -733px);
-    -webkit-transform: translate(1073px, -733px);
-    transform: translate(1073px, -733px);
+    -moz-transform: translate(91vw, -3vh);
+    -ms-transform: translate(91vw, -3vh);
+    -webkit-transform: translate(91vw, -3vh);
+    transform: translate(91vw, -3vh);
   }
 }
-/* line 37, ../sass/butterfly.scss */
+/* line 36, ../sass/butterfly.scss */
 .borboletas-6 {
   position: absolute;
   left: 0px;
   bottom: 0px;
-  -moz-animation: borboletas-pos-loop-6 26s ease-in-out infinite alternate-reverse;
-  -webkit-animation: borboletas-pos-loop-6 26s ease-in-out infinite alternate-reverse;
-  animation: borboletas-pos-loop-6 26s ease-in-out infinite alternate-reverse;
+  -moz-animation: borboletas-pos-loop-6 34s ease-in-out infinite alternate-reverse;
+  -webkit-animation: borboletas-pos-loop-6 34s ease-in-out infinite alternate-reverse;
+  animation: borboletas-pos-loop-6 34s ease-in-out infinite alternate-reverse;
 }
 
-/* line 49, ../sass/butterfly.scss */
+/* line 48, ../sass/butterfly.scss */
 .borboleta-6 {
   -moz-animation: borboleta-radial-loop-6 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-6 1.2s linear infinite;
   animation: borboleta-radial-loop-6 1.2s linear infinite;
 }
 
-/* line 52, ../sass/butterfly.scss */
+/* line 51, ../sass/butterfly.scss */
 .borboleta-6 {
   -moz-animation: borboleta-radial-loop-6 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-6 1.5s linear infinite;
   animation: borboleta-radial-loop-6 1.5s linear infinite;
 }
 
-/* line 55, ../sass/butterfly.scss */
+/* line 54, ../sass/butterfly.scss */
 .borboleta-6 {
   -moz-animation: borboleta-radial-loop-6 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-6 1.2s linear infinite;
   animation: borboleta-radial-loop-6 1.2s linear infinite;
 }
 
-/* line 58, ../sass/butterfly.scss */
+/* line 57, ../sass/butterfly.scss */
 .borboleta-6 {
   -moz-animation: borboleta-radial-loop-6 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-6 1.5s linear infinite;
   animation: borboleta-radial-loop-6 1.5s linear infinite;
 }
 
-/* line 65, ../sass/butterfly.scss */
+/* line 64, ../sass/butterfly.scss */
 .borboleta-gfx-6 {
   position: absolute;
   top: 0;
@@ -2624,7 +2629,7 @@
   height: 40px;
 }
 
-/* line 73, ../sass/butterfly.scss */
+/* line 72, ../sass/butterfly.scss */
 .borboleta-gfx-6 {
   position: absolute;
   top: 0;
@@ -2633,28 +2638,28 @@
   height: 40px;
 }
 
-/* line 82, ../sass/butterfly.scss */
+/* line 81, ../sass/butterfly.scss */
 .borboleta-6 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 85, ../sass/butterfly.scss */
+/* line 84, ../sass/butterfly.scss */
 .borboleta-6 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 88, ../sass/butterfly.scss */
+/* line 87, ../sass/butterfly.scss */
 .borboleta-6 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   animation: borboleta-gfx-upright-loop 1.5s linear infinite;
 }
 
-/* line 91, ../sass/butterfly.scss */
+/* line 90, ../sass/butterfly.scss */
 .borboleta-6 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
@@ -2729,7 +2734,7 @@
     transform: scale(0.7, -1) rotate(-40deg);
   }
 }
-/* line 105, ../sass/butterfly.scss */
+/* line 104, ../sass/butterfly.scss */
 .borboleta-anim-6 {
   background: radial-gradient(closest-side at 50% 50%, #546c85 50%, rgba(255, 255, 255, 0) 50%), radial-gradient(closest-side at 50% 50%, #546c85 50%, rgba(255, 255, 255, 0) 50%);
   background-repeat: no-repeat;
@@ -2744,335 +2749,335 @@
 
 @-moz-keyframes borboletas-pos-loop-7 {
   0% {
-    -moz-transform: translate(587px, -735px);
-    transform: translate(587px, -735px);
+    -moz-transform: translate(26vw, -3vh);
+    transform: translate(26vw, -3vh);
   }
   11% {
-    -moz-transform: translate(1114px, -947px);
-    transform: translate(1114px, -947px);
+    -moz-transform: translate(16vw, -5vh);
+    transform: translate(16vw, -5vh);
   }
   22% {
-    -moz-transform: translate(526px, -608px);
-    transform: translate(526px, -608px);
+    -moz-transform: translate(74vw, -52vh);
+    transform: translate(74vw, -52vh);
   }
   33% {
-    -moz-transform: translate(1077px, -735px);
-    transform: translate(1077px, -735px);
+    -moz-transform: translate(11vw, -16vh);
+    transform: translate(11vw, -16vh);
   }
   44% {
-    -moz-transform: translate(1418px, -847px);
-    transform: translate(1418px, -847px);
+    -moz-transform: translate(96vw, -24vh);
+    transform: translate(96vw, -24vh);
   }
   55% {
-    -moz-transform: translate(868px, -714px);
-    transform: translate(868px, -714px);
+    -moz-transform: translate(33vw, -81vh);
+    transform: translate(33vw, -81vh);
   }
   66% {
-    -moz-transform: translate(769px, -1028px);
-    transform: translate(769px, -1028px);
+    -moz-transform: translate(34vw, -25vh);
+    transform: translate(34vw, -25vh);
   }
   77% {
-    -moz-transform: translate(107px, -403px);
-    transform: translate(107px, -403px);
+    -moz-transform: translate(24vw, -7vh);
+    transform: translate(24vw, -7vh);
   }
   88% {
-    -moz-transform: translate(461px, -636px);
-    transform: translate(461px, -636px);
+    -moz-transform: translate(26vw, -24vh);
+    transform: translate(26vw, -24vh);
   }
   100% {
-    -moz-transform: translate(984px, -444px);
-    transform: translate(984px, -444px);
+    -moz-transform: translate(13vw, -76vh);
+    transform: translate(13vw, -76vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-7 {
   0% {
-    -webkit-transform: translate(1588px, -19px);
-    transform: translate(1588px, -19px);
+    -webkit-transform: translate(23vw, -99vh);
+    transform: translate(23vw, -99vh);
   }
   11% {
-    -webkit-transform: translate(95px, -228px);
-    transform: translate(95px, -228px);
+    -webkit-transform: translate(28vw, -52vh);
+    transform: translate(28vw, -52vh);
   }
   22% {
-    -webkit-transform: translate(442px, -470px);
-    transform: translate(442px, -470px);
+    -webkit-transform: translate(88vw, -56vh);
+    transform: translate(88vw, -56vh);
   }
   33% {
-    -webkit-transform: translate(486px, -197px);
-    transform: translate(486px, -197px);
+    -webkit-transform: translate(24vw, -70vh);
+    transform: translate(24vw, -70vh);
   }
   44% {
-    -webkit-transform: translate(1015px, -378px);
-    transform: translate(1015px, -378px);
+    -webkit-transform: translate(57vw, -20vh);
+    transform: translate(57vw, -20vh);
   }
   55% {
-    -webkit-transform: translate(1553px, -717px);
-    transform: translate(1553px, -717px);
+    -webkit-transform: translate(97vw, -36vh);
+    transform: translate(97vw, -36vh);
   }
   66% {
-    -webkit-transform: translate(1478px, -414px);
-    transform: translate(1478px, -414px);
+    -webkit-transform: translate(92vw, -77vh);
+    transform: translate(92vw, -77vh);
   }
   77% {
-    -webkit-transform: translate(21px, -149px);
-    transform: translate(21px, -149px);
+    -webkit-transform: translate(27vw, -24vh);
+    transform: translate(27vw, -24vh);
   }
   88% {
-    -webkit-transform: translate(1598px, -336px);
-    transform: translate(1598px, -336px);
+    -webkit-transform: translate(37vw, -26vh);
+    transform: translate(37vw, -26vh);
   }
   100% {
-    -webkit-transform: translate(436px, -1017px);
-    transform: translate(436px, -1017px);
+    -webkit-transform: translate(69vw, -82vh);
+    transform: translate(69vw, -82vh);
   }
 }
 @keyframes borboletas-pos-loop-7 {
   0% {
-    -moz-transform: translate(1678px, -188px);
-    -ms-transform: translate(1678px, -188px);
-    -webkit-transform: translate(1678px, -188px);
-    transform: translate(1678px, -188px);
+    -moz-transform: translate(78vw, -40vh);
+    -ms-transform: translate(78vw, -40vh);
+    -webkit-transform: translate(78vw, -40vh);
+    transform: translate(78vw, -40vh);
   }
   11% {
-    -moz-transform: translate(1838px, -915px);
-    -ms-transform: translate(1838px, -915px);
-    -webkit-transform: translate(1838px, -915px);
-    transform: translate(1838px, -915px);
+    -moz-transform: translate(44vw, -89vh);
+    -ms-transform: translate(44vw, -89vh);
+    -webkit-transform: translate(44vw, -89vh);
+    transform: translate(44vw, -89vh);
   }
   22% {
-    -moz-transform: translate(234px, -970px);
-    -ms-transform: translate(234px, -970px);
-    -webkit-transform: translate(234px, -970px);
-    transform: translate(234px, -970px);
+    -moz-transform: translate(77vw, -57vh);
+    -ms-transform: translate(77vw, -57vh);
+    -webkit-transform: translate(77vw, -57vh);
+    transform: translate(77vw, -57vh);
   }
   33% {
-    -moz-transform: translate(1625px, -321px);
-    -ms-transform: translate(1625px, -321px);
-    -webkit-transform: translate(1625px, -321px);
-    transform: translate(1625px, -321px);
+    -moz-transform: translate(82vw, -56vh);
+    -ms-transform: translate(82vw, -56vh);
+    -webkit-transform: translate(82vw, -56vh);
+    transform: translate(82vw, -56vh);
   }
   44% {
-    -moz-transform: translate(856px, -696px);
-    -ms-transform: translate(856px, -696px);
-    -webkit-transform: translate(856px, -696px);
-    transform: translate(856px, -696px);
+    -moz-transform: translate(79vw, -9vh);
+    -ms-transform: translate(79vw, -9vh);
+    -webkit-transform: translate(79vw, -9vh);
+    transform: translate(79vw, -9vh);
   }
   55% {
-    -moz-transform: translate(322px, -767px);
-    -ms-transform: translate(322px, -767px);
-    -webkit-transform: translate(322px, -767px);
-    transform: translate(322px, -767px);
+    -moz-transform: translate(3vw, -48vh);
+    -ms-transform: translate(3vw, -48vh);
+    -webkit-transform: translate(3vw, -48vh);
+    transform: translate(3vw, -48vh);
   }
   66% {
-    -moz-transform: translate(655px, -804px);
-    -ms-transform: translate(655px, -804px);
-    -webkit-transform: translate(655px, -804px);
-    transform: translate(655px, -804px);
+    -moz-transform: translate(3vw, -23vh);
+    -ms-transform: translate(3vw, -23vh);
+    -webkit-transform: translate(3vw, -23vh);
+    transform: translate(3vw, -23vh);
   }
   77% {
-    -moz-transform: translate(1904px, -669px);
-    -ms-transform: translate(1904px, -669px);
-    -webkit-transform: translate(1904px, -669px);
-    transform: translate(1904px, -669px);
+    -moz-transform: translate(26vw, -13vh);
+    -ms-transform: translate(26vw, -13vh);
+    -webkit-transform: translate(26vw, -13vh);
+    transform: translate(26vw, -13vh);
   }
   88% {
-    -moz-transform: translate(562px, -42px);
-    -ms-transform: translate(562px, -42px);
-    -webkit-transform: translate(562px, -42px);
-    transform: translate(562px, -42px);
+    -moz-transform: translate(17vw, -18vh);
+    -ms-transform: translate(17vw, -18vh);
+    -webkit-transform: translate(17vw, -18vh);
+    transform: translate(17vw, -18vh);
   }
   100% {
-    -moz-transform: translate(1232px, -212px);
-    -ms-transform: translate(1232px, -212px);
-    -webkit-transform: translate(1232px, -212px);
-    transform: translate(1232px, -212px);
+    -moz-transform: translate(28vw, -7vh);
+    -ms-transform: translate(28vw, -7vh);
+    -webkit-transform: translate(28vw, -7vh);
+    transform: translate(28vw, -7vh);
   }
 }
 @-moz-keyframes borboletas-pos-loop-7 {
   0% {
-    -moz-transform: translate(757px, -778px);
-    transform: translate(757px, -778px);
+    -moz-transform: translate(67vw, -85vh);
+    transform: translate(67vw, -85vh);
   }
   11% {
-    -moz-transform: translate(550px, -948px);
-    transform: translate(550px, -948px);
+    -moz-transform: translate(63vw, -78vh);
+    transform: translate(63vw, -78vh);
   }
   22% {
-    -moz-transform: translate(527px, -507px);
-    transform: translate(527px, -507px);
+    -moz-transform: translate(24vw, -47vh);
+    transform: translate(24vw, -47vh);
   }
   33% {
-    -moz-transform: translate(556px, -444px);
-    transform: translate(556px, -444px);
+    -moz-transform: translate(49vw, -14vh);
+    transform: translate(49vw, -14vh);
   }
   44% {
-    -moz-transform: translate(1684px, -735px);
-    transform: translate(1684px, -735px);
+    -moz-transform: translate(31vw, -28vh);
+    transform: translate(31vw, -28vh);
   }
   55% {
-    -moz-transform: translate(513px, -93px);
-    transform: translate(513px, -93px);
+    -moz-transform: translate(4vw, -2vh);
+    transform: translate(4vw, -2vh);
   }
   66% {
-    -moz-transform: translate(1386px, -83px);
-    transform: translate(1386px, -83px);
+    -moz-transform: translate(59vw, -76vh);
+    transform: translate(59vw, -76vh);
   }
   77% {
-    -moz-transform: translate(1316px, -685px);
-    transform: translate(1316px, -685px);
+    -moz-transform: translate(2vw, -25vh);
+    transform: translate(2vw, -25vh);
   }
   88% {
-    -moz-transform: translate(985px, -483px);
-    transform: translate(985px, -483px);
+    -moz-transform: translate(9vw, -70vh);
+    transform: translate(9vw, -70vh);
   }
   100% {
-    -moz-transform: translate(1140px, -410px);
-    transform: translate(1140px, -410px);
+    -moz-transform: translate(80vw, -96vh);
+    transform: translate(80vw, -96vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-7 {
   0% {
-    -webkit-transform: translate(357px, -1036px);
-    transform: translate(357px, -1036px);
+    -webkit-transform: translate(34vw, -45vh);
+    transform: translate(34vw, -45vh);
   }
   11% {
-    -webkit-transform: translate(903px, -1069px);
-    transform: translate(903px, -1069px);
+    -webkit-transform: translate(79vw, -13vh);
+    transform: translate(79vw, -13vh);
   }
   22% {
-    -webkit-transform: translate(1732px, -1075px);
-    transform: translate(1732px, -1075px);
+    -webkit-transform: translate(93vw, -65vh);
+    transform: translate(93vw, -65vh);
   }
   33% {
-    -webkit-transform: translate(453px, -404px);
-    transform: translate(453px, -404px);
+    -webkit-transform: translate(12vw, -85vh);
+    transform: translate(12vw, -85vh);
   }
   44% {
-    -webkit-transform: translate(233px, -783px);
-    transform: translate(233px, -783px);
+    -webkit-transform: translate(47vw, -42vh);
+    transform: translate(47vw, -42vh);
   }
   55% {
-    -webkit-transform: translate(877px, -296px);
-    transform: translate(877px, -296px);
+    -webkit-transform: translate(74vw, -37vh);
+    transform: translate(74vw, -37vh);
   }
   66% {
-    -webkit-transform: translate(1769px, -497px);
-    transform: translate(1769px, -497px);
+    -webkit-transform: translate(33vw, -25vh);
+    transform: translate(33vw, -25vh);
   }
   77% {
-    -webkit-transform: translate(845px, -477px);
-    transform: translate(845px, -477px);
+    -webkit-transform: translate(31vw, -81vh);
+    transform: translate(31vw, -81vh);
   }
   88% {
-    -webkit-transform: translate(1378px, -1001px);
-    transform: translate(1378px, -1001px);
+    -webkit-transform: translate(83vw, -53vh);
+    transform: translate(83vw, -53vh);
   }
   100% {
-    -webkit-transform: translate(229px, -707px);
-    transform: translate(229px, -707px);
+    -webkit-transform: translate(7vw, -97vh);
+    transform: translate(7vw, -97vh);
   }
 }
 @keyframes borboletas-pos-loop-7 {
   0% {
-    -moz-transform: translate(1697px, -255px);
-    -ms-transform: translate(1697px, -255px);
-    -webkit-transform: translate(1697px, -255px);
-    transform: translate(1697px, -255px);
+    -moz-transform: translate(7vw, -65vh);
+    -ms-transform: translate(7vw, -65vh);
+    -webkit-transform: translate(7vw, -65vh);
+    transform: translate(7vw, -65vh);
   }
   11% {
-    -moz-transform: translate(1329px, -913px);
-    -ms-transform: translate(1329px, -913px);
-    -webkit-transform: translate(1329px, -913px);
-    transform: translate(1329px, -913px);
+    -moz-transform: translate(24vw, -84vh);
+    -ms-transform: translate(24vw, -84vh);
+    -webkit-transform: translate(24vw, -84vh);
+    transform: translate(24vw, -84vh);
   }
   22% {
-    -moz-transform: translate(1147px, -81px);
-    -ms-transform: translate(1147px, -81px);
-    -webkit-transform: translate(1147px, -81px);
-    transform: translate(1147px, -81px);
+    -moz-transform: translate(99vw, -67vh);
+    -ms-transform: translate(99vw, -67vh);
+    -webkit-transform: translate(99vw, -67vh);
+    transform: translate(99vw, -67vh);
   }
   33% {
-    -moz-transform: translate(193px, -586px);
-    -ms-transform: translate(193px, -586px);
-    -webkit-transform: translate(193px, -586px);
-    transform: translate(193px, -586px);
+    -moz-transform: translate(6vw, -55vh);
+    -ms-transform: translate(6vw, -55vh);
+    -webkit-transform: translate(6vw, -55vh);
+    transform: translate(6vw, -55vh);
   }
   44% {
-    -moz-transform: translate(1403px, -654px);
-    -ms-transform: translate(1403px, -654px);
-    -webkit-transform: translate(1403px, -654px);
-    transform: translate(1403px, -654px);
+    -moz-transform: translate(81vw, -20vh);
+    -ms-transform: translate(81vw, -20vh);
+    -webkit-transform: translate(81vw, -20vh);
+    transform: translate(81vw, -20vh);
   }
   55% {
-    -moz-transform: translate(360px, -488px);
-    -ms-transform: translate(360px, -488px);
-    -webkit-transform: translate(360px, -488px);
-    transform: translate(360px, -488px);
+    -moz-transform: translate(84vw, -28vh);
+    -ms-transform: translate(84vw, -28vh);
+    -webkit-transform: translate(84vw, -28vh);
+    transform: translate(84vw, -28vh);
   }
   66% {
-    -moz-transform: translate(715px, -680px);
-    -ms-transform: translate(715px, -680px);
-    -webkit-transform: translate(715px, -680px);
-    transform: translate(715px, -680px);
+    -moz-transform: translate(16vw, -87vh);
+    -ms-transform: translate(16vw, -87vh);
+    -webkit-transform: translate(16vw, -87vh);
+    transform: translate(16vw, -87vh);
   }
   77% {
-    -moz-transform: translate(535px, -362px);
-    -ms-transform: translate(535px, -362px);
-    -webkit-transform: translate(535px, -362px);
-    transform: translate(535px, -362px);
+    -moz-transform: translate(37vw, -24vh);
+    -ms-transform: translate(37vw, -24vh);
+    -webkit-transform: translate(37vw, -24vh);
+    transform: translate(37vw, -24vh);
   }
   88% {
-    -moz-transform: translate(514px, -508px);
-    -ms-transform: translate(514px, -508px);
-    -webkit-transform: translate(514px, -508px);
-    transform: translate(514px, -508px);
+    -moz-transform: translate(72vw, -57vh);
+    -ms-transform: translate(72vw, -57vh);
+    -webkit-transform: translate(72vw, -57vh);
+    transform: translate(72vw, -57vh);
   }
   100% {
-    -moz-transform: translate(503px, -757px);
-    -ms-transform: translate(503px, -757px);
-    -webkit-transform: translate(503px, -757px);
-    transform: translate(503px, -757px);
+    -moz-transform: translate(52vw, -79vh);
+    -ms-transform: translate(52vw, -79vh);
+    -webkit-transform: translate(52vw, -79vh);
+    transform: translate(52vw, -79vh);
   }
 }
-/* line 37, ../sass/butterfly.scss */
+/* line 36, ../sass/butterfly.scss */
 .borboletas-7 {
   position: absolute;
   left: 0px;
   bottom: 0px;
-  -moz-animation: borboletas-pos-loop-7 36s ease-in-out infinite alternate-reverse;
-  -webkit-animation: borboletas-pos-loop-7 36s ease-in-out infinite alternate-reverse;
-  animation: borboletas-pos-loop-7 36s ease-in-out infinite alternate-reverse;
+  -moz-animation: borboletas-pos-loop-7 38s ease-in-out infinite alternate-reverse;
+  -webkit-animation: borboletas-pos-loop-7 38s ease-in-out infinite alternate-reverse;
+  animation: borboletas-pos-loop-7 38s ease-in-out infinite alternate-reverse;
 }
 
-/* line 49, ../sass/butterfly.scss */
+/* line 48, ../sass/butterfly.scss */
 .borboleta-7 {
   -moz-animation: borboleta-radial-loop-7 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-7 1.2s linear infinite;
   animation: borboleta-radial-loop-7 1.2s linear infinite;
 }
 
-/* line 52, ../sass/butterfly.scss */
+/* line 51, ../sass/butterfly.scss */
 .borboleta-7 {
   -moz-animation: borboleta-radial-loop-7 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-7 1.5s linear infinite;
   animation: borboleta-radial-loop-7 1.5s linear infinite;
 }
 
-/* line 55, ../sass/butterfly.scss */
+/* line 54, ../sass/butterfly.scss */
 .borboleta-7 {
   -moz-animation: borboleta-radial-loop-7 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-7 1.2s linear infinite;
   animation: borboleta-radial-loop-7 1.2s linear infinite;
 }
 
-/* line 58, ../sass/butterfly.scss */
+/* line 57, ../sass/butterfly.scss */
 .borboleta-7 {
   -moz-animation: borboleta-radial-loop-7 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-7 1.5s linear infinite;
   animation: borboleta-radial-loop-7 1.5s linear infinite;
 }
 
-/* line 65, ../sass/butterfly.scss */
+/* line 64, ../sass/butterfly.scss */
 .borboleta-gfx-7 {
   position: absolute;
   top: 0;
@@ -3081,7 +3086,7 @@
   height: 40px;
 }
 
-/* line 73, ../sass/butterfly.scss */
+/* line 72, ../sass/butterfly.scss */
 .borboleta-gfx-7 {
   position: absolute;
   top: 0;
@@ -3090,28 +3095,28 @@
   height: 40px;
 }
 
-/* line 82, ../sass/butterfly.scss */
+/* line 81, ../sass/butterfly.scss */
 .borboleta-7 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 85, ../sass/butterfly.scss */
+/* line 84, ../sass/butterfly.scss */
 .borboleta-7 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 88, ../sass/butterfly.scss */
+/* line 87, ../sass/butterfly.scss */
 .borboleta-7 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   animation: borboleta-gfx-upright-loop 1.5s linear infinite;
 }
 
-/* line 91, ../sass/butterfly.scss */
+/* line 90, ../sass/butterfly.scss */
 .borboleta-7 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
@@ -3186,7 +3191,7 @@
     transform: scale(0.7, -1) rotate(-40deg);
   }
 }
-/* line 105, ../sass/butterfly.scss */
+/* line 104, ../sass/butterfly.scss */
 .borboleta-anim-7 {
   background: radial-gradient(closest-side at 50% 50%, #fc72b0 50%, rgba(255, 255, 255, 0) 50%), radial-gradient(closest-side at 50% 50%, #fc72b0 50%, rgba(255, 255, 255, 0) 50%);
   background-repeat: no-repeat;
@@ -3201,335 +3206,335 @@
 
 @-moz-keyframes borboletas-pos-loop-8 {
   0% {
-    -moz-transform: translate(691px, -802px);
-    transform: translate(691px, -802px);
+    -moz-transform: translate(33vw, -76vh);
+    transform: translate(33vw, -76vh);
   }
   11% {
-    -moz-transform: translate(661px, -550px);
-    transform: translate(661px, -550px);
+    -moz-transform: translate(20vw, -54vh);
+    transform: translate(20vw, -54vh);
   }
   22% {
-    -moz-transform: translate(399px, -705px);
-    transform: translate(399px, -705px);
+    -moz-transform: translate(9vw, -27vh);
+    transform: translate(9vw, -27vh);
   }
   33% {
-    -moz-transform: translate(1190px, -997px);
-    transform: translate(1190px, -997px);
+    -moz-transform: translate(38vw, -67vh);
+    transform: translate(38vw, -67vh);
   }
   44% {
-    -moz-transform: translate(1200px, -909px);
-    transform: translate(1200px, -909px);
+    -moz-transform: translate(75vw, -61vh);
+    transform: translate(75vw, -61vh);
   }
   55% {
-    -moz-transform: translate(856px, -569px);
-    transform: translate(856px, -569px);
+    -moz-transform: translate(42vw, -38vh);
+    transform: translate(42vw, -38vh);
   }
   66% {
-    -moz-transform: translate(1628px, -287px);
-    transform: translate(1628px, -287px);
+    -moz-transform: translate(89vw, -8vh);
+    transform: translate(89vw, -8vh);
   }
   77% {
-    -moz-transform: translate(818px, -976px);
-    transform: translate(818px, -976px);
+    -moz-transform: translate(21vw, -15vh);
+    transform: translate(21vw, -15vh);
   }
   88% {
-    -moz-transform: translate(1565px, -1026px);
-    transform: translate(1565px, -1026px);
+    -moz-transform: translate(93vw, -70vh);
+    transform: translate(93vw, -70vh);
   }
   100% {
-    -moz-transform: translate(878px, -382px);
-    transform: translate(878px, -382px);
+    -moz-transform: translate(72vw, -74vh);
+    transform: translate(72vw, -74vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-8 {
   0% {
-    -webkit-transform: translate(1271px, -980px);
-    transform: translate(1271px, -980px);
+    -webkit-transform: translate(64vw, -11vh);
+    transform: translate(64vw, -11vh);
   }
   11% {
-    -webkit-transform: translate(1164px, -996px);
-    transform: translate(1164px, -996px);
+    -webkit-transform: translate(9vw, -59vh);
+    transform: translate(9vw, -59vh);
   }
   22% {
-    -webkit-transform: translate(1805px, -72px);
-    transform: translate(1805px, -72px);
+    -webkit-transform: translate(52vw, -28vh);
+    transform: translate(52vw, -28vh);
   }
   33% {
-    -webkit-transform: translate(704px, -402px);
-    transform: translate(704px, -402px);
+    -webkit-transform: translate(40vw, -76vh);
+    transform: translate(40vw, -76vh);
   }
   44% {
-    -webkit-transform: translate(1166px, -890px);
-    transform: translate(1166px, -890px);
+    -webkit-transform: translate(19vw, -7vh);
+    transform: translate(19vw, -7vh);
   }
   55% {
-    -webkit-transform: translate(1277px, -924px);
-    transform: translate(1277px, -924px);
+    -webkit-transform: translate(49vw, -47vh);
+    transform: translate(49vw, -47vh);
   }
   66% {
-    -webkit-transform: translate(370px, -772px);
-    transform: translate(370px, -772px);
+    -webkit-transform: translate(10vw, -15vh);
+    transform: translate(10vw, -15vh);
   }
   77% {
-    -webkit-transform: translate(775px, -602px);
-    transform: translate(775px, -602px);
+    -webkit-transform: translate(10vw, -23vh);
+    transform: translate(10vw, -23vh);
   }
   88% {
-    -webkit-transform: translate(1391px, -787px);
-    transform: translate(1391px, -787px);
+    -webkit-transform: translate(89vw, -49vh);
+    transform: translate(89vw, -49vh);
   }
   100% {
-    -webkit-transform: translate(13px, -733px);
-    transform: translate(13px, -733px);
+    -webkit-transform: translate(100vw, -30vh);
+    transform: translate(100vw, -30vh);
   }
 }
 @keyframes borboletas-pos-loop-8 {
   0% {
-    -moz-transform: translate(1290px, -963px);
-    -ms-transform: translate(1290px, -963px);
-    -webkit-transform: translate(1290px, -963px);
-    transform: translate(1290px, -963px);
+    -moz-transform: translate(97vw, -19vh);
+    -ms-transform: translate(97vw, -19vh);
+    -webkit-transform: translate(97vw, -19vh);
+    transform: translate(97vw, -19vh);
   }
   11% {
-    -moz-transform: translate(786px, -643px);
-    -ms-transform: translate(786px, -643px);
-    -webkit-transform: translate(786px, -643px);
-    transform: translate(786px, -643px);
+    -moz-transform: translate(15vw, -5vh);
+    -ms-transform: translate(15vw, -5vh);
+    -webkit-transform: translate(15vw, -5vh);
+    transform: translate(15vw, -5vh);
   }
   22% {
-    -moz-transform: translate(1419px, -397px);
-    -ms-transform: translate(1419px, -397px);
-    -webkit-transform: translate(1419px, -397px);
-    transform: translate(1419px, -397px);
+    -moz-transform: translate(93vw, -55vh);
+    -ms-transform: translate(93vw, -55vh);
+    -webkit-transform: translate(93vw, -55vh);
+    transform: translate(93vw, -55vh);
   }
   33% {
-    -moz-transform: translate(352px, -842px);
-    -ms-transform: translate(352px, -842px);
-    -webkit-transform: translate(352px, -842px);
-    transform: translate(352px, -842px);
+    -moz-transform: translate(91vw, -37vh);
+    -ms-transform: translate(91vw, -37vh);
+    -webkit-transform: translate(91vw, -37vh);
+    transform: translate(91vw, -37vh);
   }
   44% {
-    -moz-transform: translate(286px, -702px);
-    -ms-transform: translate(286px, -702px);
-    -webkit-transform: translate(286px, -702px);
-    transform: translate(286px, -702px);
+    -moz-transform: translate(17vw, -12vh);
+    -ms-transform: translate(17vw, -12vh);
+    -webkit-transform: translate(17vw, -12vh);
+    transform: translate(17vw, -12vh);
   }
   55% {
-    -moz-transform: translate(1247px, -844px);
-    -ms-transform: translate(1247px, -844px);
-    -webkit-transform: translate(1247px, -844px);
-    transform: translate(1247px, -844px);
+    -moz-transform: translate(51vw, -3vh);
+    -ms-transform: translate(51vw, -3vh);
+    -webkit-transform: translate(51vw, -3vh);
+    transform: translate(51vw, -3vh);
   }
   66% {
-    -moz-transform: translate(1668px, -235px);
-    -ms-transform: translate(1668px, -235px);
-    -webkit-transform: translate(1668px, -235px);
-    transform: translate(1668px, -235px);
+    -moz-transform: translate(32vw, -17vh);
+    -ms-transform: translate(32vw, -17vh);
+    -webkit-transform: translate(32vw, -17vh);
+    transform: translate(32vw, -17vh);
   }
   77% {
-    -moz-transform: translate(3px, -605px);
-    -ms-transform: translate(3px, -605px);
-    -webkit-transform: translate(3px, -605px);
-    transform: translate(3px, -605px);
+    -moz-transform: translate(27vw, -1vh);
+    -ms-transform: translate(27vw, -1vh);
+    -webkit-transform: translate(27vw, -1vh);
+    transform: translate(27vw, -1vh);
   }
   88% {
-    -moz-transform: translate(714px, -20px);
-    -ms-transform: translate(714px, -20px);
-    -webkit-transform: translate(714px, -20px);
-    transform: translate(714px, -20px);
+    -moz-transform: translate(9vw, -33vh);
+    -ms-transform: translate(9vw, -33vh);
+    -webkit-transform: translate(9vw, -33vh);
+    transform: translate(9vw, -33vh);
   }
   100% {
-    -moz-transform: translate(737px, -283px);
-    -ms-transform: translate(737px, -283px);
-    -webkit-transform: translate(737px, -283px);
-    transform: translate(737px, -283px);
+    -moz-transform: translate(75vw, -66vh);
+    -ms-transform: translate(75vw, -66vh);
+    -webkit-transform: translate(75vw, -66vh);
+    transform: translate(75vw, -66vh);
   }
 }
 @-moz-keyframes borboletas-pos-loop-8 {
   0% {
-    -moz-transform: translate(1060px, -565px);
-    transform: translate(1060px, -565px);
+    -moz-transform: translate(6vw, -22vh);
+    transform: translate(6vw, -22vh);
   }
   11% {
-    -moz-transform: translate(276px, -868px);
-    transform: translate(276px, -868px);
+    -moz-transform: translate(34vw, -41vh);
+    transform: translate(34vw, -41vh);
   }
   22% {
-    -moz-transform: translate(1779px, -199px);
-    transform: translate(1779px, -199px);
+    -moz-transform: translate(20vw, -38vh);
+    transform: translate(20vw, -38vh);
   }
   33% {
-    -moz-transform: translate(508px, -1010px);
-    transform: translate(508px, -1010px);
+    -moz-transform: translate(8vw, -95vh);
+    transform: translate(8vw, -95vh);
   }
   44% {
-    -moz-transform: translate(1214px, -404px);
-    transform: translate(1214px, -404px);
+    -moz-transform: translate(8vw, -28vh);
+    transform: translate(8vw, -28vh);
   }
   55% {
-    -moz-transform: translate(422px, -33px);
-    transform: translate(422px, -33px);
+    -moz-transform: translate(39vw, -99vh);
+    transform: translate(39vw, -99vh);
   }
   66% {
-    -moz-transform: translate(967px, -419px);
-    transform: translate(967px, -419px);
+    -moz-transform: translate(39vw, -39vh);
+    transform: translate(39vw, -39vh);
   }
   77% {
-    -moz-transform: translate(342px, -301px);
-    transform: translate(342px, -301px);
+    -moz-transform: translate(62vw, -33vh);
+    transform: translate(62vw, -33vh);
   }
   88% {
-    -moz-transform: translate(951px, -403px);
-    transform: translate(951px, -403px);
+    -moz-transform: translate(80vw, -60vh);
+    transform: translate(80vw, -60vh);
   }
   100% {
-    -moz-transform: translate(1910px, -116px);
-    transform: translate(1910px, -116px);
+    -moz-transform: translate(67vw, -69vh);
+    transform: translate(67vw, -69vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-8 {
   0% {
-    -webkit-transform: translate(1707px, -490px);
-    transform: translate(1707px, -490px);
+    -webkit-transform: translate(99vw, -81vh);
+    transform: translate(99vw, -81vh);
   }
   11% {
-    -webkit-transform: translate(195px, -917px);
-    transform: translate(195px, -917px);
+    -webkit-transform: translate(79vw, -83vh);
+    transform: translate(79vw, -83vh);
   }
   22% {
-    -webkit-transform: translate(1268px, -808px);
-    transform: translate(1268px, -808px);
+    -webkit-transform: translate(56vw, -55vh);
+    transform: translate(56vw, -55vh);
   }
   33% {
-    -webkit-transform: translate(818px, -860px);
-    transform: translate(818px, -860px);
+    -webkit-transform: translate(52vw, -53vh);
+    transform: translate(52vw, -53vh);
   }
   44% {
-    -webkit-transform: translate(1284px, -5px);
-    transform: translate(1284px, -5px);
+    -webkit-transform: translate(83vw, -23vh);
+    transform: translate(83vw, -23vh);
   }
   55% {
-    -webkit-transform: translate(1915px, -737px);
-    transform: translate(1915px, -737px);
+    -webkit-transform: translate(83vw, -6vh);
+    transform: translate(83vw, -6vh);
   }
   66% {
-    -webkit-transform: translate(1645px, -52px);
-    transform: translate(1645px, -52px);
+    -webkit-transform: translate(1vw, -81vh);
+    transform: translate(1vw, -81vh);
   }
   77% {
-    -webkit-transform: translate(1550px, -163px);
-    transform: translate(1550px, -163px);
+    -webkit-transform: translate(27vw, -20vh);
+    transform: translate(27vw, -20vh);
   }
   88% {
-    -webkit-transform: translate(1533px, -81px);
-    transform: translate(1533px, -81px);
+    -webkit-transform: translate(25vw, -36vh);
+    transform: translate(25vw, -36vh);
   }
   100% {
-    -webkit-transform: translate(1731px, -1020px);
-    transform: translate(1731px, -1020px);
+    -webkit-transform: translate(37vw, -25vh);
+    transform: translate(37vw, -25vh);
   }
 }
 @keyframes borboletas-pos-loop-8 {
   0% {
-    -moz-transform: translate(372px, -604px);
-    -ms-transform: translate(372px, -604px);
-    -webkit-transform: translate(372px, -604px);
-    transform: translate(372px, -604px);
+    -moz-transform: translate(32vw, -88vh);
+    -ms-transform: translate(32vw, -88vh);
+    -webkit-transform: translate(32vw, -88vh);
+    transform: translate(32vw, -88vh);
   }
   11% {
-    -moz-transform: translate(298px, -313px);
-    -ms-transform: translate(298px, -313px);
-    -webkit-transform: translate(298px, -313px);
-    transform: translate(298px, -313px);
+    -moz-transform: translate(85vw, -30vh);
+    -ms-transform: translate(85vw, -30vh);
+    -webkit-transform: translate(85vw, -30vh);
+    transform: translate(85vw, -30vh);
   }
   22% {
-    -moz-transform: translate(969px, -94px);
-    -ms-transform: translate(969px, -94px);
-    -webkit-transform: translate(969px, -94px);
-    transform: translate(969px, -94px);
+    -moz-transform: translate(62vw, -82vh);
+    -ms-transform: translate(62vw, -82vh);
+    -webkit-transform: translate(62vw, -82vh);
+    transform: translate(62vw, -82vh);
   }
   33% {
-    -moz-transform: translate(1191px, -366px);
-    -ms-transform: translate(1191px, -366px);
-    -webkit-transform: translate(1191px, -366px);
-    transform: translate(1191px, -366px);
+    -moz-transform: translate(99vw, -84vh);
+    -ms-transform: translate(99vw, -84vh);
+    -webkit-transform: translate(99vw, -84vh);
+    transform: translate(99vw, -84vh);
   }
   44% {
-    -moz-transform: translate(1063px, -241px);
-    -ms-transform: translate(1063px, -241px);
-    -webkit-transform: translate(1063px, -241px);
-    transform: translate(1063px, -241px);
+    -moz-transform: translate(88vw, -89vh);
+    -ms-transform: translate(88vw, -89vh);
+    -webkit-transform: translate(88vw, -89vh);
+    transform: translate(88vw, -89vh);
   }
   55% {
-    -moz-transform: translate(1742px, -526px);
-    -ms-transform: translate(1742px, -526px);
-    -webkit-transform: translate(1742px, -526px);
-    transform: translate(1742px, -526px);
+    -moz-transform: translate(90vw, -90vh);
+    -ms-transform: translate(90vw, -90vh);
+    -webkit-transform: translate(90vw, -90vh);
+    transform: translate(90vw, -90vh);
   }
   66% {
-    -moz-transform: translate(887px, -311px);
-    -ms-transform: translate(887px, -311px);
-    -webkit-transform: translate(887px, -311px);
-    transform: translate(887px, -311px);
+    -moz-transform: translate(40vw, -14vh);
+    -ms-transform: translate(40vw, -14vh);
+    -webkit-transform: translate(40vw, -14vh);
+    transform: translate(40vw, -14vh);
   }
   77% {
-    -moz-transform: translate(414px, -928px);
-    -ms-transform: translate(414px, -928px);
-    -webkit-transform: translate(414px, -928px);
-    transform: translate(414px, -928px);
+    -moz-transform: translate(8vw, -85vh);
+    -ms-transform: translate(8vw, -85vh);
+    -webkit-transform: translate(8vw, -85vh);
+    transform: translate(8vw, -85vh);
   }
   88% {
-    -moz-transform: translate(436px, -681px);
-    -ms-transform: translate(436px, -681px);
-    -webkit-transform: translate(436px, -681px);
-    transform: translate(436px, -681px);
+    -moz-transform: translate(42vw, -58vh);
+    -ms-transform: translate(42vw, -58vh);
+    -webkit-transform: translate(42vw, -58vh);
+    transform: translate(42vw, -58vh);
   }
   100% {
-    -moz-transform: translate(1172px, -491px);
-    -ms-transform: translate(1172px, -491px);
-    -webkit-transform: translate(1172px, -491px);
-    transform: translate(1172px, -491px);
+    -moz-transform: translate(65vw, -37vh);
+    -ms-transform: translate(65vw, -37vh);
+    -webkit-transform: translate(65vw, -37vh);
+    transform: translate(65vw, -37vh);
   }
 }
-/* line 37, ../sass/butterfly.scss */
+/* line 36, ../sass/butterfly.scss */
 .borboletas-8 {
   position: absolute;
   left: 0px;
   bottom: 0px;
-  -moz-animation: borboletas-pos-loop-8 28s ease-in-out infinite alternate-reverse;
-  -webkit-animation: borboletas-pos-loop-8 28s ease-in-out infinite alternate-reverse;
-  animation: borboletas-pos-loop-8 28s ease-in-out infinite alternate-reverse;
+  -moz-animation: borboletas-pos-loop-8 34s ease-in-out infinite alternate-reverse;
+  -webkit-animation: borboletas-pos-loop-8 34s ease-in-out infinite alternate-reverse;
+  animation: borboletas-pos-loop-8 34s ease-in-out infinite alternate-reverse;
 }
 
-/* line 49, ../sass/butterfly.scss */
+/* line 48, ../sass/butterfly.scss */
 .borboleta-8 {
   -moz-animation: borboleta-radial-loop-8 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-8 1.2s linear infinite;
   animation: borboleta-radial-loop-8 1.2s linear infinite;
 }
 
-/* line 52, ../sass/butterfly.scss */
+/* line 51, ../sass/butterfly.scss */
 .borboleta-8 {
   -moz-animation: borboleta-radial-loop-8 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-8 1.5s linear infinite;
   animation: borboleta-radial-loop-8 1.5s linear infinite;
 }
 
-/* line 55, ../sass/butterfly.scss */
+/* line 54, ../sass/butterfly.scss */
 .borboleta-8 {
   -moz-animation: borboleta-radial-loop-8 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-8 1.2s linear infinite;
   animation: borboleta-radial-loop-8 1.2s linear infinite;
 }
 
-/* line 58, ../sass/butterfly.scss */
+/* line 57, ../sass/butterfly.scss */
 .borboleta-8 {
   -moz-animation: borboleta-radial-loop-8 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-8 1.5s linear infinite;
   animation: borboleta-radial-loop-8 1.5s linear infinite;
 }
 
-/* line 65, ../sass/butterfly.scss */
+/* line 64, ../sass/butterfly.scss */
 .borboleta-gfx-8 {
   position: absolute;
   top: 0;
@@ -3538,7 +3543,7 @@
   height: 40px;
 }
 
-/* line 73, ../sass/butterfly.scss */
+/* line 72, ../sass/butterfly.scss */
 .borboleta-gfx-8 {
   position: absolute;
   top: 0;
@@ -3547,28 +3552,28 @@
   height: 40px;
 }
 
-/* line 82, ../sass/butterfly.scss */
+/* line 81, ../sass/butterfly.scss */
 .borboleta-8 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 85, ../sass/butterfly.scss */
+/* line 84, ../sass/butterfly.scss */
 .borboleta-8 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 88, ../sass/butterfly.scss */
+/* line 87, ../sass/butterfly.scss */
 .borboleta-8 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   animation: borboleta-gfx-upright-loop 1.5s linear infinite;
 }
 
-/* line 91, ../sass/butterfly.scss */
+/* line 90, ../sass/butterfly.scss */
 .borboleta-8 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
@@ -3643,7 +3648,7 @@
     transform: scale(0.7, -1) rotate(-40deg);
   }
 }
-/* line 105, ../sass/butterfly.scss */
+/* line 104, ../sass/butterfly.scss */
 .borboleta-anim-8 {
   background: radial-gradient(closest-side at 50% 50%, #fca1ac 50%, rgba(255, 255, 255, 0) 50%), radial-gradient(closest-side at 50% 50%, #fca1ac 50%, rgba(255, 255, 255, 0) 50%);
   background-repeat: no-repeat;
@@ -3658,335 +3663,335 @@
 
 @-moz-keyframes borboletas-pos-loop-9 {
   0% {
-    -moz-transform: translate(1412px, -491px);
-    transform: translate(1412px, -491px);
+    -moz-transform: translate(92vw, -95vh);
+    transform: translate(92vw, -95vh);
   }
   11% {
-    -moz-transform: translate(1760px, -581px);
-    transform: translate(1760px, -581px);
+    -moz-transform: translate(8vw, -14vh);
+    transform: translate(8vw, -14vh);
   }
   22% {
-    -moz-transform: translate(61px, -832px);
-    transform: translate(61px, -832px);
+    -moz-transform: translate(34vw, -24vh);
+    transform: translate(34vw, -24vh);
   }
   33% {
-    -moz-transform: translate(790px, -1017px);
-    transform: translate(790px, -1017px);
+    -moz-transform: translate(59vw, -17vh);
+    transform: translate(59vw, -17vh);
   }
   44% {
-    -moz-transform: translate(1668px, -875px);
-    transform: translate(1668px, -875px);
+    -moz-transform: translate(46vw, -61vh);
+    transform: translate(46vw, -61vh);
   }
   55% {
-    -moz-transform: translate(29px, -927px);
-    transform: translate(29px, -927px);
+    -moz-transform: translate(96vw, -77vh);
+    transform: translate(96vw, -77vh);
   }
   66% {
-    -moz-transform: translate(1687px, -21px);
-    transform: translate(1687px, -21px);
+    -moz-transform: translate(91vw, -38vh);
+    transform: translate(91vw, -38vh);
   }
   77% {
-    -moz-transform: translate(1318px, -850px);
-    transform: translate(1318px, -850px);
+    -moz-transform: translate(99vw, -96vh);
+    transform: translate(99vw, -96vh);
   }
   88% {
-    -moz-transform: translate(578px, -326px);
-    transform: translate(578px, -326px);
+    -moz-transform: translate(72vw, -94vh);
+    transform: translate(72vw, -94vh);
   }
   100% {
-    -moz-transform: translate(1548px, -602px);
-    transform: translate(1548px, -602px);
+    -moz-transform: translate(14vw, -26vh);
+    transform: translate(14vw, -26vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-9 {
   0% {
-    -webkit-transform: translate(1586px, -239px);
-    transform: translate(1586px, -239px);
+    -webkit-transform: translate(84vw, -14vh);
+    transform: translate(84vw, -14vh);
   }
   11% {
-    -webkit-transform: translate(1007px, -195px);
-    transform: translate(1007px, -195px);
+    -webkit-transform: translate(59vw, -21vh);
+    transform: translate(59vw, -21vh);
   }
   22% {
-    -webkit-transform: translate(617px, -38px);
-    transform: translate(617px, -38px);
+    -webkit-transform: translate(96vw, -25vh);
+    transform: translate(96vw, -25vh);
   }
   33% {
-    -webkit-transform: translate(1724px, -1px);
-    transform: translate(1724px, -1px);
+    -webkit-transform: translate(80vw, -25vh);
+    transform: translate(80vw, -25vh);
   }
   44% {
-    -webkit-transform: translate(170px, -457px);
-    transform: translate(170px, -457px);
+    -webkit-transform: translate(33vw, -56vh);
+    transform: translate(33vw, -56vh);
   }
   55% {
-    -webkit-transform: translate(83px, -825px);
-    transform: translate(83px, -825px);
+    -webkit-transform: translate(67vw, -14vh);
+    transform: translate(67vw, -14vh);
   }
   66% {
-    -webkit-transform: translate(592px, -580px);
-    transform: translate(592px, -580px);
+    -webkit-transform: translate(36vw, -70vh);
+    transform: translate(36vw, -70vh);
   }
   77% {
-    -webkit-transform: translate(1283px, -126px);
-    transform: translate(1283px, -126px);
+    -webkit-transform: translate(82vw, -22vh);
+    transform: translate(82vw, -22vh);
   }
   88% {
-    -webkit-transform: translate(1115px, -486px);
-    transform: translate(1115px, -486px);
+    -webkit-transform: translate(89vw, -43vh);
+    transform: translate(89vw, -43vh);
   }
   100% {
-    -webkit-transform: translate(63px, -657px);
-    transform: translate(63px, -657px);
+    -webkit-transform: translate(62vw, -61vh);
+    transform: translate(62vw, -61vh);
   }
 }
 @keyframes borboletas-pos-loop-9 {
   0% {
-    -moz-transform: translate(1511px, -842px);
-    -ms-transform: translate(1511px, -842px);
-    -webkit-transform: translate(1511px, -842px);
-    transform: translate(1511px, -842px);
+    -moz-transform: translate(76vw, -60vh);
+    -ms-transform: translate(76vw, -60vh);
+    -webkit-transform: translate(76vw, -60vh);
+    transform: translate(76vw, -60vh);
   }
   11% {
-    -moz-transform: translate(88px, -989px);
-    -ms-transform: translate(88px, -989px);
-    -webkit-transform: translate(88px, -989px);
-    transform: translate(88px, -989px);
+    -moz-transform: translate(6vw, -32vh);
+    -ms-transform: translate(6vw, -32vh);
+    -webkit-transform: translate(6vw, -32vh);
+    transform: translate(6vw, -32vh);
   }
   22% {
-    -moz-transform: translate(1344px, -258px);
-    -ms-transform: translate(1344px, -258px);
-    -webkit-transform: translate(1344px, -258px);
-    transform: translate(1344px, -258px);
+    -moz-transform: translate(84vw, -30vh);
+    -ms-transform: translate(84vw, -30vh);
+    -webkit-transform: translate(84vw, -30vh);
+    transform: translate(84vw, -30vh);
   }
   33% {
-    -moz-transform: translate(910px, -102px);
-    -ms-transform: translate(910px, -102px);
-    -webkit-transform: translate(910px, -102px);
-    transform: translate(910px, -102px);
+    -moz-transform: translate(65vw, -14vh);
+    -ms-transform: translate(65vw, -14vh);
+    -webkit-transform: translate(65vw, -14vh);
+    transform: translate(65vw, -14vh);
   }
   44% {
-    -moz-transform: translate(1017px, -146px);
-    -ms-transform: translate(1017px, -146px);
-    -webkit-transform: translate(1017px, -146px);
-    transform: translate(1017px, -146px);
+    -moz-transform: translate(56vw, -72vh);
+    -ms-transform: translate(56vw, -72vh);
+    -webkit-transform: translate(56vw, -72vh);
+    transform: translate(56vw, -72vh);
   }
   55% {
-    -moz-transform: translate(153px, -708px);
-    -ms-transform: translate(153px, -708px);
-    -webkit-transform: translate(153px, -708px);
-    transform: translate(153px, -708px);
+    -moz-transform: translate(67vw, -16vh);
+    -ms-transform: translate(67vw, -16vh);
+    -webkit-transform: translate(67vw, -16vh);
+    transform: translate(67vw, -16vh);
   }
   66% {
-    -moz-transform: translate(42px, -667px);
-    -ms-transform: translate(42px, -667px);
-    -webkit-transform: translate(42px, -667px);
-    transform: translate(42px, -667px);
+    -moz-transform: translate(19vw, -86vh);
+    -ms-transform: translate(19vw, -86vh);
+    -webkit-transform: translate(19vw, -86vh);
+    transform: translate(19vw, -86vh);
   }
   77% {
-    -moz-transform: translate(898px, -902px);
-    -ms-transform: translate(898px, -902px);
-    -webkit-transform: translate(898px, -902px);
-    transform: translate(898px, -902px);
+    -moz-transform: translate(82vw, -22vh);
+    -ms-transform: translate(82vw, -22vh);
+    -webkit-transform: translate(82vw, -22vh);
+    transform: translate(82vw, -22vh);
   }
   88% {
-    -moz-transform: translate(1222px, -676px);
-    -ms-transform: translate(1222px, -676px);
-    -webkit-transform: translate(1222px, -676px);
-    transform: translate(1222px, -676px);
+    -moz-transform: translate(51vw, -52vh);
+    -ms-transform: translate(51vw, -52vh);
+    -webkit-transform: translate(51vw, -52vh);
+    transform: translate(51vw, -52vh);
   }
   100% {
-    -moz-transform: translate(552px, -936px);
-    -ms-transform: translate(552px, -936px);
-    -webkit-transform: translate(552px, -936px);
-    transform: translate(552px, -936px);
+    -moz-transform: translate(19vw, -91vh);
+    -ms-transform: translate(19vw, -91vh);
+    -webkit-transform: translate(19vw, -91vh);
+    transform: translate(19vw, -91vh);
   }
 }
 @-moz-keyframes borboletas-pos-loop-9 {
   0% {
-    -moz-transform: translate(438px, -934px);
-    transform: translate(438px, -934px);
+    -moz-transform: translate(32vw, -5vh);
+    transform: translate(32vw, -5vh);
   }
   11% {
-    -moz-transform: translate(674px, -226px);
-    transform: translate(674px, -226px);
+    -moz-transform: translate(59vw, -33vh);
+    transform: translate(59vw, -33vh);
   }
   22% {
-    -moz-transform: translate(522px, -360px);
-    transform: translate(522px, -360px);
+    -moz-transform: translate(17vw, -98vh);
+    transform: translate(17vw, -98vh);
   }
   33% {
-    -moz-transform: translate(603px, -704px);
-    transform: translate(603px, -704px);
+    -moz-transform: translate(88vw, -33vh);
+    transform: translate(88vw, -33vh);
   }
   44% {
-    -moz-transform: translate(1242px, -367px);
-    transform: translate(1242px, -367px);
+    -moz-transform: translate(68vw, -75vh);
+    transform: translate(68vw, -75vh);
   }
   55% {
-    -moz-transform: translate(802px, -162px);
-    transform: translate(802px, -162px);
+    -moz-transform: translate(100vw, -70vh);
+    transform: translate(100vw, -70vh);
   }
   66% {
-    -moz-transform: translate(1834px, -504px);
-    transform: translate(1834px, -504px);
+    -moz-transform: translate(20vw, -64vh);
+    transform: translate(20vw, -64vh);
   }
   77% {
-    -moz-transform: translate(515px, -969px);
-    transform: translate(515px, -969px);
+    -moz-transform: translate(5vw, -88vh);
+    transform: translate(5vw, -88vh);
   }
   88% {
-    -moz-transform: translate(292px, -281px);
-    transform: translate(292px, -281px);
+    -moz-transform: translate(75vw, -35vh);
+    transform: translate(75vw, -35vh);
   }
   100% {
-    -moz-transform: translate(745px, -887px);
-    transform: translate(745px, -887px);
+    -moz-transform: translate(74vw, -85vh);
+    transform: translate(74vw, -85vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-9 {
   0% {
-    -webkit-transform: translate(785px, -485px);
-    transform: translate(785px, -485px);
+    -webkit-transform: translate(98vw, -12vh);
+    transform: translate(98vw, -12vh);
   }
   11% {
-    -webkit-transform: translate(200px, -519px);
-    transform: translate(200px, -519px);
+    -webkit-transform: translate(49vw, -88vh);
+    transform: translate(49vw, -88vh);
   }
   22% {
-    -webkit-transform: translate(297px, -1080px);
-    transform: translate(297px, -1080px);
+    -webkit-transform: translate(88vw, -77vh);
+    transform: translate(88vw, -77vh);
   }
   33% {
-    -webkit-transform: translate(1493px, -440px);
-    transform: translate(1493px, -440px);
+    -webkit-transform: translate(34vw, -19vh);
+    transform: translate(34vw, -19vh);
   }
   44% {
-    -webkit-transform: translate(1107px, -968px);
-    transform: translate(1107px, -968px);
+    -webkit-transform: translate(60vw, -65vh);
+    transform: translate(60vw, -65vh);
   }
   55% {
-    -webkit-transform: translate(1155px, -499px);
-    transform: translate(1155px, -499px);
+    -webkit-transform: translate(19vw, -3vh);
+    transform: translate(19vw, -3vh);
   }
   66% {
-    -webkit-transform: translate(1726px, -1021px);
-    transform: translate(1726px, -1021px);
+    -webkit-transform: translate(100vw, -77vh);
+    transform: translate(100vw, -77vh);
   }
   77% {
-    -webkit-transform: translate(1225px, -304px);
-    transform: translate(1225px, -304px);
+    -webkit-transform: translate(71vw, -45vh);
+    transform: translate(71vw, -45vh);
   }
   88% {
-    -webkit-transform: translate(1769px, -821px);
-    transform: translate(1769px, -821px);
+    -webkit-transform: translate(61vw, -5vh);
+    transform: translate(61vw, -5vh);
   }
   100% {
-    -webkit-transform: translate(1805px, -58px);
-    transform: translate(1805px, -58px);
+    -webkit-transform: translate(25vw, -40vh);
+    transform: translate(25vw, -40vh);
   }
 }
 @keyframes borboletas-pos-loop-9 {
   0% {
-    -moz-transform: translate(323px, -46px);
-    -ms-transform: translate(323px, -46px);
-    -webkit-transform: translate(323px, -46px);
-    transform: translate(323px, -46px);
+    -moz-transform: translate(48vw, -64vh);
+    -ms-transform: translate(48vw, -64vh);
+    -webkit-transform: translate(48vw, -64vh);
+    transform: translate(48vw, -64vh);
   }
   11% {
-    -moz-transform: translate(768px, -756px);
-    -ms-transform: translate(768px, -756px);
-    -webkit-transform: translate(768px, -756px);
-    transform: translate(768px, -756px);
+    -moz-transform: translate(10vw, -28vh);
+    -ms-transform: translate(10vw, -28vh);
+    -webkit-transform: translate(10vw, -28vh);
+    transform: translate(10vw, -28vh);
   }
   22% {
-    -moz-transform: translate(841px, -881px);
-    -ms-transform: translate(841px, -881px);
-    -webkit-transform: translate(841px, -881px);
-    transform: translate(841px, -881px);
+    -moz-transform: translate(88vw, -61vh);
+    -ms-transform: translate(88vw, -61vh);
+    -webkit-transform: translate(88vw, -61vh);
+    transform: translate(88vw, -61vh);
   }
   33% {
-    -moz-transform: translate(554px, -518px);
-    -ms-transform: translate(554px, -518px);
-    -webkit-transform: translate(554px, -518px);
-    transform: translate(554px, -518px);
+    -moz-transform: translate(20vw, -83vh);
+    -ms-transform: translate(20vw, -83vh);
+    -webkit-transform: translate(20vw, -83vh);
+    transform: translate(20vw, -83vh);
   }
   44% {
-    -moz-transform: translate(1564px, -179px);
-    -ms-transform: translate(1564px, -179px);
-    -webkit-transform: translate(1564px, -179px);
-    transform: translate(1564px, -179px);
+    -moz-transform: translate(42vw, -96vh);
+    -ms-transform: translate(42vw, -96vh);
+    -webkit-transform: translate(42vw, -96vh);
+    transform: translate(42vw, -96vh);
   }
   55% {
-    -moz-transform: translate(753px, -297px);
-    -ms-transform: translate(753px, -297px);
-    -webkit-transform: translate(753px, -297px);
-    transform: translate(753px, -297px);
+    -moz-transform: translate(80vw, -30vh);
+    -ms-transform: translate(80vw, -30vh);
+    -webkit-transform: translate(80vw, -30vh);
+    transform: translate(80vw, -30vh);
   }
   66% {
-    -moz-transform: translate(1492px, -323px);
-    -ms-transform: translate(1492px, -323px);
-    -webkit-transform: translate(1492px, -323px);
-    transform: translate(1492px, -323px);
+    -moz-transform: translate(46vw, -37vh);
+    -ms-transform: translate(46vw, -37vh);
+    -webkit-transform: translate(46vw, -37vh);
+    transform: translate(46vw, -37vh);
   }
   77% {
-    -moz-transform: translate(1369px, -1032px);
-    -ms-transform: translate(1369px, -1032px);
-    -webkit-transform: translate(1369px, -1032px);
-    transform: translate(1369px, -1032px);
+    -moz-transform: translate(2vw, -33vh);
+    -ms-transform: translate(2vw, -33vh);
+    -webkit-transform: translate(2vw, -33vh);
+    transform: translate(2vw, -33vh);
   }
   88% {
-    -moz-transform: translate(522px, -547px);
-    -ms-transform: translate(522px, -547px);
-    -webkit-transform: translate(522px, -547px);
-    transform: translate(522px, -547px);
+    -moz-transform: translate(47vw, -81vh);
+    -ms-transform: translate(47vw, -81vh);
+    -webkit-transform: translate(47vw, -81vh);
+    transform: translate(47vw, -81vh);
   }
   100% {
-    -moz-transform: translate(583px, -713px);
-    -ms-transform: translate(583px, -713px);
-    -webkit-transform: translate(583px, -713px);
-    transform: translate(583px, -713px);
+    -moz-transform: translate(57vw, -64vh);
+    -ms-transform: translate(57vw, -64vh);
+    -webkit-transform: translate(57vw, -64vh);
+    transform: translate(57vw, -64vh);
   }
 }
-/* line 37, ../sass/butterfly.scss */
+/* line 36, ../sass/butterfly.scss */
 .borboletas-9 {
   position: absolute;
   left: 0px;
   bottom: 0px;
-  -moz-animation: borboletas-pos-loop-9 35s ease-in-out infinite alternate-reverse;
-  -webkit-animation: borboletas-pos-loop-9 35s ease-in-out infinite alternate-reverse;
-  animation: borboletas-pos-loop-9 35s ease-in-out infinite alternate-reverse;
+  -moz-animation: borboletas-pos-loop-9 27s ease-in-out infinite alternate-reverse;
+  -webkit-animation: borboletas-pos-loop-9 27s ease-in-out infinite alternate-reverse;
+  animation: borboletas-pos-loop-9 27s ease-in-out infinite alternate-reverse;
 }
 
-/* line 49, ../sass/butterfly.scss */
+/* line 48, ../sass/butterfly.scss */
 .borboleta-9 {
   -moz-animation: borboleta-radial-loop-9 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-9 1.2s linear infinite;
   animation: borboleta-radial-loop-9 1.2s linear infinite;
 }
 
-/* line 52, ../sass/butterfly.scss */
+/* line 51, ../sass/butterfly.scss */
 .borboleta-9 {
   -moz-animation: borboleta-radial-loop-9 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-9 1.5s linear infinite;
   animation: borboleta-radial-loop-9 1.5s linear infinite;
 }
 
-/* line 55, ../sass/butterfly.scss */
+/* line 54, ../sass/butterfly.scss */
 .borboleta-9 {
   -moz-animation: borboleta-radial-loop-9 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-9 1.2s linear infinite;
   animation: borboleta-radial-loop-9 1.2s linear infinite;
 }
 
-/* line 58, ../sass/butterfly.scss */
+/* line 57, ../sass/butterfly.scss */
 .borboleta-9 {
   -moz-animation: borboleta-radial-loop-9 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-9 1.5s linear infinite;
   animation: borboleta-radial-loop-9 1.5s linear infinite;
 }
 
-/* line 65, ../sass/butterfly.scss */
+/* line 64, ../sass/butterfly.scss */
 .borboleta-gfx-9 {
   position: absolute;
   top: 0;
@@ -3995,7 +4000,7 @@
   height: 40px;
 }
 
-/* line 73, ../sass/butterfly.scss */
+/* line 72, ../sass/butterfly.scss */
 .borboleta-gfx-9 {
   position: absolute;
   top: 0;
@@ -4004,28 +4009,28 @@
   height: 40px;
 }
 
-/* line 82, ../sass/butterfly.scss */
+/* line 81, ../sass/butterfly.scss */
 .borboleta-9 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 85, ../sass/butterfly.scss */
+/* line 84, ../sass/butterfly.scss */
 .borboleta-9 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 88, ../sass/butterfly.scss */
+/* line 87, ../sass/butterfly.scss */
 .borboleta-9 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   animation: borboleta-gfx-upright-loop 1.5s linear infinite;
 }
 
-/* line 91, ../sass/butterfly.scss */
+/* line 90, ../sass/butterfly.scss */
 .borboleta-9 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
@@ -4100,7 +4105,7 @@
     transform: scale(0.7, -1) rotate(-40deg);
   }
 }
-/* line 105, ../sass/butterfly.scss */
+/* line 104, ../sass/butterfly.scss */
 .borboleta-anim-9 {
   background: radial-gradient(closest-side at 50% 50%, #fdd5d4 50%, rgba(255, 255, 255, 0) 50%), radial-gradient(closest-side at 50% 50%, #fdd5d4 50%, rgba(255, 255, 255, 0) 50%);
   background-repeat: no-repeat;
@@ -4115,335 +4120,335 @@
 
 @-moz-keyframes borboletas-pos-loop-10 {
   0% {
-    -moz-transform: translate(933px, -543px);
-    transform: translate(933px, -543px);
+    -moz-transform: translate(27vw, -6vh);
+    transform: translate(27vw, -6vh);
   }
   11% {
-    -moz-transform: translate(1824px, -907px);
-    transform: translate(1824px, -907px);
+    -moz-transform: translate(35vw, -58vh);
+    transform: translate(35vw, -58vh);
   }
   22% {
-    -moz-transform: translate(1011px, -121px);
-    transform: translate(1011px, -121px);
+    -moz-transform: translate(9vw, -81vh);
+    transform: translate(9vw, -81vh);
   }
   33% {
-    -moz-transform: translate(1617px, -931px);
-    transform: translate(1617px, -931px);
+    -moz-transform: translate(19vw, -93vh);
+    transform: translate(19vw, -93vh);
   }
   44% {
-    -moz-transform: translate(203px, -394px);
-    transform: translate(203px, -394px);
+    -moz-transform: translate(58vw, -95vh);
+    transform: translate(58vw, -95vh);
   }
   55% {
-    -moz-transform: translate(1446px, -291px);
-    transform: translate(1446px, -291px);
+    -moz-transform: translate(7vw, -43vh);
+    transform: translate(7vw, -43vh);
   }
   66% {
-    -moz-transform: translate(942px, -50px);
-    transform: translate(942px, -50px);
+    -moz-transform: translate(93vw, -39vh);
+    transform: translate(93vw, -39vh);
   }
   77% {
-    -moz-transform: translate(720px, -426px);
-    transform: translate(720px, -426px);
+    -moz-transform: translate(71vw, -32vh);
+    transform: translate(71vw, -32vh);
   }
   88% {
-    -moz-transform: translate(871px, -621px);
-    transform: translate(871px, -621px);
+    -moz-transform: translate(11vw, -26vh);
+    transform: translate(11vw, -26vh);
   }
   100% {
-    -moz-transform: translate(307px, -108px);
-    transform: translate(307px, -108px);
+    -moz-transform: translate(56vw, -93vh);
+    transform: translate(56vw, -93vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-10 {
   0% {
-    -webkit-transform: translate(1090px, -903px);
-    transform: translate(1090px, -903px);
+    -webkit-transform: translate(5vw, -85vh);
+    transform: translate(5vw, -85vh);
   }
   11% {
-    -webkit-transform: translate(610px, -303px);
-    transform: translate(610px, -303px);
+    -webkit-transform: translate(33vw, -40vh);
+    transform: translate(33vw, -40vh);
   }
   22% {
-    -webkit-transform: translate(48px, -642px);
-    transform: translate(48px, -642px);
+    -webkit-transform: translate(67vw, -44vh);
+    transform: translate(67vw, -44vh);
   }
   33% {
-    -webkit-transform: translate(193px, -875px);
-    transform: translate(193px, -875px);
+    -webkit-transform: translate(83vw, -98vh);
+    transform: translate(83vw, -98vh);
   }
   44% {
-    -webkit-transform: translate(934px, -123px);
-    transform: translate(934px, -123px);
+    -webkit-transform: translate(56vw, -65vh);
+    transform: translate(56vw, -65vh);
   }
   55% {
-    -webkit-transform: translate(1872px, -85px);
-    transform: translate(1872px, -85px);
+    -webkit-transform: translate(11vw, -4vh);
+    transform: translate(11vw, -4vh);
   }
   66% {
-    -webkit-transform: translate(384px, -389px);
-    transform: translate(384px, -389px);
+    -webkit-transform: translate(60vw, -82vh);
+    transform: translate(60vw, -82vh);
   }
   77% {
-    -webkit-transform: translate(972px, -969px);
-    transform: translate(972px, -969px);
+    -webkit-transform: translate(2vw, -82vh);
+    transform: translate(2vw, -82vh);
   }
   88% {
-    -webkit-transform: translate(435px, -399px);
-    transform: translate(435px, -399px);
+    -webkit-transform: translate(31vw, -83vh);
+    transform: translate(31vw, -83vh);
   }
   100% {
-    -webkit-transform: translate(1377px, -399px);
-    transform: translate(1377px, -399px);
+    -webkit-transform: translate(3vw, -22vh);
+    transform: translate(3vw, -22vh);
   }
 }
 @keyframes borboletas-pos-loop-10 {
   0% {
-    -moz-transform: translate(98px, -153px);
-    -ms-transform: translate(98px, -153px);
-    -webkit-transform: translate(98px, -153px);
-    transform: translate(98px, -153px);
+    -moz-transform: translate(81vw, -6vh);
+    -ms-transform: translate(81vw, -6vh);
+    -webkit-transform: translate(81vw, -6vh);
+    transform: translate(81vw, -6vh);
   }
   11% {
-    -moz-transform: translate(1081px, -190px);
-    -ms-transform: translate(1081px, -190px);
-    -webkit-transform: translate(1081px, -190px);
-    transform: translate(1081px, -190px);
+    -moz-transform: translate(56vw, -13vh);
+    -ms-transform: translate(56vw, -13vh);
+    -webkit-transform: translate(56vw, -13vh);
+    transform: translate(56vw, -13vh);
   }
   22% {
-    -moz-transform: translate(1px, -913px);
-    -ms-transform: translate(1px, -913px);
-    -webkit-transform: translate(1px, -913px);
-    transform: translate(1px, -913px);
+    -moz-transform: translate(81vw, -82vh);
+    -ms-transform: translate(81vw, -82vh);
+    -webkit-transform: translate(81vw, -82vh);
+    transform: translate(81vw, -82vh);
   }
   33% {
-    -moz-transform: translate(1803px, -558px);
-    -ms-transform: translate(1803px, -558px);
-    -webkit-transform: translate(1803px, -558px);
-    transform: translate(1803px, -558px);
+    -moz-transform: translate(13vw, -47vh);
+    -ms-transform: translate(13vw, -47vh);
+    -webkit-transform: translate(13vw, -47vh);
+    transform: translate(13vw, -47vh);
   }
   44% {
-    -moz-transform: translate(406px, -208px);
-    -ms-transform: translate(406px, -208px);
-    -webkit-transform: translate(406px, -208px);
-    transform: translate(406px, -208px);
+    -moz-transform: translate(50vw, -27vh);
+    -ms-transform: translate(50vw, -27vh);
+    -webkit-transform: translate(50vw, -27vh);
+    transform: translate(50vw, -27vh);
   }
   55% {
-    -moz-transform: translate(32px, -635px);
-    -ms-transform: translate(32px, -635px);
-    -webkit-transform: translate(32px, -635px);
-    transform: translate(32px, -635px);
+    -moz-transform: translate(82vw, -27vh);
+    -ms-transform: translate(82vw, -27vh);
+    -webkit-transform: translate(82vw, -27vh);
+    transform: translate(82vw, -27vh);
   }
   66% {
-    -moz-transform: translate(703px, -957px);
-    -ms-transform: translate(703px, -957px);
-    -webkit-transform: translate(703px, -957px);
-    transform: translate(703px, -957px);
+    -moz-transform: translate(99vw, -92vh);
+    -ms-transform: translate(99vw, -92vh);
+    -webkit-transform: translate(99vw, -92vh);
+    transform: translate(99vw, -92vh);
   }
   77% {
-    -moz-transform: translate(1562px, -716px);
-    -ms-transform: translate(1562px, -716px);
-    -webkit-transform: translate(1562px, -716px);
-    transform: translate(1562px, -716px);
+    -moz-transform: translate(77vw, -94vh);
+    -ms-transform: translate(77vw, -94vh);
+    -webkit-transform: translate(77vw, -94vh);
+    transform: translate(77vw, -94vh);
   }
   88% {
-    -moz-transform: translate(1083px, -774px);
-    -ms-transform: translate(1083px, -774px);
-    -webkit-transform: translate(1083px, -774px);
-    transform: translate(1083px, -774px);
+    -moz-transform: translate(37vw, -49vh);
+    -ms-transform: translate(37vw, -49vh);
+    -webkit-transform: translate(37vw, -49vh);
+    transform: translate(37vw, -49vh);
   }
   100% {
-    -moz-transform: translate(1670px, -681px);
-    -ms-transform: translate(1670px, -681px);
-    -webkit-transform: translate(1670px, -681px);
-    transform: translate(1670px, -681px);
+    -moz-transform: translate(51vw, -30vh);
+    -ms-transform: translate(51vw, -30vh);
+    -webkit-transform: translate(51vw, -30vh);
+    transform: translate(51vw, -30vh);
   }
 }
 @-moz-keyframes borboletas-pos-loop-10 {
   0% {
-    -moz-transform: translate(183px, -282px);
-    transform: translate(183px, -282px);
+    -moz-transform: translate(65vw, -71vh);
+    transform: translate(65vw, -71vh);
   }
   11% {
-    -moz-transform: translate(250px, -735px);
-    transform: translate(250px, -735px);
+    -moz-transform: translate(19vw, -23vh);
+    transform: translate(19vw, -23vh);
   }
   22% {
-    -moz-transform: translate(1816px, -318px);
-    transform: translate(1816px, -318px);
+    -moz-transform: translate(75vw, -31vh);
+    transform: translate(75vw, -31vh);
   }
   33% {
-    -moz-transform: translate(799px, -1031px);
-    transform: translate(799px, -1031px);
+    -moz-transform: translate(77vw, -21vh);
+    transform: translate(77vw, -21vh);
   }
   44% {
-    -moz-transform: translate(1621px, -548px);
-    transform: translate(1621px, -548px);
+    -moz-transform: translate(20vw, -89vh);
+    transform: translate(20vw, -89vh);
   }
   55% {
-    -moz-transform: translate(1762px, -595px);
-    transform: translate(1762px, -595px);
+    -moz-transform: translate(87vw, -81vh);
+    transform: translate(87vw, -81vh);
   }
   66% {
-    -moz-transform: translate(906px, -9px);
-    transform: translate(906px, -9px);
+    -moz-transform: translate(59vw, -41vh);
+    transform: translate(59vw, -41vh);
   }
   77% {
-    -moz-transform: translate(503px, -791px);
-    transform: translate(503px, -791px);
+    -moz-transform: translate(76vw, -20vh);
+    transform: translate(76vw, -20vh);
   }
   88% {
-    -moz-transform: translate(1820px, -1048px);
-    transform: translate(1820px, -1048px);
+    -moz-transform: translate(5vw, -17vh);
+    transform: translate(5vw, -17vh);
   }
   100% {
-    -moz-transform: translate(1079px, -586px);
-    transform: translate(1079px, -586px);
+    -moz-transform: translate(49vw, -69vh);
+    transform: translate(49vw, -69vh);
   }
 }
 @-webkit-keyframes borboletas-pos-loop-10 {
   0% {
-    -webkit-transform: translate(237px, -516px);
-    transform: translate(237px, -516px);
+    -webkit-transform: translate(10vw, -28vh);
+    transform: translate(10vw, -28vh);
   }
   11% {
-    -webkit-transform: translate(739px, -594px);
-    transform: translate(739px, -594px);
+    -webkit-transform: translate(42vw, -43vh);
+    transform: translate(42vw, -43vh);
   }
   22% {
-    -webkit-transform: translate(269px, -1006px);
-    transform: translate(269px, -1006px);
+    -webkit-transform: translate(42vw, -23vh);
+    transform: translate(42vw, -23vh);
   }
   33% {
-    -webkit-transform: translate(138px, -817px);
-    transform: translate(138px, -817px);
+    -webkit-transform: translate(3vw, -79vh);
+    transform: translate(3vw, -79vh);
   }
   44% {
-    -webkit-transform: translate(69px, -264px);
-    transform: translate(69px, -264px);
+    -webkit-transform: translate(73vw, -35vh);
+    transform: translate(73vw, -35vh);
   }
   55% {
-    -webkit-transform: translate(1194px, -698px);
-    transform: translate(1194px, -698px);
+    -webkit-transform: translate(19vw, -57vh);
+    transform: translate(19vw, -57vh);
   }
   66% {
-    -webkit-transform: translate(312px, -210px);
-    transform: translate(312px, -210px);
+    -webkit-transform: translate(14vw, -3vh);
+    transform: translate(14vw, -3vh);
   }
   77% {
-    -webkit-transform: translate(1667px, -339px);
-    transform: translate(1667px, -339px);
+    -webkit-transform: translate(45vw, -96vh);
+    transform: translate(45vw, -96vh);
   }
   88% {
-    -webkit-transform: translate(512px, -958px);
-    transform: translate(512px, -958px);
+    -webkit-transform: translate(74vw, -48vh);
+    transform: translate(74vw, -48vh);
   }
   100% {
-    -webkit-transform: translate(1181px, -833px);
-    transform: translate(1181px, -833px);
+    -webkit-transform: translate(38vw, -19vh);
+    transform: translate(38vw, -19vh);
   }
 }
 @keyframes borboletas-pos-loop-10 {
   0% {
-    -moz-transform: translate(1913px, -962px);
-    -ms-transform: translate(1913px, -962px);
-    -webkit-transform: translate(1913px, -962px);
-    transform: translate(1913px, -962px);
+    -moz-transform: translate(53vw, -10vh);
+    -ms-transform: translate(53vw, -10vh);
+    -webkit-transform: translate(53vw, -10vh);
+    transform: translate(53vw, -10vh);
   }
   11% {
-    -moz-transform: translate(1821px, -802px);
-    -ms-transform: translate(1821px, -802px);
-    -webkit-transform: translate(1821px, -802px);
-    transform: translate(1821px, -802px);
+    -moz-transform: translate(76vw, -89vh);
+    -ms-transform: translate(76vw, -89vh);
+    -webkit-transform: translate(76vw, -89vh);
+    transform: translate(76vw, -89vh);
   }
   22% {
-    -moz-transform: translate(1028px, -360px);
-    -ms-transform: translate(1028px, -360px);
-    -webkit-transform: translate(1028px, -360px);
-    transform: translate(1028px, -360px);
+    -moz-transform: translate(70vw, -48vh);
+    -ms-transform: translate(70vw, -48vh);
+    -webkit-transform: translate(70vw, -48vh);
+    transform: translate(70vw, -48vh);
   }
   33% {
-    -moz-transform: translate(632px, -534px);
-    -ms-transform: translate(632px, -534px);
-    -webkit-transform: translate(632px, -534px);
-    transform: translate(632px, -534px);
+    -moz-transform: translate(59vw, -45vh);
+    -ms-transform: translate(59vw, -45vh);
+    -webkit-transform: translate(59vw, -45vh);
+    transform: translate(59vw, -45vh);
   }
   44% {
-    -moz-transform: translate(1406px, -860px);
-    -ms-transform: translate(1406px, -860px);
-    -webkit-transform: translate(1406px, -860px);
-    transform: translate(1406px, -860px);
+    -moz-transform: translate(72vw, -35vh);
+    -ms-transform: translate(72vw, -35vh);
+    -webkit-transform: translate(72vw, -35vh);
+    transform: translate(72vw, -35vh);
   }
   55% {
-    -moz-transform: translate(1623px, -714px);
-    -ms-transform: translate(1623px, -714px);
-    -webkit-transform: translate(1623px, -714px);
-    transform: translate(1623px, -714px);
+    -moz-transform: translate(36vw, -95vh);
+    -ms-transform: translate(36vw, -95vh);
+    -webkit-transform: translate(36vw, -95vh);
+    transform: translate(36vw, -95vh);
   }
   66% {
-    -moz-transform: translate(1246px, -601px);
-    -ms-transform: translate(1246px, -601px);
-    -webkit-transform: translate(1246px, -601px);
-    transform: translate(1246px, -601px);
+    -moz-transform: translate(7vw, -30vh);
+    -ms-transform: translate(7vw, -30vh);
+    -webkit-transform: translate(7vw, -30vh);
+    transform: translate(7vw, -30vh);
   }
   77% {
-    -moz-transform: translate(1505px, -591px);
-    -ms-transform: translate(1505px, -591px);
-    -webkit-transform: translate(1505px, -591px);
-    transform: translate(1505px, -591px);
+    -moz-transform: translate(72vw, -17vh);
+    -ms-transform: translate(72vw, -17vh);
+    -webkit-transform: translate(72vw, -17vh);
+    transform: translate(72vw, -17vh);
   }
   88% {
-    -moz-transform: translate(151px, -248px);
-    -ms-transform: translate(151px, -248px);
-    -webkit-transform: translate(151px, -248px);
-    transform: translate(151px, -248px);
+    -moz-transform: translate(2vw, -17vh);
+    -ms-transform: translate(2vw, -17vh);
+    -webkit-transform: translate(2vw, -17vh);
+    transform: translate(2vw, -17vh);
   }
   100% {
-    -moz-transform: translate(893px, -300px);
-    -ms-transform: translate(893px, -300px);
-    -webkit-transform: translate(893px, -300px);
-    transform: translate(893px, -300px);
+    -moz-transform: translate(77vw, -51vh);
+    -ms-transform: translate(77vw, -51vh);
+    -webkit-transform: translate(77vw, -51vh);
+    transform: translate(77vw, -51vh);
   }
 }
-/* line 37, ../sass/butterfly.scss */
+/* line 36, ../sass/butterfly.scss */
 .borboletas-10 {
   position: absolute;
   left: 0px;
   bottom: 0px;
-  -moz-animation: borboletas-pos-loop-10 35s ease-in-out infinite alternate-reverse;
-  -webkit-animation: borboletas-pos-loop-10 35s ease-in-out infinite alternate-reverse;
-  animation: borboletas-pos-loop-10 35s ease-in-out infinite alternate-reverse;
+  -moz-animation: borboletas-pos-loop-10 38s ease-in-out infinite alternate-reverse;
+  -webkit-animation: borboletas-pos-loop-10 38s ease-in-out infinite alternate-reverse;
+  animation: borboletas-pos-loop-10 38s ease-in-out infinite alternate-reverse;
 }
 
-/* line 49, ../sass/butterfly.scss */
+/* line 48, ../sass/butterfly.scss */
 .borboleta-10 {
   -moz-animation: borboleta-radial-loop-10 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-10 1.2s linear infinite;
   animation: borboleta-radial-loop-10 1.2s linear infinite;
 }
 
-/* line 52, ../sass/butterfly.scss */
+/* line 51, ../sass/butterfly.scss */
 .borboleta-10 {
   -moz-animation: borboleta-radial-loop-10 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-10 1.5s linear infinite;
   animation: borboleta-radial-loop-10 1.5s linear infinite;
 }
 
-/* line 55, ../sass/butterfly.scss */
+/* line 54, ../sass/butterfly.scss */
 .borboleta-10 {
   -moz-animation: borboleta-radial-loop-10 1.2s linear infinite;
   -webkit-animation: borboleta-radial-loop-10 1.2s linear infinite;
   animation: borboleta-radial-loop-10 1.2s linear infinite;
 }
 
-/* line 58, ../sass/butterfly.scss */
+/* line 57, ../sass/butterfly.scss */
 .borboleta-10 {
   -moz-animation: borboleta-radial-loop-10 1.5s linear infinite;
   -webkit-animation: borboleta-radial-loop-10 1.5s linear infinite;
   animation: borboleta-radial-loop-10 1.5s linear infinite;
 }
 
-/* line 65, ../sass/butterfly.scss */
+/* line 64, ../sass/butterfly.scss */
 .borboleta-gfx-10 {
   position: absolute;
   top: 0;
@@ -4452,7 +4457,7 @@
   height: 40px;
 }
 
-/* line 73, ../sass/butterfly.scss */
+/* line 72, ../sass/butterfly.scss */
 .borboleta-gfx-10 {
   position: absolute;
   top: 0;
@@ -4461,28 +4466,28 @@
   height: 40px;
 }
 
-/* line 82, ../sass/butterfly.scss */
+/* line 81, ../sass/butterfly.scss */
 .borboleta-10 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 85, ../sass/butterfly.scss */
+/* line 84, ../sass/butterfly.scss */
 .borboleta-10 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.2s linear infinite;
   animation: borboleta-gfx-upright-loop 1.2s linear infinite;
 }
 
-/* line 88, ../sass/butterfly.scss */
+/* line 87, ../sass/butterfly.scss */
 .borboleta-10 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   animation: borboleta-gfx-upright-loop 1.5s linear infinite;
 }
 
-/* line 91, ../sass/butterfly.scss */
+/* line 90, ../sass/butterfly.scss */
 .borboleta-10 .borboleta-gfx {
   -moz-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
   -webkit-animation: borboleta-gfx-upright-loop 1.5s linear infinite;
@@ -4557,7 +4562,7 @@
     transform: scale(0.7, -1) rotate(-40deg);
   }
 }
-/* line 105, ../sass/butterfly.scss */
+/* line 104, ../sass/butterfly.scss */
 .borboleta-anim-10 {
   background: radial-gradient(closest-side at 50% 50%, #0c6c6e 50%, rgba(255, 255, 255, 0) 50%), radial-gradient(closest-side at 50% 50%, #0c6c6e 50%, rgba(255, 255, 255, 0) 50%);
   background-repeat: no-repeat;
