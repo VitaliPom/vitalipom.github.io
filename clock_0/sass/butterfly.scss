@@ -1,0 +1,117 @@
+@import "compass/css3";
+
+
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+$colors: #b004f9, #6547ff, #eeaa11, #a4c885, #4892dd, #546c85, #fc72b0, #fca1ac, #fdd5d4, #0c6c6e;
+
+@for $i from 1 to 11{ 
+@include keyframes(borboletas-pos-loop-#{$i}){
+	
+	0%   {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	11%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	22%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	33%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	44%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	55%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	66%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	77%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	88%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	100% {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+}
+
+@include keyframes(borboletas-pos-loop-#{$i}){
+	
+	0%   {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	11%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	22%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	33%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	44%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	55%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	66%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	77%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	88%  {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+	100% {@include transform(translate((random(1920)+px),-(random(1080)+px) ));}
+}
+
+.borboletas-#{$i}{
+	position:absolute;
+	left:0px;
+	bottom:0px;
+	@include animation(borboletas-pos-loop-#{$i} ((random(13)+25)+s) ease-in-out infinite alternate-reverse);
+}
+
+
+
+$borboleta-1-radial:1.2s;
+$borboleta-2-radial:1.5s;
+
+.borboleta-#{$i}{
+	@include animation(borboleta-radial-loop-#{$i} $borboleta-1-radial linear infinite);
+}
+.borboleta-#{$i}{
+	@include animation(borboleta-radial-loop-#{$i} $borboleta-2-radial linear infinite);
+}
+.borboleta-#{$i}{
+	@include animation(borboleta-radial-loop-#{$i} $borboleta-1-radial linear infinite);
+}
+.borboleta-#{$i}{
+	@include animation(borboleta-radial-loop-#{$i} $borboleta-2-radial linear infinite);
+}
+
+
+
+
+.borboleta-gfx-#{$i}{
+	position:absolute;
+	top:0;
+	left:0;
+	// color:red;
+	width: 55px;
+	height: 40px;
+}
+.borboleta-gfx-#{$i}{
+	position:absolute;
+	top:0;
+	left:0;
+	// color:red;
+	width: 55px;
+	height: 40px;
+}
+
+.borboleta-#{$i} .borboleta-gfx{
+	@include animation(borboleta-gfx-upright-loop $borboleta-1-radial linear infinite);
+}
+.borboleta-#{$i} .borboleta-gfx{
+	@include animation(borboleta-gfx-upright-loop $borboleta-1-radial linear infinite);
+}
+.borboleta-#{$i} .borboleta-gfx{
+	@include animation(borboleta-gfx-upright-loop $borboleta-2-radial linear infinite);
+}
+.borboleta-#{$i} .borboleta-gfx{
+	@include animation(borboleta-gfx-upright-loop $borboleta-2-radial linear infinite);
+}
+@include keyframes(borboleta-anim-loop-#{$i}){
+	0% 	 {@include transform(scale(1,1.2) rotate(40deg));}
+	100% {@include transform(scale(0.7,-1) rotate(-40deg));}
+}
+@include keyframes(borboleta-anim-loop-#{$i}){
+	0% 	 {@include transform(scale(1,1.2) rotate(40deg));}
+	100% {@include transform(scale(0.7,-1) rotate(-40deg));}
+}
+
+
+
+.borboleta-anim-#{$i}{
+  $circle:radial-gradient(closest-side at 50% 50%, nth($colors, $i) 50%,transparentize(white,1) 50%);
+	background:$circle,$circle;
+  background-repeat:no-repeat;
+  background-size:90% 70%,100% 70%;
+  background-position:20% -40%,0 40%;
+  
+	width: 35px;
+	height:25px;
+	@include animation(borboleta-anim-loop-#{$i} 150ms ease-in-out infinite alternate-reverse);
+}
+
+}
