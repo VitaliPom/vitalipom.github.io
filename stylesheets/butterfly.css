@@ -1,9 +1,4 @@
 /* line 4, ../sass/butterfly.scss */
-html, body {
-  margin: 0;
-  height: 100%;
-  overflow: hidden;
-}
 
 @-moz-keyframes borboletas-pos-loop-1 {
   0% {
