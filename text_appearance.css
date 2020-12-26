@@ -1,0 +1,54 @@
+.font_size {
+    font-size: 1.5vh;
+}
+
+.padding{
+    padding: 0.5em 0.7em 0.5em 0.7em; 
+}
+
+.textbox{
+    display: inline-block;
+    position:absolute;
+    border-radius:25px;
+    direction: ltr;
+
+
+}
+
+.left_textbox{
+    background-color: #007aff;
+    left: 12.5%;
+    max-width: 45%;
+    color: white;
+
+}
+
+.right_textbox{
+    max-width: 45%;
+    right:8%;
+
+    -webkit-box-shadow: 0px 0px 0.1px 0.75px rgba(143,143,143,1);
+    -moz-box-shadow: 0px 0px 0.1px 0.75px rgba(143,143,143,1);
+    box-shadow: 0px 0px 0.1px 0.75px rgba(143,143,143,1);
+
+
+}
+
+#underline_image2 { 
+    top:50%;
+    top:65vh;
+}
+
+#underline_image3 { 
+    top:70vh;
+
+}
+
+#underline_image4 { 
+    top:75vh;
+}
+
+#underline_image5 { 	
+    top:80vh;
+}
+
