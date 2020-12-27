@@ -30,7 +30,9 @@
     margin: 0 0 0 0;
     height: 100vh;
     position: absolute;
-    z-index: 2;
+    z-index: 3;
+    top: 0;
+    left: 0;
 }
 
 #underline_image{
@@ -38,4 +40,25 @@
     margin: 0 0 0 0;
     height: 100vh;
 
+}
+
+#chat_text{
+    overflow-y: scroll;
+    height: 78.2vh;
+    width: 92%;
+    left: 4%;
+    top: 10.8vh;
+    position: absolute;
+    z-index: 2;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+#chat_text::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+#chat_text {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
 }
