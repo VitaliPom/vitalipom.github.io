@@ -9,8 +9,7 @@
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=1 );
     background-repeat: no-repeat;
     display: inline-block;
-    width: 100vw;
-    height: 100vh;
+    background-size: cover;
     margin: 0;
 }
 
