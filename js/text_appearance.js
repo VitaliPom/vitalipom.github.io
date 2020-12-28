@@ -1,4 +1,4 @@
-toptext = 65;
+toptext = 100;
 modulu2 = 0
 wasVisible = false; 
 elIndex = 1;
