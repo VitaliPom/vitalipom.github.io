@@ -61,11 +61,18 @@
 
 /* Hide scrollbar for Chrome, Safari and Opera */
 #chat_text::-webkit-scrollbar {
-  display: none;
+    display: none;
 }
 
 /* Hide scrollbar for IE, Edge and Firefox */
 #chat_text {
-  -ms-overflow-style: none;  /* IE and Edge */
-  scrollbar-width: none;  /* Firefox */
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.indexedChar{
+    position: absolute;
+    font-size: 20vh;
+    top: 30%;
+    left: 40%;
 }

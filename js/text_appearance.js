@@ -37,22 +37,55 @@ async function addTextBox(text){
     
 }
 
-var speed = 50;
+var speed = 200;
 
 async function typeWriter(text, index) {
     var i = 0;
 
     while (i < text.length) {
         var el = $("#textIndex"+index)[0];
-        el.innerHTML += text.charAt(i);
+        var char_ = text.charAt(i);
+        el.innerHTML += char_;
         i++;
         updateScroll(); 
-               
+        animateChar(char_); 
         await sleep(speed);
     }
 }
 
+var char_index = 1;
+var colors = ["#ff595e", "#ffca3a", "#8ac926", "#1982c4", "#6a4c93"];
+var colors_i = 0;
 
+async function animateChar(char_){
+    if (char_index > 1000){
+        char_index = 1;
+    }
+    $("#phone_image").append('<div id="indexedChar'+char_index+'" class="indexedChar">'+char_+'</div>'); 
+    var char_jobj = $("#indexedChar"+char_index);
+    char_jobj.css("color", colors[colors_i]);
+    
+    asyncCharAnimation(char_jobj);
+    colors_i++;
+    colors_i = colors_i % colors.length;
+
+     
+
+    char_index++;
+    
+}
+
+
+async function asyncCharAnimation(el){
+    el.animate({
+        opacity: "0",
+        top: (Math.random()*100)+"%",
+        left: (Math.random()*100)+"%",
+        fontSize: "0" 
+    }, 1000, "linear" ,function(){
+        el.remove();
+    } );
+}
 
 async function updateScroll(){
     var element = document.getElementById("chat_text");
