@@ -73,13 +73,16 @@ function isElementInViewport (el) {
 
     var rect = el.getBoundingClientRect();
 
+
+
     return (
         rect.top >= 0 &&
         rect.left >= 0 &&
-        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && /* or $(window).height() */
+        rect.top + ((rect.bottom-rect.top)/2) <= (window.innerHeight || document.documentElement.clientHeight) && /* or $(window).height() */
         rect.right <= (window.innerWidth || document.documentElement.clientWidth) /* or $(window).width() */
     );
-}
+    }
+
 function onVisibilityChange(el, callback) {
     return function () {
         var visible = isElementInViewport(el);
