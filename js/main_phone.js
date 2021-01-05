@@ -28,4 +28,6 @@ function alignPhoneImages() {
 function setPhoneHeight(){
     $('#top_image').css({ height: window.innerHeight });
     $('#underline_image').css({ height: window.innerHeight });
+    $('#phone_image').css({ height: window.innerHeight });
+    
 }
