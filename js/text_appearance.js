@@ -24,9 +24,9 @@ async function animate(){
 
 async function addTextBox(text){
     if(modulu2 % 2 == 1){
-        $('#chat_text').append('<div id="textIndex'+elIndex+'" style="'+'top:'+toptext+'vh'+';'+'" class="font_size padding textbox left_textbox"></div>');
+        $('#chat_text').append('<div id="textIndex'+elIndex+'" style="'+'top:'+toptext+'%'+';'+'" class="font_size padding textbox left_textbox"></div>');
     }else{
-        $('#chat_text').append('<div id="textIndex'+elIndex+'" style=";'+'top:'+toptext+'vh'+';'+'" class="font_size padding textbox right_textbox"></div>');
+        $('#chat_text').append('<div id="textIndex'+elIndex+'" style=";'+'top:'+toptext+'%'+';'+'" class="font_size padding textbox right_textbox"></div>');
     }
     await typeWriter(text, elIndex);
 
